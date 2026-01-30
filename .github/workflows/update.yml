@@ -1,0 +1,33 @@
+name: Update Automation Gallery
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run aggregator
+        run: node scripts/aggregate.mjs
+      
+      - name: Commit changes
+        run: |
+          git config user.name "Automation Gallery Bot"
+          git config user.email "bot@automation-gallery.local"
+          git add SKILL.md automations.json
+          git diff --staged --quiet || git commit -m "🔄 Update gallery $(date -u +%Y-%m-%d)"
+          git push

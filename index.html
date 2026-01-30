@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Automation Gallery - Moltbot/OpenClaw Skills</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --fg: #e6edf3;
+      --accent: #58a6ff;
+      --card-bg: #161b22;
+      --border: #30363d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      margin: 0;
+      padding: 2rem;
+      line-height: 1.6;
+    }
+    .container { max-width: 1000px; margin: 0 auto; }
+    h1 { color: var(--accent); margin-bottom: 0.5rem; }
+    .subtitle { color: #8b949e; margin-bottom: 2rem; }
+    .search {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      font-size: 1rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--fg);
+      margin-bottom: 1.5rem;
+    }
+    .search:focus { outline: none; border-color: var(--accent); }
+    .stats { color: #8b949e; margin-bottom: 1rem; font-size: 0.9rem; }
+    .categories { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+    .cat-btn {
+      padding: 0.4rem 0.8rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      color: var(--fg);
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    .cat-btn:hover, .cat-btn.active { border-color: var(--accent); color: var(--accent); }
+    .skills { display: grid; gap: 1rem; }
+    .skill {
+      padding: 1rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .skill-name { font-weight: 600; color: var(--accent); }
+    .skill-desc { color: #8b949e; font-size: 0.9rem; margin-top: 0.25rem; }
+    .skill-meta { font-size: 0.8rem; color: #6e7681; margin-top: 0.5rem; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🦞 Automation Gallery</h1>
+    <p class="subtitle">Discover what you can build with Moltbot/OpenClaw</p>
+    
+    <input type="text" class="search" id="search" placeholder="Search automations...">
+    
+    <div class="stats" id="stats">Loading...</div>
+    <div class="categories" id="categories"></div>
+    <div class="skills" id="skills"></div>
+  </div>
+
+  <script>
+    let allSkills = [];
+    let activeCategory = null;
+
+    async function load() {
+      const res = await fetch('automations.json');
+      const data = await res.json();
+      allSkills = data.skills;
+      document.getElementById('stats').textContent = `${data.count} automations • Updated ${new Date(data.generated).toLocaleDateString()}`;
+      
+      const cats = [...new Set(allSkills.map(s => s.category))].sort();
+      const catHtml = cats.map(c => {
+        const count = allSkills.filter(s => s.category === c).length;
+        return `<button class="cat-btn" data-cat="${c}">${c} (${count})</button>`;
+      }).join('');
+      document.getElementById('categories').innerHTML = catHtml;
+      
+      render();
+    }
+
+    function render() {
+      const query = document.getElementById('search').value.toLowerCase();
+      let filtered = allSkills;
+      
+      if (activeCategory) {
+        filtered = filtered.filter(s => s.category === activeCategory);
+      }
+      if (query) {
+        filtered = filtered.filter(s => 
+          s.name.toLowerCase().includes(query) || 
+          (s.description && s.description.toLowerCase().includes(query)) ||
+          s.category.toLowerCase().includes(query)
+        );
+      }
+      
+      const html = filtered.slice(0, 100).map(s => `
+        <div class="skill">
+          <div class="skill-name">${s.url ? `<a href="${s.url}" target="_blank">${s.name}</a>` : s.name}</div>
+          ${s.description ? `<div class="skill-desc">${s.description}</div>` : ''}
+          <div class="skill-meta">${s.category} • ${s.source}</div>
+        </div>
+      `).join('');
+      
+      document.getElementById('skills').innerHTML = html || '<p>No automations found</p>';
+    }
+
+    document.getElementById('search').addEventListener('input', render);
+    document.getElementById('categories').addEventListener('click', e => {
+      if (e.target.classList.contains('cat-btn')) {
+        const cat = e.target.dataset.cat;
+        activeCategory = activeCategory === cat ? null : cat;
+        document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+        if (activeCategory) e.target.classList.add('active');
+        render();
+      }
+    });
+
+    load();
+  </script>
+</body>
+</html>
