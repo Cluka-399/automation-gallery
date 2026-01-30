@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>What Can Your AI Do? - Moltbot/OpenClaw Automations</title>
+  <title>What Can Your AI Do? - Moltbot/OpenClaw</title>
   <style>
     :root {
       --bg: #0d1117;
@@ -12,6 +12,7 @@
       --card-bg: #161b22;
       --border: #30363d;
       --hover: #1f2937;
+      --green: #3fb950;
     }
     * { box-sizing: border-box; }
     body {
@@ -19,60 +20,116 @@
       background: var(--bg);
       color: var(--fg);
       margin: 0;
-      padding: 2rem;
+      padding: 1.5rem;
       line-height: 1.6;
     }
     .container { max-width: 900px; margin: 0 auto; }
-    h1 { color: var(--accent); margin-bottom: 0.25rem; font-size: 1.75rem; }
-    .subtitle { color: #8b949e; margin-bottom: 1.5rem; font-size: 1rem; }
+    h1 { color: var(--fg); margin-bottom: 0.25rem; font-size: 1.5rem; }
+    h1 span { color: var(--accent); }
+    .subtitle { color: #8b949e; margin-bottom: 1.25rem; font-size: 0.95rem; }
+    
+    /* Tabs */
+    .tabs { display: flex; gap: 0; margin-bottom: 1.25rem; border-bottom: 1px solid var(--border); }
+    .tab {
+      padding: 0.75rem 1.25rem;
+      background: none;
+      border: none;
+      color: #8b949e;
+      cursor: pointer;
+      font-size: 0.95rem;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+    }
+    .tab:hover { color: var(--fg); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab-count { 
+      background: var(--border); 
+      padding: 0.15rem 0.5rem; 
+      border-radius: 10px; 
+      font-size: 0.75rem; 
+      margin-left: 0.5rem;
+    }
+    
     .search {
       width: 100%;
-      padding: 0.875rem 1rem;
-      font-size: 1rem;
+      padding: 0.75rem 1rem;
+      font-size: 0.95rem;
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 10px;
+      border-radius: 8px;
       color: var(--fg);
       margin-bottom: 1rem;
     }
     .search:focus { outline: none; border-color: var(--accent); }
     .search::placeholder { color: #6e7681; }
-    .stats { color: #8b949e; margin-bottom: 1rem; font-size: 0.85rem; }
-    .categories { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
-    .cat-btn {
-      padding: 0.35rem 0.7rem;
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      color: #8b949e;
-      cursor: pointer;
-      font-size: 0.8rem;
-      transition: all 0.15s;
-    }
-    .cat-btn:hover { border-color: var(--accent); color: var(--fg); }
-    .cat-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(88,166,255,0.1); }
-    .skills { display: grid; gap: 0.75rem; }
-    .skill {
-      padding: 1rem;
+    
+    /* Automations */
+    .automations { display: grid; gap: 0.75rem; }
+    .automation {
+      padding: 1rem 1.25rem;
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 10px;
       cursor: pointer;
       transition: all 0.15s;
     }
-    .skill:hover { border-color: var(--accent); background: var(--hover); }
-    .skill-name { font-weight: 600; color: var(--fg); margin-bottom: 0.25rem; }
-    .skill-desc { color: #8b949e; font-size: 0.9rem; }
-    .skill-meta { font-size: 0.75rem; color: #6e7681; margin-top: 0.5rem; }
+    .automation:hover { border-color: var(--accent); background: var(--hover); }
+    .automation-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.35rem; }
+    .automation-icon { font-size: 1.25rem; }
+    .automation-name { font-weight: 600; color: var(--fg); }
+    .automation-desc { color: #8b949e; font-size: 0.9rem; }
+    .automation-meta { 
+      display: flex; 
+      gap: 1rem; 
+      margin-top: 0.75rem; 
+      font-size: 0.8rem; 
+      color: #6e7681; 
+    }
+    .automation-tag {
+      background: rgba(88,166,255,0.1);
+      color: var(--accent);
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+    }
+    
+    /* Skills grid */
+    .skills { display: grid; gap: 0.6rem; }
+    .skill {
+      padding: 0.875rem 1rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .skill:hover { border-color: var(--accent); }
+    .skill-name { font-weight: 500; color: var(--fg); font-size: 0.9rem; }
+    .skill-desc { color: #8b949e; font-size: 0.85rem; margin-top: 0.2rem; }
+    
+    .categories { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem; }
+    .cat-btn {
+      padding: 0.3rem 0.6rem;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      color: #8b949e;
+      cursor: pointer;
+      font-size: 0.75rem;
+    }
+    .cat-btn:hover { border-color: var(--accent); color: var(--fg); }
+    .cat-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(88,166,255,0.1); }
+    
+    .hidden { display: none; }
     
     /* Modal */
     .modal-overlay {
       display: none;
       position: fixed;
       top: 0; left: 0; right: 0; bottom: 0;
-      background: rgba(0,0,0,0.75);
+      background: rgba(0,0,0,0.8);
       z-index: 100;
-      padding: 2rem;
+      padding: 1.5rem;
       overflow-y: auto;
     }
     .modal-overlay.active { display: flex; justify-content: center; align-items: flex-start; }
@@ -80,10 +137,10 @@
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 12px;
-      max-width: 600px;
+      max-width: 650px;
       width: 100%;
       padding: 1.5rem;
-      margin-top: 3rem;
+      margin-top: 2rem;
     }
     .modal-close {
       float: right;
@@ -92,46 +149,28 @@
       color: #8b949e;
       font-size: 1.5rem;
       cursor: pointer;
-      padding: 0;
-      line-height: 1;
     }
     .modal-close:hover { color: var(--fg); }
-    .modal h2 { margin: 0 0 0.5rem 0; color: var(--accent); font-size: 1.25rem; }
-    .modal-desc { color: #8b949e; margin-bottom: 1.25rem; }
+    .modal h2 { margin: 0 0 0.5rem 0; color: var(--fg); font-size: 1.2rem; }
+    .modal-desc { color: #8b949e; margin-bottom: 1rem; line-height: 1.5; }
     .modal-section { margin-bottom: 1.25rem; }
-    .modal-section h3 { font-size: 0.85rem; color: #6e7681; margin: 0 0 0.5rem 0; text-transform: uppercase; letter-spacing: 0.05em; }
-    .prompt-box {
+    .modal-section h3 { 
+      font-size: 0.8rem; 
+      color: #6e7681; 
+      margin: 0 0 0.5rem 0; 
+      text-transform: uppercase; 
+      letter-spacing: 0.05em; 
+    }
+    .code-block {
       background: var(--bg);
       border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 0.75rem 1rem;
-      font-family: inherit;
-      color: var(--fg);
-      position: relative;
-    }
-    .prompt-box code { color: var(--accent); }
-    .copy-btn {
-      position: absolute;
-      top: 0.5rem;
-      right: 0.5rem;
-      background: var(--border);
-      border: none;
-      border-radius: 4px;
-      color: var(--fg);
-      padding: 0.25rem 0.5rem;
-      font-size: 0.75rem;
-      cursor: pointer;
-    }
-    .copy-btn:hover { background: var(--accent); }
-    .install-cmd {
-      background: var(--bg);
-      border: 1px solid var(--border);
-      border-radius: 8px;
+      border-radius: 6px;
       padding: 0.75rem 1rem;
       font-family: 'SF Mono', Monaco, monospace;
       font-size: 0.85rem;
       color: #7ee787;
       overflow-x: auto;
+      white-space: pre-wrap;
     }
     .modal-link {
       display: inline-block;
@@ -142,143 +181,244 @@
     .modal-link:hover { text-decoration: underline; }
     
     a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>🦞 What Can Your AI Do?</h1>
-    <p class="subtitle">Discover automations for your Moltbot / OpenClaw assistant</p>
+    <h1>🦞 What Can Your <span>AI</span> Do?</h1>
+    <p class="subtitle">Automations and skills for Moltbot / OpenClaw</p>
     
-    <input type="text" class="search" id="search" placeholder="Search: email, calendar, smart home, coding...">
+    <div class="tabs">
+      <button class="tab active" data-tab="automations">
+        Automations<span class="tab-count" id="auto-count">5</span>
+      </button>
+      <button class="tab" data-tab="skills">
+        Skills<span class="tab-count" id="skill-count">0</span>
+      </button>
+    </div>
     
-    <div class="stats" id="stats">Loading...</div>
-    <div class="categories" id="categories"></div>
-    <div class="skills" id="skills"></div>
+    <!-- Automations Tab -->
+    <div id="automations-tab">
+      <input type="text" class="search" id="auto-search" placeholder="Search automations...">
+      <div class="automations" id="automations-list"></div>
+    </div>
+    
+    <!-- Skills Tab -->
+    <div id="skills-tab" class="hidden">
+      <input type="text" class="search" id="skill-search" placeholder="Search skills...">
+      <div class="categories" id="categories"></div>
+      <div class="skills" id="skills-list"></div>
+    </div>
   </div>
 
+  <!-- Modal -->
   <div class="modal-overlay" id="modal" onclick="closeModal(event)">
     <div class="modal" onclick="event.stopPropagation()">
       <button class="modal-close" onclick="closeModal()">&times;</button>
-      <h2 id="modal-title">Skill Name</h2>
+      <h2 id="modal-title">Title</h2>
       <p class="modal-desc" id="modal-desc">Description</p>
-      
-      <div class="modal-section">
-        <h3>💬 Try asking your assistant</h3>
-        <div class="prompt-box" id="modal-prompt">
-          <button class="copy-btn" onclick="copyPrompt()">Copy</button>
-          <span id="prompt-text"></span>
-        </div>
-      </div>
-      
-      <div class="modal-section">
-        <h3>📦 Install</h3>
-        <div class="install-cmd" id="modal-install">npx molthub install skill-name</div>
-      </div>
-      
-      <div class="modal-section" id="modal-link-section">
-        <a class="modal-link" id="modal-link" href="#" target="_blank">View on GitHub →</a>
-      </div>
+      <div id="modal-content"></div>
     </div>
   </div>
 
   <script>
+    // Automations data
+    const automations = [
+      {
+        icon: '📊',
+        name: 'Prediction Market Tracker',
+        desc: 'Monitor any Polymarket topic. Get alerts with charts when probabilities shift significantly.',
+        category: 'Monitoring',
+        trigger: 'Every 30 min',
+        skills: ['polymarket', 'chart-image', 'search-x'],
+        file: 'automations/prediction-market-tracker.md'
+      },
+      {
+        icon: '☀️',
+        name: 'Morning Brief',
+        desc: 'Wake up to a personalized briefing with calendar, weather, and news on topics you care about.',
+        category: 'Daily',
+        trigger: 'Daily at 7:30am',
+        skills: ['calendar', 'weather', 'search-x'],
+        file: 'automations/morning-brief.md'
+      },
+      {
+        icon: '🔍',
+        name: 'Competitor Intelligence',
+        desc: 'Track competitors on X/Twitter. Deduplicated summaries so you never see the same news twice.',
+        category: 'Monitoring',
+        trigger: '3x daily',
+        skills: ['search-x', 'sqlite'],
+        file: 'automations/competitor-intel.md'
+      },
+      {
+        icon: '📧',
+        name: 'Email Triage',
+        desc: 'Periodically check inbox, summarize important messages, alert only when needed.',
+        category: 'Communication',
+        trigger: 'Every 15 min',
+        skills: ['agentmail', 'apple-mail'],
+        file: 'automations/email-triage.md'
+      },
+      {
+        icon: '🌙',
+        name: 'End of Day Review',
+        desc: 'Daily reflection: what got done, what you learned, what\'s tomorrow. Builds self-improvement habits.',
+        category: 'Daily',
+        trigger: 'Daily at 11pm',
+        skills: ['calendar', 'memory'],
+        file: 'automations/end-of-day.md'
+      },
+      {
+        icon: '🎂',
+        name: 'Birthday Countdown',
+        desc: 'Daily reminders counting down to important birthdays. Never forget again.',
+        category: 'Communication',
+        trigger: 'Daily',
+        skills: ['cron', 'telegram'],
+        file: 'automations/birthday-countdown.md'
+      },
+      {
+        icon: '👨‍👩‍👧‍👦',
+        name: 'Family Calendar Sync',
+        desc: 'Send daily schedule to family members in their language. Keep everyone in the loop.',
+        category: 'Daily',
+        trigger: 'Daily at 7am',
+        skills: ['calendar', 'telegram'],
+        file: 'automations/family-calendar.md'
+      },
+      {
+        icon: '🔒',
+        name: 'Security Scan',
+        desc: 'Daily probe of your public endpoints. Detect accidental exposures before attackers do.',
+        category: 'Development',
+        trigger: 'Daily',
+        skills: ['curl', 'web-fetch'],
+        file: 'automations/security-scan.md'
+      }
+    ];
+
     let allSkills = [];
     let activeCategory = null;
+    let activeTab = 'automations';
 
-    async function load() {
-      const res = await fetch('automations.json');
-      const data = await res.json();
-      allSkills = data.skills;
-      document.getElementById('stats').textContent = `${data.count} automations available`;
-      
-      const cats = [...new Set(allSkills.map(s => s.category))].sort();
-      const catHtml = cats.map(c => {
-        const count = allSkills.filter(s => s.category === c).length;
-        return `<button class="cat-btn" data-cat="${c}">${c.replace(/ & /g, '/')}</button>`;
-      }).join('');
-      document.getElementById('categories').innerHTML = catHtml;
-      
-      render();
-    }
+    // Tab switching
+    document.querySelectorAll('.tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        tab.classList.add('active');
+        activeTab = tab.dataset.tab;
+        document.getElementById('automations-tab').classList.toggle('hidden', activeTab !== 'automations');
+        document.getElementById('skills-tab').classList.toggle('hidden', activeTab !== 'skills');
+      });
+    });
 
-    function render() {
-      const query = document.getElementById('search').value.toLowerCase();
-      let filtered = allSkills;
+    // Render automations
+    function renderAutomations() {
+      const query = document.getElementById('auto-search').value.toLowerCase();
+      const filtered = automations.filter(a => 
+        a.name.toLowerCase().includes(query) || 
+        a.desc.toLowerCase().includes(query) ||
+        a.category.toLowerCase().includes(query)
+      );
       
-      if (activeCategory) {
-        filtered = filtered.filter(s => s.category === activeCategory);
-      }
-      if (query) {
-        filtered = filtered.filter(s => 
-          s.name.toLowerCase().includes(query) || 
-          (s.description && s.description.toLowerCase().includes(query)) ||
-          s.category.toLowerCase().includes(query)
-        );
-      }
-      
-      const html = filtered.slice(0, 50).map((s, i) => `
-        <div class="skill" onclick='showDetail(${i}, ${JSON.stringify(query)})'>
-          <div class="skill-name">${s.name}</div>
-          ${s.description ? `<div class="skill-desc">${s.description}</div>` : ''}
-          <div class="skill-meta">${s.category}</div>
+      const html = filtered.map((a, i) => `
+        <div class="automation" onclick="showAutomation(${i})">
+          <div class="automation-header">
+            <span class="automation-icon">${a.icon}</span>
+            <span class="automation-name">${a.name}</span>
+            <span class="automation-tag">${a.category}</span>
+          </div>
+          <div class="automation-desc">${a.desc}</div>
+          <div class="automation-meta">
+            <span>⏰ ${a.trigger}</span>
+            <span>🔧 ${a.skills.slice(0,3).join(', ')}</span>
+          </div>
         </div>
       `).join('');
       
-      document.getElementById('skills').innerHTML = html || '<p style="color:#6e7681">No automations found. Try a different search.</p>';
-      
-      // Store filtered for modal
-      window.filteredSkills = filtered;
+      document.getElementById('automations-list').innerHTML = html || '<p style="color:#6e7681">No automations found.</p>';
+      document.getElementById('auto-count').textContent = automations.length;
     }
 
-    function showDetail(index, query) {
-      const s = window.filteredSkills[index];
-      if (!s) return;
+    function showAutomation(index) {
+      const a = automations[index];
+      document.getElementById('modal-title').textContent = `${a.icon} ${a.name}`;
+      document.getElementById('modal-desc').textContent = a.desc;
       
-      document.getElementById('modal-title').textContent = s.name;
-      document.getElementById('modal-desc').textContent = s.description || 'No description available';
-      
-      // Generate a natural prompt suggestion
-      const prompt = generatePrompt(s);
-      document.getElementById('prompt-text').innerHTML = prompt;
-      
-      // Install command
-      const slug = s.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-      document.getElementById('modal-install').textContent = `npx molthub install ${slug}`;
-      
-      // Link
-      if (s.url) {
-        document.getElementById('modal-link').href = s.url;
-        document.getElementById('modal-link-section').style.display = 'block';
-      } else {
-        document.getElementById('modal-link-section').style.display = 'none';
-      }
+      document.getElementById('modal-content').innerHTML = `
+        <div class="modal-section">
+          <h3>⏰ Trigger</h3>
+          <p style="color:var(--fg)">${a.trigger}</p>
+        </div>
+        <div class="modal-section">
+          <h3>🔧 Skills Used</h3>
+          <p style="color:var(--fg)">${a.skills.join(', ')}</p>
+        </div>
+        <div class="modal-section">
+          <h3>📖 Setup Guide</h3>
+          <a class="modal-link" href="${a.file}" target="_blank">View full documentation →</a>
+        </div>
+      `;
       
       document.getElementById('modal').classList.add('active');
     }
 
-    function generatePrompt(s) {
-      // Generate a natural language prompt based on the skill
-      const name = s.name.toLowerCase();
-      const desc = (s.description || '').toLowerCase();
+    // Skills
+    async function loadSkills() {
+      try {
+        const res = await fetch('automations.json');
+        const data = await res.json();
+        allSkills = data.skills;
+        document.getElementById('skill-count').textContent = data.count;
+        
+        const cats = [...new Set(allSkills.map(s => s.category))].sort();
+        document.getElementById('categories').innerHTML = cats.map(c => 
+          `<button class="cat-btn" data-cat="${c}">${c.replace(/ & /g, '/')}</button>`
+        ).join('');
+        
+        renderSkills();
+      } catch (e) {
+        console.error('Failed to load skills:', e);
+      }
+    }
+
+    function renderSkills() {
+      const query = document.getElementById('skill-search').value.toLowerCase();
+      let filtered = allSkills;
       
-      if (desc.includes('search') || desc.includes('find')) {
-        return `"Search for <code>[topic]</code> using ${s.name}"`;
-      }
-      if (desc.includes('send') || desc.includes('message')) {
-        return `"Send a message <code>[to person]</code> saying <code>[content]</code>"`;
-      }
-      if (desc.includes('create') || desc.includes('generate')) {
-        return `"Create a <code>[thing]</code> with ${s.name}"`;
-      }
-      if (desc.includes('control') || desc.includes('manage')) {
-        return `"Use ${s.name} to <code>[action]</code>"`;
-      }
-      if (desc.includes('check') || desc.includes('status')) {
-        return `"Check the status of <code>[thing]</code>"`;
-      }
-      // Default
-      return `"Help me use ${s.name} to <code>[what you want to do]</code>"`;
+      if (activeCategory) filtered = filtered.filter(s => s.category === activeCategory);
+      if (query) filtered = filtered.filter(s => 
+        s.name.toLowerCase().includes(query) || 
+        (s.description && s.description.toLowerCase().includes(query))
+      );
+      
+      const html = filtered.slice(0, 50).map((s, i) => `
+        <div class="skill" onclick="showSkill(${i}, '${query}')">
+          <div class="skill-name">${s.name}</div>
+          ${s.description ? `<div class="skill-desc">${s.description}</div>` : ''}
+        </div>
+      `).join('');
+      
+      document.getElementById('skills-list').innerHTML = html || '<p style="color:#6e7681">No skills found.</p>';
+      window.filteredSkills = filtered;
+    }
+
+    function showSkill(index) {
+      const s = window.filteredSkills[index];
+      document.getElementById('modal-title').textContent = s.name;
+      document.getElementById('modal-desc').textContent = s.description || 'No description';
+      
+      const slug = s.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      document.getElementById('modal-content').innerHTML = `
+        <div class="modal-section">
+          <h3>📦 Install</h3>
+          <div class="code-block">npx molthub install ${slug}</div>
+        </div>
+        ${s.url ? `<div class="modal-section"><a class="modal-link" href="${s.url}" target="_blank">View source →</a></div>` : ''}
+      `;
+      
+      document.getElementById('modal').classList.add('active');
     }
 
     function closeModal(e) {
@@ -287,31 +427,23 @@
       }
     }
 
-    function copyPrompt() {
-      const text = document.getElementById('prompt-text').textContent;
-      navigator.clipboard.writeText(text.replace(/"/g, ''));
-      const btn = document.querySelector('.copy-btn');
-      btn.textContent = 'Copied!';
-      setTimeout(() => btn.textContent = 'Copy', 1500);
-    }
-
-    document.getElementById('search').addEventListener('input', render);
+    // Events
+    document.getElementById('auto-search').addEventListener('input', renderAutomations);
+    document.getElementById('skill-search').addEventListener('input', renderSkills);
     document.getElementById('categories').addEventListener('click', e => {
       if (e.target.classList.contains('cat-btn')) {
         const cat = e.target.dataset.cat;
         activeCategory = activeCategory === cat ? null : cat;
         document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
         if (activeCategory) e.target.classList.add('active');
-        render();
+        renderSkills();
       }
     });
-    
-    // Close modal on Escape
-    document.addEventListener('keydown', e => {
-      if (e.key === 'Escape') closeModal();
-    });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
-    load();
+    // Init
+    renderAutomations();
+    loadSkills();
   </script>
 </body>
 </html>
