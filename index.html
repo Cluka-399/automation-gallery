@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Automation Gallery - Moltbot/OpenClaw Skills</title>
+  <title>What Can Your AI Do? - Moltbot/OpenClaw Automations</title>
   <style>
     :root {
       --bg: #0d1117;
@@ -11,6 +11,7 @@
       --accent: #58a6ff;
       --card-bg: #161b22;
       --border: #30363d;
+      --hover: #1f2937;
     }
     * { box-sizing: border-box; }
     body {
@@ -21,57 +22,164 @@
       padding: 2rem;
       line-height: 1.6;
     }
-    .container { max-width: 1000px; margin: 0 auto; }
-    h1 { color: var(--accent); margin-bottom: 0.5rem; }
-    .subtitle { color: #8b949e; margin-bottom: 2rem; }
+    .container { max-width: 900px; margin: 0 auto; }
+    h1 { color: var(--accent); margin-bottom: 0.25rem; font-size: 1.75rem; }
+    .subtitle { color: #8b949e; margin-bottom: 1.5rem; font-size: 1rem; }
     .search {
       width: 100%;
-      padding: 0.75rem 1rem;
+      padding: 0.875rem 1rem;
       font-size: 1rem;
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 8px;
+      border-radius: 10px;
       color: var(--fg);
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
     }
     .search:focus { outline: none; border-color: var(--accent); }
-    .stats { color: #8b949e; margin-bottom: 1rem; font-size: 0.9rem; }
-    .categories { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+    .search::placeholder { color: #6e7681; }
+    .stats { color: #8b949e; margin-bottom: 1rem; font-size: 0.85rem; }
+    .categories { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1.25rem; }
     .cat-btn {
-      padding: 0.4rem 0.8rem;
+      padding: 0.35rem 0.7rem;
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 20px;
-      color: var(--fg);
+      border-radius: 16px;
+      color: #8b949e;
       cursor: pointer;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
+      transition: all 0.15s;
     }
-    .cat-btn:hover, .cat-btn.active { border-color: var(--accent); color: var(--accent); }
-    .skills { display: grid; gap: 1rem; }
+    .cat-btn:hover { border-color: var(--accent); color: var(--fg); }
+    .cat-btn.active { border-color: var(--accent); color: var(--accent); background: rgba(88,166,255,0.1); }
+    .skills { display: grid; gap: 0.75rem; }
     .skill {
       padding: 1rem;
       background: var(--card-bg);
       border: 1px solid var(--border);
-      border-radius: 8px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.15s;
     }
-    .skill-name { font-weight: 600; color: var(--accent); }
-    .skill-desc { color: #8b949e; font-size: 0.9rem; margin-top: 0.25rem; }
-    .skill-meta { font-size: 0.8rem; color: #6e7681; margin-top: 0.5rem; }
+    .skill:hover { border-color: var(--accent); background: var(--hover); }
+    .skill-name { font-weight: 600; color: var(--fg); margin-bottom: 0.25rem; }
+    .skill-desc { color: #8b949e; font-size: 0.9rem; }
+    .skill-meta { font-size: 0.75rem; color: #6e7681; margin-top: 0.5rem; }
+    
+    /* Modal */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.75);
+      z-index: 100;
+      padding: 2rem;
+      overflow-y: auto;
+    }
+    .modal-overlay.active { display: flex; justify-content: center; align-items: flex-start; }
+    .modal {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      max-width: 600px;
+      width: 100%;
+      padding: 1.5rem;
+      margin-top: 3rem;
+    }
+    .modal-close {
+      float: right;
+      background: none;
+      border: none;
+      color: #8b949e;
+      font-size: 1.5rem;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+    }
+    .modal-close:hover { color: var(--fg); }
+    .modal h2 { margin: 0 0 0.5rem 0; color: var(--accent); font-size: 1.25rem; }
+    .modal-desc { color: #8b949e; margin-bottom: 1.25rem; }
+    .modal-section { margin-bottom: 1.25rem; }
+    .modal-section h3 { font-size: 0.85rem; color: #6e7681; margin: 0 0 0.5rem 0; text-transform: uppercase; letter-spacing: 0.05em; }
+    .prompt-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      font-family: inherit;
+      color: var(--fg);
+      position: relative;
+    }
+    .prompt-box code { color: var(--accent); }
+    .copy-btn {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      background: var(--border);
+      border: none;
+      border-radius: 4px;
+      color: var(--fg);
+      padding: 0.25rem 0.5rem;
+      font-size: 0.75rem;
+      cursor: pointer;
+    }
+    .copy-btn:hover { background: var(--accent); }
+    .install-cmd {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      font-family: 'SF Mono', Monaco, monospace;
+      font-size: 0.85rem;
+      color: #7ee787;
+      overflow-x: auto;
+    }
+    .modal-link {
+      display: inline-block;
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+    .modal-link:hover { text-decoration: underline; }
+    
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
-    .hidden { display: none; }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>🦞 Automation Gallery</h1>
-    <p class="subtitle">Discover what you can build with Moltbot/OpenClaw</p>
+    <h1>🦞 What Can Your AI Do?</h1>
+    <p class="subtitle">Discover automations for your Moltbot / OpenClaw assistant</p>
     
-    <input type="text" class="search" id="search" placeholder="Search automations...">
+    <input type="text" class="search" id="search" placeholder="Search: email, calendar, smart home, coding...">
     
     <div class="stats" id="stats">Loading...</div>
     <div class="categories" id="categories"></div>
     <div class="skills" id="skills"></div>
+  </div>
+
+  <div class="modal-overlay" id="modal" onclick="closeModal(event)">
+    <div class="modal" onclick="event.stopPropagation()">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <h2 id="modal-title">Skill Name</h2>
+      <p class="modal-desc" id="modal-desc">Description</p>
+      
+      <div class="modal-section">
+        <h3>💬 Try asking your assistant</h3>
+        <div class="prompt-box" id="modal-prompt">
+          <button class="copy-btn" onclick="copyPrompt()">Copy</button>
+          <span id="prompt-text"></span>
+        </div>
+      </div>
+      
+      <div class="modal-section">
+        <h3>📦 Install</h3>
+        <div class="install-cmd" id="modal-install">npx molthub install skill-name</div>
+      </div>
+      
+      <div class="modal-section" id="modal-link-section">
+        <a class="modal-link" id="modal-link" href="#" target="_blank">View on GitHub →</a>
+      </div>
+    </div>
   </div>
 
   <script>
@@ -82,12 +190,12 @@
       const res = await fetch('automations.json');
       const data = await res.json();
       allSkills = data.skills;
-      document.getElementById('stats').textContent = `${data.count} automations • Updated ${new Date(data.generated).toLocaleDateString()}`;
+      document.getElementById('stats').textContent = `${data.count} automations available`;
       
       const cats = [...new Set(allSkills.map(s => s.category))].sort();
       const catHtml = cats.map(c => {
         const count = allSkills.filter(s => s.category === c).length;
-        return `<button class="cat-btn" data-cat="${c}">${c} (${count})</button>`;
+        return `<button class="cat-btn" data-cat="${c}">${c.replace(/ & /g, '/')}</button>`;
       }).join('');
       document.getElementById('categories').innerHTML = catHtml;
       
@@ -109,15 +217,82 @@
         );
       }
       
-      const html = filtered.slice(0, 100).map(s => `
-        <div class="skill">
-          <div class="skill-name">${s.url ? `<a href="${s.url}" target="_blank">${s.name}</a>` : s.name}</div>
+      const html = filtered.slice(0, 50).map((s, i) => `
+        <div class="skill" onclick='showDetail(${i}, ${JSON.stringify(query)})'>
+          <div class="skill-name">${s.name}</div>
           ${s.description ? `<div class="skill-desc">${s.description}</div>` : ''}
-          <div class="skill-meta">${s.category} • ${s.source}</div>
+          <div class="skill-meta">${s.category}</div>
         </div>
       `).join('');
       
-      document.getElementById('skills').innerHTML = html || '<p>No automations found</p>';
+      document.getElementById('skills').innerHTML = html || '<p style="color:#6e7681">No automations found. Try a different search.</p>';
+      
+      // Store filtered for modal
+      window.filteredSkills = filtered;
+    }
+
+    function showDetail(index, query) {
+      const s = window.filteredSkills[index];
+      if (!s) return;
+      
+      document.getElementById('modal-title').textContent = s.name;
+      document.getElementById('modal-desc').textContent = s.description || 'No description available';
+      
+      // Generate a natural prompt suggestion
+      const prompt = generatePrompt(s);
+      document.getElementById('prompt-text').innerHTML = prompt;
+      
+      // Install command
+      const slug = s.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      document.getElementById('modal-install').textContent = `npx molthub install ${slug}`;
+      
+      // Link
+      if (s.url) {
+        document.getElementById('modal-link').href = s.url;
+        document.getElementById('modal-link-section').style.display = 'block';
+      } else {
+        document.getElementById('modal-link-section').style.display = 'none';
+      }
+      
+      document.getElementById('modal').classList.add('active');
+    }
+
+    function generatePrompt(s) {
+      // Generate a natural language prompt based on the skill
+      const name = s.name.toLowerCase();
+      const desc = (s.description || '').toLowerCase();
+      
+      if (desc.includes('search') || desc.includes('find')) {
+        return `"Search for <code>[topic]</code> using ${s.name}"`;
+      }
+      if (desc.includes('send') || desc.includes('message')) {
+        return `"Send a message <code>[to person]</code> saying <code>[content]</code>"`;
+      }
+      if (desc.includes('create') || desc.includes('generate')) {
+        return `"Create a <code>[thing]</code> with ${s.name}"`;
+      }
+      if (desc.includes('control') || desc.includes('manage')) {
+        return `"Use ${s.name} to <code>[action]</code>"`;
+      }
+      if (desc.includes('check') || desc.includes('status')) {
+        return `"Check the status of <code>[thing]</code>"`;
+      }
+      // Default
+      return `"Help me use ${s.name} to <code>[what you want to do]</code>"`;
+    }
+
+    function closeModal(e) {
+      if (!e || e.target === document.getElementById('modal')) {
+        document.getElementById('modal').classList.remove('active');
+      }
+    }
+
+    function copyPrompt() {
+      const text = document.getElementById('prompt-text').textContent;
+      navigator.clipboard.writeText(text.replace(/"/g, ''));
+      const btn = document.querySelector('.copy-btn');
+      btn.textContent = 'Copied!';
+      setTimeout(() => btn.textContent = 'Copy', 1500);
     }
 
     document.getElementById('search').addEventListener('input', render);
@@ -129,6 +304,11 @@
         if (activeCategory) e.target.classList.add('active');
         render();
       }
+    });
+    
+    // Close modal on Escape
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') closeModal();
     });
 
     load();
