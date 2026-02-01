@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**657 automations** from the Moltbot/OpenClaw ecosystem.
+**658 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -31,12 +31,12 @@ Ask your assistant:
 - [Calendar & Scheduling](#calendar-scheduling) (16)
 - [Clawdbot Tools](#clawdbot-tools) (16)
 - [Coding Agents & IDEs](#coding-agents-ides) (15)
-- [Communication](#communication) (25)
+- [Communication](#communication) (26)
 - [DevOps & Cloud](#devops-cloud) (40)
 - [Finance](#finance) (29)
 - [Git & GitHub](#git-github) (9)
-- [Health & Fitness](#health-fitness) (26)
-- [Image & Video Generation](#image-video-generation) (18)
+- [Health & Fitness](#health-fitness) (25)
+- [Image & Video Generation](#image-video-generation) (19)
 - [Marketing & Sales](#marketing-sales) (42)
 - [Media & Streaming](#media-streaming) (28)
 - [Notes & PKM](#notes-pkm) (43)
@@ -228,6 +228,7 @@ Ask your assistant:
 
 ## Communication
 
+- **apple-mail-search-safe** — Fast & safe Apple Mail search with body content support. [→](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md)
 - **beeper** — Search and browse local Beeper chat history (threads, messages, full-text search). [→](https://github.com/openclaw/skills/tree/main/skills/krausefx/beeper/SKILL.md)
 - **camelcamelcamel-alerts** — Monitor CamelCamelCamel price drop alerts via RSS and send Telegram notifications when items go on. [→](https://github.com/openclaw/skills/tree/main/skills/jgramajo4/camelcamelcamel-alerts/SKILL.md)
 - **claw-me-maybe** — Beeper integration: WhatsApp, Telegram, Signal, Discord, Slack, iMessage, LinkedIn. [→](https://github.com/openclaw/skills/tree/main/skills/nickhamze/claw-me-maybe/SKILL.md)
@@ -343,7 +344,6 @@ Ask your assistant:
 
 ## Health & Fitness
 
-- **coach** — Create personalized triathlon, marathon, and ultra-endurance training plans. [→](https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md)
 - **endurance-coach** — Create personalized triathlon, marathon, and ultra-endurance training plans. [→](https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md)
 - **fitbit** — Query Fitbit health data including sleep, heart rate, activity, SpO2, and breathing rate. [→](https://github.com/openclaw/skills/tree/main/skills/mjrussell/fitbit/SKILL.md)
 - **fitbit-analytics** — Fitbit health and fitness data integration. [→](https://github.com/openclaw/skills/tree/main/skills/kesslerio/fitbit-analytics/SKILL.md)
@@ -378,6 +378,7 @@ Ask your assistant:
 - **comfy-cli** — Install, manage, and run ComfyUI instances. [→](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md)
 - **comfyui** — Send workflow requests to ComfyUI and get image results. [→](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md)
 - **Excalidraw Flowchart** — Create Excalidraw flowcharts from descriptions. [→](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md)
+- **fal-ai** — Generate images, videos and audio using Fal.ai's generative media API. [→](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md)
 - **figma** — Figma design analysis, asset export, accessibility audit. [→](https://github.com/openclaw/skills/tree/main/skills/maddiedreese/figma/SKILL.md)
 - **gamma** — Generate AI-powered presentations, documents, and social posts using Gamma.app API. [→](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/gamma/SKILL.md)
 - **gifhorse** — Search video dialogue and create reaction GIFs with subtitles. [→](https://github.com/openclaw/skills/tree/main/skills/coyote-git/gifhorse/SKILL.md)
@@ -798,4 +799,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-01-31T07:40:42.827Z*
+*Generated: 2026-02-01T07:51:14.338Z*

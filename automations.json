@@ -1,6 +1,6 @@
 {
-  "generated": "2026-01-31T07:40:42.827Z",
-  "count": 657,
+  "generated": "2026-02-01T07:51:14.338Z",
+  "count": 658,
   "skills": [
     {
       "name": "discord",
@@ -748,6 +748,13 @@
       "name": "comfyui",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md",
       "description": "Send workflow requests to ComfyUI and get image results.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "fal-ai",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md",
+      "description": "Generate images, videos and audio using Fal.ai's generative media API.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
@@ -3419,13 +3426,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "coach",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/shiv19/clawd-coach/SKILL.md",
-      "description": "Create personalized triathlon, marathon, and ultra-endurance training plans.",
-      "category": "Health & Fitness",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "endurance-coach",
       "url": "https://github.com/openclaw/skills/tree/main/skills/shiv19/endurance-coach/SKILL.md",
       "description": "Create personalized triathlon, marathon, and ultra-endurance training plans.",
@@ -3598,6 +3598,13 @@
       "url": "https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md",
       "description": "Intervals.icu training data: activities, workouts, wellness.",
       "category": "Health & Fitness",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "apple-mail-search-safe",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md",
+      "description": "Fast & safe Apple Mail search with body content support.",
+      "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
     {
