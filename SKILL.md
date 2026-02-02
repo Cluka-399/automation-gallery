@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**658 automations** from the Moltbot/OpenClaw ecosystem.
+**660 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -37,13 +37,13 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (9)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (19)
-- [Marketing & Sales](#marketing-sales) (42)
+- [Marketing & Sales](#marketing-sales) (43)
 - [Media & Streaming](#media-streaming) (28)
 - [Notes & PKM](#notes-pkm) (43)
 - [PDF & Documents](#pdf-documents) (12)
 - [Personal Development](#personal-development) (27)
 - [Productivity & Tasks](#productivity-tasks) (38)
-- [Search & Research](#search-research) (21)
+- [Search & Research](#search-research) (22)
 - [Security & Passwords](#security-passwords) (6)
 - [Self-Hosted & Automation](#self-hosted-automation) (10)
 - [Shopping & E-commerce](#shopping-e-commerce) (22)
@@ -411,6 +411,7 @@ Ask your assistant:
 - **gong** — Gong API for searching calls, transcripts, and conversation intelligence. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gong/SKILL.md)
 - **google-ads** — Query, audit, and optimize Google Ads campaigns. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/google-ads/SKILL.md)
 - **gsc** — Query Google Search Console for SEO data - search queries, top pages, CTR opportunities. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gsc/SKILL.md)
+- **gtm** — Complete GTM toolkit. Research, write, send, book, and track — cold emails, discovery, objections, LinkedIn, CRM logging, and more. [→](https://github.com/Prospeda/gtm-skills/tree/main/openclaw-skills/gtm/SKILL.md)
 - **hubspot** — HubSpot CRM and CMS API integration for contacts, companies, deals, owners, and content management. [→](https://github.com/openclaw/skills/tree/main/skills/kwall1/hubspot/SKILL.md)
 - **humanizer** — |. [→](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/humanizer/SKILL.md)
 - **late-api** — Late API for scheduling posts across 13 social media platforms. [→](https://github.com/openclaw/skills/tree/main/skills/mikipalet/late-api/SKILL.md)
@@ -615,6 +616,7 @@ Ask your assistant:
 - **news-aggregator** — News from 8 sources: Hacker News, GitHub Trending, Product Hunt, and more. [→](https://github.com/openclaw/skills/tree/main/skills/cclank/news-aggregator-skill/SKILL.md)
 - **parallel** — High-accuracy web search and research via Parallel.ai API. [→](https://github.com/openclaw/skills/tree/main/skills/mvanhorn/parallel/SKILL.md)
 - **perplexity** — Perplexity API for web-grounded search with citations. [→](https://github.com/openclaw/skills/tree/main/skills/dronnick/perplexity-bash/SKILL.md)
+- **registry-broker** — Search and chat with 72,000+ AI agents across 14 registries. [→](https://www.clawhub.ai/kantorcodes/registry-broker-skills)
 - **searxng** — Privacy-respecting metasearch via local SearXNG instance. [→](https://github.com/openclaw/skills/tree/main/skills/abk234/searxng/SKILL.md)
 - **seo-analytics** — 3 SEO/analytics skills: DataForSEO keywords, GA4 + Search Console, YouTube analytics. [→](https://github.com/openclaw/skills/tree/main/skills/adamkristopher)
 - **seo-audit** — When the user wants to audit, review, or diagnose SEO issues on their site. [→](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/seo-audit/SKILL.md)
@@ -799,4 +801,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-01T07:51:14.338Z*
+*Generated: 2026-02-02T08:01:34.227Z*

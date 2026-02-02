@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-01T07:51:14.338Z",
-  "count": 658,
+  "generated": "2026-02-02T08:01:34.227Z",
+  "count": 660,
   "skills": [
     {
       "name": "discord",
@@ -1004,6 +1004,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "registry-broker",
+      "url": "https://www.clawhub.ai/kantorcodes/registry-broker-skills",
+      "description": "Search and chat with 72,000+ AI agents across 14 registries.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "auto-updater",
       "url": "https://github.com/openclaw/skills/tree/main/skills/maximeprades/auto-updater/SKILL.md",
       "description": "Automatically update Clawdbot and all installed skills once daily.",
@@ -1602,6 +1609,13 @@
       "name": "gsc",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gsc/SKILL.md",
       "description": "Query Google Search Console for SEO data - search queries, top pages, CTR opportunities.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "gtm",
+      "url": "https://github.com/Prospeda/gtm-skills/tree/main/openclaw-skills/gtm/SKILL.md",
+      "description": "Complete GTM toolkit. Research, write, send, book, and track — cold emails, discovery, objections, LinkedIn, CRM logging, and more.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
