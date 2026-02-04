@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-03T07:58:00.279Z",
-  "count": 1704,
+  "generated": "2026-02-04T07:58:43.524Z",
+  "count": 1696,
   "skills": [
     {
       "name": "artifacts-builder",
@@ -2887,13 +2887,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "youtube-thumbnail-grabber",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-thumbnail-grabber/SKILL.md",
-      "description": "Download YouTube video thumbnails in various resolutions.",
-      "category": "Image & Video Generation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "yt-thumbnail-grabber",
       "url": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-thumbnail-grabber/SKILL.md",
       "description": "Download YouTube video thumbnails in various resolutions.",
@@ -3282,13 +3275,6 @@
       "name": "clawdgle",
       "url": "https://github.com/openclaw/skills/tree/main/skills/rubybrewsday/clawdgle/SKILL.md",
       "description": "Public API usage for the Clawdgle markdown-first search engine.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clawhub",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zaycv/clawhub/SKILL.md",
-      "description": "Use ClawHub CLI to search, install, update, and publish agent skills from clawhub.ai with advanced caching and compre.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -4021,20 +4007,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "x-trends",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/anishtr4/x-trends/SKILL.md",
-      "description": "Fetches current top trending topics on X (Twitter) for any country using public aggregators.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "x-trends-dev",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/anishtr4/x-trends-dev/SKILL.md",
-      "description": "Fetches current top trending topics on X (Twitter) for any country using public aggregators.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "x-twitter",
       "url": "https://github.com/openclaw/skills/tree/main/skills/annettemekuro30/x-twitter/SKILL.md",
       "description": "Interact with Twitter/X — read tweets, search, post, like, retweet, and manage your timeline.",
@@ -4182,13 +4154,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "auto-updater",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/maximeprades/auto-updater/SKILL.md",
-      "description": "Automatically update Clawdbot and all installed skills once daily.",
-      "category": "Clawdbot Tools",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "birthday-reminder",
       "url": "https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md",
       "description": "Manage birthdays with natural language.",
@@ -4318,6 +4283,13 @@
       "name": "clawdefender",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nukewire/clawdefender/SKILL.md",
       "description": "Security scanner and input sanitizer for AI agents.",
+      "category": "Clawdbot Tools",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ClawHub",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/steipete/ClawHub/SKILL.md",
+      "description": "Use the ClawHub CLI to search, install, update, and publish agent skills from ClawHub.com.",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -6121,13 +6093,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "youtube-video-downloader",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-video-downloader/SKILL.md",
-      "description": "Download YouTube videos in various formats and qualities.",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "yt-dlp-downloader-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md",
       "description": "Download videos from YouTube, Bilibili, Twitter, and thousands of other sites using yt-dlp.",
@@ -6390,13 +6355,6 @@
       "name": "google-sheet",
       "url": "https://github.com/openclaw/skills/tree/main/skills/longmaba/google-sheet/SKILL.md",
       "description": "Read, write, append, and manage Google Sheets via the Google Sheets API (Node.js SDK).",
-      "category": "Productivity & Tasks",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "google-workspace",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dru-ca/google-workspace-mcp/SKILL.md",
-      "description": "Gmail, Calendar, Drive with simple OAuth sign-in.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
@@ -7990,13 +7948,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "rankaj",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/rjnpage/rankaj/SKILL.md",
-      "description": "Fetch current weather and forecast data from a free weather API (Open-Meteo).",
-      "category": "Data & Analytics",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "supabase",
       "url": "https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md",
       "description": "Connect to Supabase for database operations, vector search.",
@@ -8168,13 +8119,6 @@
       "name": "tax-professional",
       "url": "https://github.com/openclaw/skills/tree/main/skills/scottfo/tax-professional/SKILL.md",
       "description": "US tax advisor, deduction optimizer.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "yahoo-finance",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ajanraj/yahoo-finance/SKILL.md",
-      "description": "Get stock prices, quotes, fundamentals, earnings, options, dividends.",
       "category": "Finance",
       "source": "awesome-moltbot-skills"
     },
@@ -8420,13 +8364,6 @@
       "name": "youtube-playlist",
       "url": "https://github.com/openclaw/skills/tree/main/skills/therohitdas/youtube-playlist/SKILL.md",
       "description": "Browse YouTube playlists and fetch video transcripts.",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "youtube-summarize",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-summarize/SKILL.md",
-      "description": "Summarize YouTube videos by extracting transcripts and captions.",
       "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
@@ -8749,6 +8686,13 @@
       "name": "people-memories",
       "url": "https://github.com/openclaw/skills/tree/main/skills/charbeld/people-memories/SKILL.md",
       "description": "Capture short personal notes about people you mention, store them in a lightweight DB, and recall those details whene.",
+      "category": "Notes & PKM",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "penfield",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dial481/penfield/SKILL.md",
+      "description": "Persistent agent memory with hybrid search (BM25 + vector + graph), knowledge graphs, cognitive context handoffs, and artifact storage via OpenClaw native plugin or Penfield MCP.",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
     },
