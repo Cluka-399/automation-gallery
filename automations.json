@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-04T07:58:43.524Z",
-  "count": 1696,
+  "generated": "2026-02-05T08:01:20.229Z",
+  "count": 1695,
   "skills": [
     {
       "name": "artifacts-builder",
@@ -2883,13 +2883,6 @@
       "name": "yollomi",
       "url": "https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi/SKILL.md",
       "description": "Generate AI images and videos using Yollomi API.",
-      "category": "Image & Video Generation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "yt-thumbnail-grabber",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-thumbnail-grabber/SKILL.md",
-      "description": "Download YouTube video thumbnails in various resolutions.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
@@ -6100,13 +6093,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "yt-video-downloader",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-video-downloader/SKILL.md",
-      "description": "Download YouTube videos in various formats and qualities.",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "zoho",
       "url": "https://github.com/openclaw/skills/tree/main/skills/shreefentsar/zoho/SKILL.md",
       "description": "Interact with Zoho CRM, Projects.",
@@ -8102,6 +8088,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "sharesight-skill",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/lextoumbourou/sharesight-skill/SKILL.md",
+      "description": "Manage Sharesight portfolios, holdings, trades, and custom investments.",
+      "category": "Finance",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "solo-cli",
       "url": "https://github.com/openclaw/skills/tree/main/skills/rursache/solo-cli/SKILL.md",
       "description": "Monitor and interact with SOLO.ro accounting platform.",
@@ -8392,13 +8385,6 @@
       "name": "youtube-watcher",
       "url": "https://github.com/openclaw/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md",
       "description": "Fetch and read transcripts from YouTube videos.",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "yt-summarize",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-summarize/SKILL.md",
-      "description": "Summarize YouTube videos by extracting transcripts and captions.",
       "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
@@ -10947,6 +10933,13 @@
       "name": "food-order",
       "url": "https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md",
       "description": "Reorder Foodora orders + track ETA/status with ordercli.",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "gousto",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md",
+      "description": "Search and browse 9,000+ Gousto recipes. Get full ingredients and step-by-step cooking instructions via official API.",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },

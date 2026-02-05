@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**1696 automations** from the Moltbot/OpenClaw ecosystem.
+**1695 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -34,13 +34,13 @@ Ask your assistant:
 - [Communication](#communication) (58)
 - [Data & Analytics](#data-analytics) (17)
 - [DevOps & Cloud](#devops-cloud) (143)
-- [Finance](#finance) (21)
+- [Finance](#finance) (22)
 - [Gaming](#gaming) (7)
 - [Git & GitHub](#git-github) (34)
 - [Health & Fitness](#health-fitness) (35)
-- [Image & Video Generation](#image-video-generation) (39)
-- [Marketing & Sales](#marketing-sales) (93)
-- [Media & Streaming](#media-streaming) (40)
+- [Image & Video Generation](#image-video-generation) (38)
+- [Marketing & Sales](#marketing-sales) (92)
+- [Media & Streaming](#media-streaming) (39)
 - [Moltbook](#moltbook) (27)
 - [Notes & PKM](#notes-pkm) (62)
 - [PDF & Documents](#pdf-documents) (35)
@@ -49,7 +49,7 @@ Ask your assistant:
 - [Search & Research](#search-research) (143)
 - [Security & Passwords](#security-passwords) (21)
 - [Self-Hosted & Automation](#self-hosted-automation) (16)
-- [Shopping & E-commerce](#shopping-e-commerce) (33)
+- [Shopping & E-commerce](#shopping-e-commerce) (34)
 - [Smart Home & IoT](#smart-home-iot) (50)
 - [Speech & Transcription](#speech-transcription) (43)
 - [Transportation](#transportation) (56)
@@ -859,6 +859,7 @@ Ask your assistant:
 - **plaid** — plaid-cli a cli for interacting with the plaid finance platform. [→](https://github.com/openclaw/skills/tree/main/skills/jverdi/plaid/SKILL.md)
 - **publisher** — Make your skills easy to understand and impossible to ignore. [→](https://github.com/openclaw/skills/tree/main/skills/tunaissacoding/publisher/SKILL.md)
 - **relationship-skills** — Improve relationships with communication tools, conflict resolution. [→](https://github.com/openclaw/skills/tree/main/skills/jhillin8/relationship-skills/SKILL.md)
+- **sharesight-skill** — Manage Sharesight portfolios, holdings, trades, and custom investments. [→](https://github.com/openclaw/skills/tree/main/skills/lextoumbourou/sharesight-skill/SKILL.md)
 - **solo-cli** — Monitor and interact with SOLO.ro accounting platform. [→](https://github.com/openclaw/skills/tree/main/skills/rursache/solo-cli/SKILL.md)
 - **swissweather** — Get current weather and forecasts from MeteoSwiss (official Swiss weather service). [→](https://github.com/openclaw/skills/tree/main/skills/xenofex7/swissweather/SKILL.md)
 - **tax-professional** — US tax advisor, deduction optimizer. [→](https://github.com/openclaw/skills/tree/main/skills/scottfo/tax-professional/SKILL.md)
@@ -989,7 +990,6 @@ Ask your assistant:
 - **veo3-video-gen** — Generate and stitch short videos via Google Veo 3.x using the Gemini API (google-genai). [→](https://github.com/openclaw/skills/tree/main/skills/bluelyw/veo3-video-gen/SKILL.md)
 - **video-frames** — Extract frames or short clips from videos using ffmpeg. [→](https://github.com/openclaw/skills/tree/main/skills/steipete/video-frames/SKILL.md)
 - **yollomi** — Generate AI images and videos using Yollomi API. [→](https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi/SKILL.md)
-- **yt-thumbnail-grabber** — Download YouTube video thumbnails in various resolutions. [→](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-thumbnail-grabber/SKILL.md)
 
 ## Marketing & Sales
 
@@ -1084,7 +1084,6 @@ Ask your assistant:
 - **x-timeline-digest** — Build a deduplicated digest from X (Twitter) For You and Following timelines using bird. [→](https://github.com/openclaw/skills/tree/main/skills/seandong/x-timeline-digest/SKILL.md)
 - **youtrack-digisal** — Interact with YouTrack project management system via REST API. [→](https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal/SKILL.md)
 - **yt-dlp-downloader-skill** — Download videos from YouTube, Bilibili, Twitter, and thousands of other sites using yt-dlp. [→](https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md)
-- **yt-video-downloader** — Download YouTube videos in various formats and qualities. [→](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-video-downloader/SKILL.md)
 - **zoho** — Interact with Zoho CRM, Projects. [→](https://github.com/openclaw/skills/tree/main/skills/shreefentsar/zoho/SKILL.md)
 
 ## Media & Streaming
@@ -1127,7 +1126,6 @@ Ask your assistant:
 - **youtube-transcript** — Fetch and summarize YouTube video transcripts. [→](https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript/SKILL.md)
 - **youtube-voice-summarizer-elevenlabs** — Transform YouTube videos into podcast-style voice summaries using ElevenLabs TTS [→](https://github.com/openclaw/skills/tree/main/skills/franciscoandsam/youtube-voice-summarizer-elevenlabs/SKILL.md)
 - **youtube-watcher** — Fetch and read transcripts from YouTube videos. [→](https://github.com/openclaw/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md)
-- **yt-summarize** — Summarize YouTube videos by extracting transcripts and captions. [→](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-summarize/SKILL.md)
 - **ytmusic** — YouTube Music library, playlists. [→](https://github.com/openclaw/skills/tree/main/skills/gentrycopsy/ytmusic/SKILL.md)
 
 ## Moltbook
@@ -1597,6 +1595,7 @@ Ask your assistant:
 - **clawdbites** — Extract recipes from Instagram reels. [→](https://github.com/openclaw/skills/tree/main/skills/kylelol/clawdbites/SKILL.md)
 - **event-planner** — Plan events (night out, weekend, date night, team outing, meals, trips) by searching venues. [→](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/event-planner/SKILL.md)
 - **food-order** — Reorder Foodora orders + track ETA/status with ordercli. [→](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md)
+- **gousto** — Search and browse 9,000+ Gousto recipes. Get full ingredients and step-by-step cooking instructions via official API. [→](https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md)
 - **grocery-list** — Standalone grocery lists, recipes, and meal planning with local storage. [→](https://github.com/openclaw/skills/tree/main/skills/dbhurley/grocery-list/SKILL.md)
 - **gurkerl** — Gurkerl.at grocery shopping. [→](https://github.com/openclaw/skills/tree/main/skills/florianbeer/gurkerl/SKILL.md)
 - **gurkerlcli** — Austrian online grocery shopping via gurkerl.at. [→](https://github.com/openclaw/skills/tree/main/skills/pasogott/gurkerlcli/SKILL.md)
@@ -1849,4 +1848,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-04T07:58:43.523Z*
+*Generated: 2026-02-05T08:01:20.228Z*
