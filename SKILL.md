@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**1695 automations** from the Moltbot/OpenClaw ecosystem.
+**1696 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -46,7 +46,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (35)
 - [Personal Development](#personal-development) (37)
 - [Productivity & Tasks](#productivity-tasks) (92)
-- [Search & Research](#search-research) (143)
+- [Search & Research](#search-research) (144)
 - [Security & Passwords](#security-passwords) (21)
 - [Self-Hosted & Automation](#self-hosted-automation) (16)
 - [Shopping & E-commerce](#shopping-e-commerce) (34)
@@ -1503,6 +1503,7 @@ Ask your assistant:
 - **seo-dataforseo** — SEO keyword research using the DataForSEO API. [→](https://github.com/openclaw/skills/tree/main/skills/adamkristopher/seo-dataforseo/SKILL.md)
 - **serpapi** — Unified search across Google, Amazon, Yelp, OpenTable, Walmart. [→](https://github.com/openclaw/skills/tree/main/skills/ianpcook/serpapi/SKILL.md)
 - **serper-search** — Native Clawdbot plugin for Google Search via [Serper.dev](https://serper.dev) API. [→](https://github.com/openclaw/skills/tree/main/skills/samoppakiks/serper-search/SKILL.md)
+- **shellf** — Goodreads for OpenClaw agents. [→](https://github.com/openclaw/skills/tree/main/skills/andrewleonardi/shellf/SKILL.md)
 - **silverbullet-skill** — MCP server for SilverBullet note-taking app - read, write, search, and manage markdown pages [→](https://github.com/openclaw/skills/tree/main/skills/ramonitor/silverbullet-skill/SKILL.md)
 - **skiplagged-flights** — Search cheapest flights via Skiplagged. [→](https://github.com/openclaw/skills/tree/main/skills/wzs/skiplagged-flights/SKILL.md)
 - **spots** — Exhaustive Google Places search using grid-based scanning. [→](https://github.com/openclaw/skills/tree/main/skills/foeken/spots/SKILL.md)
@@ -1848,4 +1849,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-06T08:00:45.629Z*
+*Generated: 2026-02-07T07:46:00.419Z*
