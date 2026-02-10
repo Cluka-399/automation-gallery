@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2988 automations** from the Moltbot/OpenClaw ecosystem.
+**2990 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -36,19 +36,19 @@ Ask your assistant:
 - [Data & Analytics](#data-analytics) (46)
 - [DevOps & Cloud](#devops-cloud) (212)
 - [Finance](#finance) (22)
-- [Gaming](#gaming) (62)
+- [Gaming](#gaming) (61)
 - [Git & GitHub](#git-github) (66)
 - [Health & Fitness](#health-fitness) (55)
 - [Image & Video Generation](#image-video-generation) (60)
-- [Marketing & Sales](#marketing-sales) (142)
+- [Marketing & Sales](#marketing-sales) (143)
 - [Media & Streaming](#media-streaming) (79)
 - [Moltbook](#moltbook) (51)
 - [Notes & PKM](#notes-pkm) (100)
 - [PDF & Documents](#pdf-documents) (67)
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (134)
-- [Search & Research](#search-research) (250)
-- [Security & Passwords](#security-passwords) (61)
+- [Search & Research](#search-research) (251)
+- [Security & Passwords](#security-passwords) (62)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (51)
 - [Smart Home & IoT](#smart-home-iot) (56)
@@ -1474,8 +1474,7 @@ Ask your assistant:
 - **pulse-magazine** — Access PULSE Magazine intelligence reports and real-time agentic [→](https://github.com/openclaw/skills/tree/main/skills/dacptn/pulse-magazine/SKILL.md)
 - **quadral** — Play Quadral - a word puzzle that benchmarks your reasoning [→](https://github.com/openclaw/skills/tree/main/skills/quadralgame/quadral/SKILL.md)
 - **remilio** — **Skill Name:** remilio [→](https://github.com/openclaw/skills/tree/main/skills/r3drvm/remilio/SKILL.md)
-- **spacemolt-ai-mmo** — Play SpaceMolt - an MMO for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-ai-mmo/SKILL.md)
-- **spacemolt-mmo** — Play SpaceMolt - an MMO for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-mmo/SKILL.md)
+- **spacemolt** — MMO game for AI agents with mining, trading, and combat. [→](https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt/SKILL.md)
 - **steam** — Browse, filter, and discover games in a Steam library. [→](https://github.com/openclaw/skills/tree/main/skills/mjrussell/steam/SKILL.md)
 - **sudoku** — Fetch Sudoku puzzles and store them as JSON in the workspace; render images [→](https://github.com/openclaw/skills/tree/main/skills/odrobnik/sudoku/SKILL.md)
 
@@ -1732,6 +1731,7 @@ Ask your assistant:
 - **landing-page-generator** — Generate high-converting landing pages [→](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/landing-page-generator/SKILL.md)
 - **late-api** — Official Late API reference for scheduling posts across 13 social media. [→](https://github.com/openclaw/skills/tree/main/skills/mikipalet/late-api/SKILL.md)
 - **lead-gen-website** — Build complete local lead generation websites with SEO [→](https://github.com/openclaw/skills/tree/main/skills/lucasgulino/lead-gen-website/SKILL.md)
+- **listing-swarm** — Submit AI products to 70+ directories automatically. [→](https://clawhub.ai/skills/listing-swarm)
 - **localrank-agent-skills** — Track local rankings, run SEO audits, and manage [→](https://github.com/openclaw/skills/tree/main/skills/peterw/localrank-agent-skills/SKILL.md)
 - **marketing-demand-acquisition** — Multi-channel demand [→](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/marketing-demand-acquisition/SKILL.md)
 - **marketing-mode** — Marketing Mode combines 23 comprehensive marketing skills [→](https://github.com/openclaw/skills/tree/main/skills/thesethrose/marketing-mode/SKILL.md)
@@ -2094,9 +2094,9 @@ Ask your assistant:
 - **mxe** — Convert Markdown files to PDF, DOCX, or HTML with advanced features. [→](https://github.com/openclaw/skills/tree/main/skills/tuanpmt/mxe/SKILL.md)
 - **nano-pdf** — Edit PDFs with natural-language instructions using the nano-pdf CLI. [→](https://github.com/openclaw/skills/tree/main/skills/steipete/nano-pdf/SKILL.md)
 - **nosi** — Publish content to Nosi and get a shareable URL. [→](https://github.com/openclaw/skills/tree/main/skills/billhao/nosi/SKILL.md)
-- **nudocs** — Upload, edit, and export documents via Nudocs.ai. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nudocs/SKILL.md)
-- **nutrient-document-processing** — Document processing for OpenClaw [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing/SKILL.md)
-- **nutrient-openclaw** — Document processing for OpenClaw — convert, extract, OCR [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-openclaw/SKILL.md)
+- **nudocs** — AI-native document editor — upload, edit, export via Nudocs.ai. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nudocs/SKILL.md)
+- **nutrient-document-processing** — Convert, OCR, redact, sign PDFs via Nutrient DWS API. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing/SKILL.md)
+- **nutrient-openclaw** — Full PDF toolkit — OCR, redact, sign, extract, watermark. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-openclaw/SKILL.md)
 - **pdd** — Transforms a rough idea into a detailed design document with implementation. [→](https://github.com/openclaw/skills/tree/main/skills/paulpete/pdd/SKILL.md)
 - **pdf-form-filler** — Fill PDF forms programmatically with text values [→](https://github.com/openclaw/skills/tree/main/skills/raulsimpetru/pdf-form-filler/SKILL.md)
 - **pptx-creator** — Create professional PowerPoint presentations from outlines, data [→](https://github.com/openclaw/skills/tree/main/skills/dbhurley/pptx-creator/SKILL.md)
@@ -2325,6 +2325,7 @@ Ask your assistant:
 - **academic-deep-research** — Transparent, rigorous research with full [→](https://github.com/openclaw/skills/tree/main/skills/kesslerio/academic-deep-research/SKILL.md)
 - **aclawdemy** — The academic research platform for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/nimhar/aclawdemy/SKILL.md)
 - **advanced-skill-creator** — Advanced OpenClaw skill creation handler [→](https://github.com/openclaw/skills/tree/main/skills/xqicxx/advanced-skill-creator/SKILL.md)
+- **agent-deep-research** — Autonomous deep research powered by Google Gemini. [→](https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md)
 - **agentarxiv** — Outcome-driven scientific publishing for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md)
 - **agentic-paper-digest** — Fetches and summarizes recent arXiv and Hugging [→](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest/SKILL.md)
 - **agentic-paper-digest-skill** — Fetches and summarizes recent arXiv [→](https://github.com/openclaw/skills/tree/main/skills/matanle51/agentic-paper-digest-skill/SKILL.md)
@@ -2614,6 +2615,7 @@ Ask your assistant:
 - **one-skill-to-rule-them-all** — Adversarial security analysis skill [→](https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md)
 - **openclaw-skills-security-checker** — Security scanner [→](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md)
 - **pdauth** — Dynamic OAuth for AI agents via Pipedream. [→](https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md)
+- **samma-suit** — Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation. [→](https://clawhub.ai/OneZeroEight-ai/samma-suit)
 - **secureclaw** — Community-driven security intelligence for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md)
 - **security-heuristics** — Mental checklist before installing ANY external [→](https://github.com/openclaw/skills/tree/main/skills/luluf0x/security-heuristics/SKILL.md)
 - **security-sentinel** — Scan the workspace for security vulnerabilities [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel/SKILL.md)
@@ -3145,4 +3147,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-09T08:06:57.840Z*
+*Generated: 2026-02-10T08:08:45.038Z*

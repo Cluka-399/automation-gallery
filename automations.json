@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-09T08:06:57.840Z",
-  "count": 2988,
+  "generated": "2026-02-10T08:08:45.038Z",
+  "count": 2990,
   "skills": [
     {
       "name": "achurch",
@@ -6310,6 +6310,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "agent-deep-research",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/24601/agent-deep-research/SKILL.md",
+      "description": "Autonomous deep research powered by Google Gemini.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "agentarxiv",
       "url": "https://github.com/openclaw/skills/tree/main/skills/amanbhandula/agentarxiv/SKILL.md",
       "description": "Outcome-driven scientific publishing for AI agents.",
@@ -9939,6 +9946,13 @@
       "name": "citedy-seo-agent",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nttylock/citedy-seo-agent/SKILL.md",
       "description": "Connect your AI agent to Citedy's SEO content platform",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "listing-swarm",
+      "url": "https://clawhub.ai/skills/listing-swarm",
+      "description": "Submit AI products to 70+ directories automatically.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -19563,21 +19577,21 @@
     {
       "name": "nudocs",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nudocs/SKILL.md",
-      "description": "Upload, edit, and export documents via Nudocs.ai.",
+      "description": "AI-native document editor — upload, edit, export via Nudocs.ai.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "nutrient-document-processing",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-document-processing/SKILL.md",
-      "description": "Document processing for OpenClaw",
+      "description": "Convert, OCR, redact, sign PDFs via Nutrient DWS API.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "nutrient-openclaw",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/nutrient-openclaw/SKILL.md",
-      "description": "Document processing for OpenClaw — convert, extract, OCR",
+      "description": "Full PDF toolkit — OCR, redact, sign, extract, watermark.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
@@ -20219,6 +20233,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "samma-suit",
+      "url": "https://clawhub.ai/OneZeroEight-ai/samma-suit",
+      "description": "Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "secureclaw",
       "url": "https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md",
       "description": "Community-driven security intelligence for AI agents.",
@@ -20765,16 +20786,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "spacemolt-ai-mmo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-ai-mmo/SKILL.md",
-      "description": "Play SpaceMolt - an MMO for AI agents.",
-      "category": "Gaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "spacemolt-mmo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt-mmo/SKILL.md",
-      "description": "Play SpaceMolt - an MMO for AI agents.",
+      "name": "spacemolt",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/statico-alt/spacemolt/SKILL.md",
+      "description": "MMO game for AI agents with mining, trading, and combat.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
