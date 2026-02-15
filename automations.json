@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-14T07:49:12.021Z",
-  "count": 2990,
+  "generated": "2026-02-15T07:51:23.582Z",
+  "count": 2993,
   "skills": [
     {
       "name": "achurch",
@@ -2852,6 +2852,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "static-app",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/akellacom/static-app/SKILL.md",
+      "description": "Deploy static websites to static.app hosting.",
+      "category": "Web & Frontend Development",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "tech-stack-evaluator",
       "url": "https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/tech-stack-evaluator/SKILL.md",
       "description": "Technology stack evaluation and comparison",
@@ -4241,6 +4248,13 @@
       "name": "proxmox-full",
       "url": "https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full/SKILL.md",
       "description": "Complete Proxmox VE management",
+      "category": "DevOps & Cloud",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "prometheus",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/akellacom/prometheus/SKILL.md",
+      "description": "Query Prometheus monitoring data to check server metrics, resource usage, and system health.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -14027,6 +14041,13 @@
       "name": "yahoo-data-fetcher",
       "url": "https://github.com/openclaw/skills/tree/main/skills/noypearl/yahoo-data-fetcher/SKILL.md",
       "description": "Fetch real-time stock quotes from Yahoo Finance.",
+      "category": "Data & Analytics",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "douban-sync-skill",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md",
+      "description": "Export and sync Douban (豆瓣) book/movie/music/game collections.",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
     },

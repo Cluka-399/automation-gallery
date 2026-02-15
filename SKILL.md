@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2990 automations** from the Moltbot/OpenClaw ecosystem.
+**2993 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -33,8 +33,8 @@ Ask your assistant:
 - [Clawdbot Tools](#clawdbot-tools) (119)
 - [Coding Agents & IDEs](#coding-agents-ides) (132)
 - [Communication](#communication) (131)
-- [Data & Analytics](#data-analytics) (46)
-- [DevOps & Cloud](#devops-cloud) (212)
+- [Data & Analytics](#data-analytics) (47)
+- [DevOps & Cloud](#devops-cloud) (213)
 - [Finance](#finance) (22)
 - [Gaming](#gaming) (61)
 - [Git & GitHub](#git-github) (66)
@@ -54,7 +54,7 @@ Ask your assistant:
 - [Smart Home & IoT](#smart-home-iot) (56)
 - [Speech & Transcription](#speech-transcription) (64)
 - [Transportation](#transportation) (73)
-- [Web & Frontend Development](#web-frontend-development) (201)
+- [Web & Frontend Development](#web-frontend-development) (202)
 - [iOS & macOS Development](#ios-macos-development) (17)
 
 ---
@@ -1146,6 +1146,7 @@ Ask your assistant:
 - **data-lineage-tracker** — Track data origin, transformations [→](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/data-lineage-tracker/SKILL.md)
 - **data-nexus-sentinel-teneo** — Advanced data monitoring agent [→](https://github.com/openclaw/skills/tree/main/skills/firestream792/data-nexus-sentinel-teneo/SKILL.md)
 - **design-assets** — Create and edit graphic design assets: icons, favicons, images [→](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md)
+- **douban-sync-skill** — Export and sync Douban (豆瓣) book/movie/music/game collections. [→](https://github.com/openclaw/skills/tree/main/skills/cosformula/douban-sync-skill/SKILL.md)
 - **duckdb-en** — DuckDB CLI specialist for SQL analysis, data processing [→](https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills/SKILL.md)
 - **ec-session-cleaner** — Convert raw OpenClaw session JSONL transcripts [→](https://github.com/openclaw/skills/tree/main/skills/henrino3/ec-session-cleaner/SKILL.md)
 - **facebook-page-manager** — Manage Facebook Pages via Meta Graph API. [→](https://github.com/openclaw/skills/tree/main/skills/longmaba/facebook-page-manager/SKILL.md)
@@ -1330,6 +1331,7 @@ Ask your assistant:
 - **principle-comparator** — Compare two sources to find shared and divergent [→](https://github.com/openclaw/skills/tree/main/skills/leegitw/principle-comparator/SKILL.md)
 - **private-connect** — Access private services by name, from anywhere. [→](https://github.com/openclaw/skills/tree/main/skills/dantelex/private-connect/SKILL.md)
 - **proactive-research** — Monitor topics of interest and proactively alert [→](https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/proactive-research/SKILL.md)
+- **prometheus** — Query Prometheus monitoring data to check server metrics, resource usage, and system health. [→](https://github.com/openclaw/skills/blob/main/skills/akellacom/prometheus/SKILL.md)
 - **proxmox** — Manage Proxmox VE clusters via REST API. [→](https://github.com/openclaw/skills/tree/main/skills/weird-aftertaste/proxmox/SKILL.md)
 - **proxmox-full** — Complete Proxmox VE management [→](https://github.com/openclaw/skills/tree/main/skills/msarheed/proxmox-full/SKILL.md)
 - **public** — Real-time companion monitor for OpenClaw agents [→](https://github.com/openclaw/skills/tree/main/skills/luccast/public/SKILL.md)
@@ -3078,6 +3080,7 @@ Ask your assistant:
 - **social-post** — Post to Twitter and Farcaster with text and images. [→](https://github.com/openclaw/skills/tree/main/skills/callmedas69/social-post/SKILL.md)
 - **sql-toolkit** — Query, design, migrate, and optimize SQL databases. [→](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/sql-toolkit/SKILL.md)
 - **ssh-exec** — Run a single command on a remote Tailscale node via SSH without opening [→](https://github.com/openclaw/skills/tree/main/skills/xejrax/ssh-exec/SKILL.md)
+- **static-app** — Deploy static websites to static.app hosting. [→](https://github.com/openclaw/skills/blob/main/skills/akellacom/static-app/SKILL.md)
 - **stepfun-openrouter** — Integrates StepFun AI models (Step-3.5 Flash, Step-3) [→](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter/SKILL.md)
 - **stepfun-openrouter-v2** — Integrates StepFun AI models [→](https://github.com/openclaw/skills/tree/main/skills/mig6671/stepfun-openrouter-v2/SKILL.md)
 - **strykr-qa-bot** — QA automation skill for testing Strykr [→](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/strykr-qa-bot/SKILL.md)
@@ -3147,4 +3150,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-14T07:49:12.021Z*
+*Generated: 2026-02-15T07:51:23.582Z*
