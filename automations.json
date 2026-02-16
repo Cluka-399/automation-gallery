@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-15T07:51:23.582Z",
-  "count": 2993,
+  "generated": "2026-02-16T08:04:59.001Z",
+  "count": 2998,
   "skills": [
     {
       "name": "achurch",
@@ -363,13 +363,6 @@
       "name": "executing-plans",
       "url": "https://github.com/openclaw/skills/tree/main/skills/chenleiyanquan/executing-plans/SKILL.md",
       "description": "Use when you have a written implementation plan",
-      "category": "Coding Agents & IDEs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "factory-ai",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/factory-ai/SKILL.md",
-      "description": "Use Factory AI's droid CLI for software engineering tasks.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
@@ -8788,6 +8781,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "token-panel-ultimate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/token-panel-ultimate/SKILL.md",
+      "description": "Track AI usage across Claude Max, Gemini, and Manus in real-time. Rolling windows, rate limits, credit balances, webchat widget.",
+      "category": "Clawdbot Tools",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "treelisty-openclaw-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/prairie2cloud/treelisty-openclaw-skill/SKILL.md",
       "description": "Hierarchical project decomposition",
@@ -14759,6 +14759,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "agent-memory-ultimate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md",
+      "description": "Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. Human-inspired architecture.",
+      "category": "Notes & PKM",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "agents-structured-memory",
       "url": "https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md",
       "description": "Chat-native structured memory for agents",
@@ -15847,13 +15854,6 @@
       "name": "openerz",
       "url": "https://github.com/openclaw/skills/tree/main/skills/mbjoern/erz-entsorgung-recycling-zurich/SKILL.md",
       "description": "Abfuhrkalender für Zürich via OpenERZ API.",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "otp-challenger",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md",
-      "description": "Enable agents and skills to challenge users for fresh",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -17741,6 +17741,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "whatsapp-ultimate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/whatsapp-ultimate/SKILL.md",
+      "description": "Complete WhatsApp integration — messages, media, polls, stickers, voice notes, reactions, FTS5 history search, voice transcription. Native Baileys, zero Docker.",
+      "category": "Communication",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "whatsapp-video-mockup",
       "url": "https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md",
       "description": "whatsapp-video-mockup",
@@ -19351,6 +19358,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "appraisal-ai",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai/SKILL.md",
+      "description": "Draft real estate appraisal reports with tracked changes.",
+      "category": "PDF & Documents",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "beautiful-mermaid",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md",
       "description": "Render beautiful Mermaid diagrams as SVGs or ASCII art.",
@@ -20247,6 +20261,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "otp-challenger",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md",
+      "description": "Challenge users to prove identity with one-time passwords or a YubiKey press.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "pdauth",
       "url": "https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md",
       "description": "Dynamic OAuth for AI agents via Pipedream.",
@@ -20334,6 +20355,20 @@
       "name": "skill-guard",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md",
       "description": "Scan ClawHub skills for security vulnerabilities",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "agent-boundaries-ultimate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md",
+      "description": "Safety & ethics framework — beyond Asimov's Three Laws. Authorization, privacy, OPSEC, inter-agent etiquette for multi-user environments.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "shell-security-ultimate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md",
+      "description": "Classify shell commands by risk level (SAFE→CRITICAL). Color-coded output, audit logging, enforcement scripts.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

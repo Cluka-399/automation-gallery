@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2993 automations** from the Moltbot/OpenClaw ecosystem.
+**2998 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -30,9 +30,9 @@ Ask your assistant:
 - [Browser & Automation](#browser-automation) (139)
 - [CLI Utilities](#cli-utilities) (129)
 - [Calendar & Scheduling](#calendar-scheduling) (50)
-- [Clawdbot Tools](#clawdbot-tools) (119)
-- [Coding Agents & IDEs](#coding-agents-ides) (132)
-- [Communication](#communication) (131)
+- [Clawdbot Tools](#clawdbot-tools) (120)
+- [Coding Agents & IDEs](#coding-agents-ides) (131)
+- [Communication](#communication) (132)
 - [Data & Analytics](#data-analytics) (47)
 - [DevOps & Cloud](#devops-cloud) (213)
 - [Finance](#finance) (22)
@@ -43,17 +43,17 @@ Ask your assistant:
 - [Marketing & Sales](#marketing-sales) (143)
 - [Media & Streaming](#media-streaming) (79)
 - [Moltbook](#moltbook) (51)
-- [Notes & PKM](#notes-pkm) (100)
-- [PDF & Documents](#pdf-documents) (67)
+- [Notes & PKM](#notes-pkm) (101)
+- [PDF & Documents](#pdf-documents) (68)
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (134)
 - [Search & Research](#search-research) (251)
-- [Security & Passwords](#security-passwords) (62)
+- [Security & Passwords](#security-passwords) (65)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (51)
 - [Smart Home & IoT](#smart-home-iot) (56)
 - [Speech & Transcription](#speech-transcription) (64)
-- [Transportation](#transportation) (73)
+- [Transportation](#transportation) (72)
 - [Web & Frontend Development](#web-frontend-development) (202)
 - [iOS & macOS Development](#ios-macos-development) (17)
 
@@ -842,6 +842,7 @@ Ask your assistant:
 - **stranger-danger** — Give your AI agent a safe word. [→](https://github.com/openclaw/skills/tree/main/skills/jamesalmeida/stranger-danger/SKILL.md)
 - **swiggy** — Order food, groceries, and book restaurants in India via Swiggy's MCP [→](https://github.com/openclaw/skills/tree/main/skills/regalstreak/swiggy/SKILL.md)
 - **taskr** — Remote task memory & tracking for OpenClaw. [→](https://github.com/openclaw/skills/tree/main/skills/echo-of-machines/taskr/SKILL.md)
+- **token-panel-ultimate** — Track AI usage across Claude Max, Gemini, and Manus in real-time. Rolling windows, rate limits, credit balances, webchat widget. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos/token-panel-ultimate/SKILL.md)
 - **treelisty-openclaw-skill** — Hierarchical project decomposition [→](https://github.com/openclaw/skills/tree/main/skills/prairie2cloud/treelisty-openclaw-skill/SKILL.md)
 - **triple-memory** — LanceDB + Git-Notes + file-based memory system. [→](https://github.com/openclaw/skills/tree/main/skills/ktpriyatham/triple-memory/SKILL.md)
 - **ultrahuman-openclaw** — Fetch and summarize Ultrahuman Ring/CGM metrics [→](https://github.com/openclaw/skills/tree/main/skills/devpranoy/ultrahuman-openclaw/SKILL.md)
@@ -910,7 +911,6 @@ Ask your assistant:
 - **essence-distiller** — Find what actually matters in your content — the ideas [→](https://github.com/openclaw/skills/tree/main/skills/leegitw/essence-distiller/SKILL.md)
 - **evolver** — A self-evolution engine for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/evolver/SKILL.md)
 - **executing-plans** — Use when you have a written implementation plan [→](https://github.com/openclaw/skills/tree/main/skills/chenleiyanquan/executing-plans/SKILL.md)
-- **factory-ai** — Use Factory AI's droid CLI for software engineering tasks. [→](https://github.com/openclaw/skills/tree/main/skills/mitchellbernstein/factory-ai/SKILL.md)
 - **feishu-native-emoji** — Provides access to Feishu's native emoji set [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-native-emoji/SKILL.md)
 - **feishu-vc** — Manage Feishu Video Conferences (VC). [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-vc/SKILL.md)
 - **file-links-tool** — Securely upload files from your private AI workspace [→](https://github.com/openclaw/skills/tree/main/skills/mrbeandev/file-links-tool/SKILL.md)
@@ -1119,6 +1119,7 @@ Ask your assistant:
 - **webchat-audio-notifications** — Browser audio notifications for webchat with 5... [→](https://ClawHub.com/brokemac79/webchat-audio-notifications)
 - **wechat** — Read WeChat local data from SQLite databases. [→](https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat/SKILL.md)
 - **whatsapp-styler** — Skill to ensure all messages sent to WhatsApp follow [→](https://github.com/openclaw/skills/tree/main/skills/rubenfb23/whatsapp-styler/SKILL.md)
+- **whatsapp-ultimate** — Complete WhatsApp integration — messages, media, polls, stickers, voice notes, reactions, FTS5 history search, voice transcription. Native Baileys, zero Docker. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos/whatsapp-ultimate/SKILL.md)
 - **whatsapp-video-mockup** — whatsapp-video-mockup [→](https://github.com/openclaw/skills/tree/main/skills/danpeg/whatsapp-video-mockup/SKILL.md)
 - **zalo** — Guidance for integrating Zalo (Zalo OA/ZNS): flows, API usage, webhooks [→](https://github.com/openclaw/skills/tree/main/skills/codedao12/zalo/SKILL.md)
 - **zero-trust** — Security-first behavioral guidelines for cautious agent operation. [→](https://github.com/openclaw/skills/tree/main/skills/doonot/zero-trust/SKILL.md)
@@ -1954,6 +1955,7 @@ Ask your assistant:
 
 ## Notes & PKM
 
+- **agent-memory-ultimate** — Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. Human-inspired architecture. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md)
 - **agents-structured-memory** — Chat-native structured memory for agents [→](https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md)
 - **alexandrie** — Interact with Alexandrie note-taking app [→](https://github.com/openclaw/skills/tree/main/skills/eth3rnit3/alexandrie/SKILL.md)
 - **anki-connect** — Interact with Anki flashcard decks via the AnkiConnect REST API. [→](https://github.com/openclaw/skills/tree/main/skills/gyroninja/anki-connect/SKILL.md)
@@ -2061,6 +2063,7 @@ Ask your assistant:
 - **agent-intelligence-network-scan** — Query agent reputation [→](https://github.com/openclaw/skills/tree/main/skills/lvcidpsyche/agent-intelligence-network-scan/SKILL.md)
 - **agentsbank** — is a specialized financial platform designed for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/cryruz/agentsbank/SKILL.md)
 - **ai-pdf-builder** — AI-powered PDF generator for legal docs, pitch [→](https://github.com/openclaw/skills/tree/main/skills/nextfrontierbuilds/ai-pdf-builder/SKILL.md)
+- **appraisal-ai** — Draft real estate appraisal reports with tracked changes. [→](https://github.com/openclaw/skills/tree/main/skills/chadru/appraisal-ai/SKILL.md)
 - **beautiful-mermaid** — Render beautiful Mermaid diagrams as SVGs or ASCII art. [→](https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md)
 - **boggle** — Solve Boggle boards — find all valid words (German + English) on a 4x4 [→](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md)
 - **bookkeeping-basics** — Set up and maintain basic bookkeeping for a solopreneur [→](https://github.com/openclaw/skills/tree/main/skills/jk-0001/bookkeeping-basics/SKILL.md)
@@ -2577,6 +2580,7 @@ Ask your assistant:
 ## Security & Passwords
 
 - **1password** — Set up and use 1Password CLI (op). [→](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md)
+- **agent-boundaries-ultimate** — Safety & ethics framework — beyond Asimov's Three Laws. Authorization, privacy, OPSEC, inter-agent etiquette for multi-user environments. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-boundaries-ultimate/SKILL.md)
 - **audit-badge-demo** — Demo skill showcasing the audit badge workflow; still [→](https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md)
 - **auditing-appstore-readiness** — Audit an iOS app repo [→](https://github.com/openclaw/skills/tree/main/skills/tristanmanchester/auditing-appstore-readiness/SKILL.md)
 - **authensor-gateway** — Fail-safe policy gate for OpenClaw marketplace skills. [→](https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md)
@@ -2616,6 +2620,7 @@ Ask your assistant:
 - **nano-banana-antigravity** — Generate or edit images via Nano Banana Pro [→](https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md)
 - **one-skill-to-rule-them-all** — Adversarial security analysis skill [→](https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md)
 - **openclaw-skills-security-checker** — Security scanner [→](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md)
+- **otp-challenger** — Challenge users to prove identity with one-time passwords or a YubiKey press. [→](https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md)
 - **pdauth** — Dynamic OAuth for AI agents via Pipedream. [→](https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md)
 - **samma-suit** — Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation. [→](https://clawhub.ai/OneZeroEight-ai/samma-suit)
 - **secureclaw** — Community-driven security intelligence for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md)
@@ -2628,6 +2633,7 @@ Ask your assistant:
 - **senior-backend** — This skill should be used when the user asks to "design [→](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-backend/SKILL.md)
 - **senior-secops** — Comprehensive SecOps skill for application security [→](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-secops/SKILL.md)
 - **shadow-strike-security** — Elite penetration testing platform with 600+ [→](https://github.com/openclaw/skills/tree/main/skills/malvex007/shadow-strike-security/SKILL.md)
+- **shell-security-ultimate** — Classify shell commands by risk level (SAFE→CRITICAL). Color-coded output, audit logging, enforcement scripts. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos/shell-security-ultimate/SKILL.md)
 - **skill-guard** — Scan ClawHub skills for security vulnerabilities [→](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md)
 - **skill-security-audit** — Conduct comprehensive security audits [→](https://github.com/openclaw/skills/tree/main/skills/kylehuan/skill-security-audit/SKILL.md)
 - **soul-shepherd** — Spiritual accountability skill with honest AI-human interaction [→](https://github.com/openclaw/skills/tree/main/skills/snail3d/soul-shepherd/SKILL.md)
@@ -2888,7 +2894,6 @@ Ask your assistant:
 - **ns-trains** — Check Dutch train schedules, departures, disruptions, and plan [→](https://github.com/openclaw/skills/tree/main/skills/eggressive/ns-trains/SKILL.md)
 - **oebb-scotty** — Austrian rail travel planner (ÖBB Scotty). [→](https://github.com/openclaw/skills/tree/main/skills/manmal/oebb-scotty/SKILL.md)
 - **openerz** — Abfuhrkalender für Zürich via OpenERZ API. [→](https://github.com/openclaw/skills/tree/main/skills/mbjoern/erz-entsorgung-recycling-zurich/SKILL.md)
-- **otp-challenger** — Enable agents and skills to challenge users for fresh [→](https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md)
 - **preflight-checks** — Test-driven behavioral verification for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/ivanmmm/preflight-checks/SKILL.md)
 - **productboard-release** — Manage ProductBoard releases and roadmap [→](https://github.com/openclaw/skills/tree/main/skills/robertoamoreno/productboard-release/SKILL.md)
 - **railil** — Search for Israel Rail train schedules using the railil CLI. [→](https://github.com/openclaw/skills/tree/main/skills/lirantal/railil/SKILL.md)
@@ -3150,4 +3155,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-15T07:51:23.582Z*
+*Generated: 2026-02-16T08:04:59.001Z*
