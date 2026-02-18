@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2998 automations** from the Moltbot/OpenClaw ecosystem.
+**3000 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -48,12 +48,12 @@ Ask your assistant:
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (134)
 - [Search & Research](#search-research) (251)
-- [Security & Passwords](#security-passwords) (65)
+- [Security & Passwords](#security-passwords) (66)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (51)
 - [Smart Home & IoT](#smart-home-iot) (56)
 - [Speech & Transcription](#speech-transcription) (64)
-- [Transportation](#transportation) (72)
+- [Transportation](#transportation) (73)
 - [Web & Frontend Development](#web-frontend-development) (202)
 - [iOS & macOS Development](#ios-macos-development) (17)
 
@@ -2619,6 +2619,7 @@ Ask your assistant:
 - **ms-onedrive-personal** — Access OneDrive Personal [→](https://github.com/openclaw/skills/tree/main/skills/cesarus85/ms-onedrive-personal/SKILL.md)
 - **nano-banana-antigravity** — Generate or edit images via Nano Banana Pro [→](https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md)
 - **one-skill-to-rule-them-all** — Adversarial security analysis skill [→](https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md)
+- **openclaw-backup-safe** — Hardened OpenClaw backup and safe restore rollback. [→](https://clawhub.ai/alessandropcostabr/openclaw-backup-safe)
 - **openclaw-skills-security-checker** — Security scanner [→](https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md)
 - **otp-challenger** — Challenge users to prove identity with one-time passwords or a YubiKey press. [→](https://github.com/openclaw/skills/tree/main/skills/ryancnelson/otp-challenger/SKILL.md)
 - **pdauth** — Dynamic OAuth for AI agents via Pipedream. [→](https://github.com/openclaw/skills/tree/main/skills/g9pedro/pdauth/SKILL.md)
@@ -2866,6 +2867,7 @@ Ask your assistant:
 - **brainstorming-studio** — # 🧠 Skill Router (Skill Orchestrator) [→](https://github.com/openclaw/skills/tree/main/skills/myboxstorage/brainstorming-studio/SKILL.md)
 - **business-plan** — Write, structure, and update a business plan for a solopreneur. [→](https://github.com/openclaw/skills/tree/main/skills/jk-0001/business-plan/SKILL.md)
 - **bvg-route** — Route planning for Berlin public transport (BVG) [→](https://github.com/openclaw/skills/tree/main/skills/jaysonsantos/bvg-route/SKILL.md)
+- **capmetro-skill** — Austin CapMetro transit — real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail. [→](https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill/SKILL.md)
 - **charger** — Check EV charger availability (favorites, nearby search) via Google Places. [→](https://github.com/openclaw/skills/tree/main/skills/borahm/charger/SKILL.md)
 - **copey-flight-tracker** — Track flights in real-time with detailed status [→](https://github.com/openclaw/skills/tree/main/skills/copey02/copey-flight-tracker/SKILL.md)
 - **flight-search** — Search Google Flights for prices, times, and airlines. [→](https://github.com/openclaw/skills/tree/main/skills/awlevin/flight-search/SKILL.md)
@@ -3155,4 +3157,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-17T08:04:00.427Z*
+*Generated: 2026-02-18T08:02:38.182Z*

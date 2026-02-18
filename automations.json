@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-17T08:04:00.427Z",
-  "count": 2998,
+  "generated": "2026-02-18T08:02:38.182Z",
+  "count": 3000,
   "skills": [
     {
       "name": "achurch",
@@ -15662,6 +15662,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "capmetro-skill",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/brianleach/capmetro-skill/SKILL.md",
+      "description": "Austin CapMetro transit — real-time vehicle positions, next arrivals, service alerts, route info, and trip planning for buses and rail.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "charger",
       "url": "https://github.com/openclaw/skills/tree/main/skills/borahm/charger/SKILL.md",
       "description": "Check EV charger availability (favorites, nearby search) via Google Places.",
@@ -20257,6 +20264,13 @@
       "name": "openclaw-skills-security-checker",
       "url": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption/openclaw-skills-security-checker/SKILL.md",
       "description": "Security scanner",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "openclaw-backup-safe",
+      "url": "https://clawhub.ai/alessandropcostabr/openclaw-backup-safe",
+      "description": "Hardened OpenClaw backup and safe restore rollback.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },
