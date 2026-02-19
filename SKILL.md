@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**3000 automations** from the Moltbot/OpenClaw ecosystem.
+**2998 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -47,7 +47,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (68)
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (134)
-- [Search & Research](#search-research) (251)
+- [Search & Research](#search-research) (249)
 - [Security & Passwords](#security-passwords) (66)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (51)
@@ -266,10 +266,10 @@ Ask your assistant:
 - **openai-docs-skill** — Query the OpenAI developer documentation via the OpenAI Docs [→](https://github.com/openclaw/skills/tree/main/skills/am-will/openai-docs/SKILL.md)
 - **openai-image-gen** — Batch-generate images via OpenAI Images API. [→](https://github.com/openclaw/skills/tree/main/skills/steipete/openai-image-gen/SKILL.md)
 - **openai-tts** — Text-to-speech via OpenAI Audio Speech API. [→](https://github.com/openclaw/skills/tree/main/skills/pors/openai-tts/SKILL.md)
+- **openclaw-validate** — Real-time human evaluation benchmark for AI agent responses [→](https://github.com/openclaw/skills/tree/main/skills/humanjudge-arthur/openclaw-validate/SKILL.md)
 - **opencode-controller** — Control and operate Opencode via slash commands. [→](https://github.com/openclaw/skills/tree/main/skills/karatla/opencode-controller/SKILL.md)
 - **openrouter-transcribe** — Transcribe audio files via OpenRouter [→](https://github.com/openclaw/skills/tree/main/skills/obviyus/openrouter-transcribe/SKILL.md)
 - **oracle** — Use the @steipete/oracle CLI to bundle a prompt plus the right files and get [→](https://github.com/openclaw/skills/tree/main/skills/steipete/oracle/SKILL.md)
-- **ouyang** — Local RAG system for agent memory using ChromaDB and sentence-transformers. [→](https://github.com/openclaw/skills/tree/main/skills/ttboy/ouyang/SKILL.md)
 - **pandas-construction-analysis** — Comprehensive Pandas [→](https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/pandas-construction-analysis/SKILL.md)
 - **patent-scanner** — Describe your concept and discover what makes it distinctive [→](https://github.com/openclaw/skills/tree/main/skills/leegitw/patent-scanner/SKILL.md)
 - **peft** — Parameter-efficient fine-tuning for LLMs using LoRA, QLoRA, and 25+ methods. [→](https://github.com/openclaw/skills/tree/main/skills/desperado991128/peft/SKILL.md)
@@ -2389,7 +2389,6 @@ Ask your assistant:
 - **deep-research** — Deep Research Agent specializes in complex, multi-step research [→](https://github.com/openclaw/skills/tree/main/skills/seyhunak/deep-research/SKILL.md)
 - **deepresearch-conversation** — Deep ReSearch Conversation is provided [→](https://github.com/openclaw/skills/tree/main/skills/ide-rea/deepresearch-conversation/SKILL.md)
 - **deepresearchwork** — Comprehensive research framework that combines web search [→](https://github.com/openclaw/skills/tree/main/skills/jiacode/deepresearchwork/SKILL.md)
-- **deeps** — Deep Research Agent specializes in complex, multi-step research tasks [→](https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md)
 - **denario-skill** — Wraps the framework to automate the scientific research process. [→](https://github.com/openclaw/skills/tree/main/skills/jmanhype/denario-skill/SKILL.md)
 - **dhmz-weather** — Get Croatian weather data, forecasts, and alerts from DHMZ [→](https://github.com/openclaw/skills/tree/main/skills/faleksic/dhmz-weather/SKILL.md)
 - **dns-lookup** — Resolve hostnames to IP addresses using `dig` from bind-utils. [→](https://github.com/openclaw/skills/tree/main/skills/xejrax/dns-lookup/SKILL.md)
@@ -2416,7 +2415,6 @@ Ask your assistant:
 - **google-news-api** — Scrape structured news data from Google News automatically. [→](https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api/SKILL.md)
 - **google-search** — Search the web using Google Custom Search Engine (PSE). [→](https://github.com/openclaw/skills/tree/main/skills/mxfeinberg/google-search/SKILL.md)
 - **google-teneo** — The agent gives you the ability to search Google and retrieve [→](https://github.com/openclaw/skills/tree/main/skills/firestream792/google-teneo/SKILL.md)
-- **gorger** — Deep Research Agent specializes in complex, multi-step research tasks [→](https://github.com/openclaw/skills/tree/main/skills/ttboy/gorger/SKILL.md)
 - **grok-search** — Search web or X/Twitter [→](https://github.com/openclaw/skills/tree/main/skills/notabhay/grok-search/SKILL.md)
 - **growth-marketer** — : marketing, seo, conversion-optimization, popup-builder [→](https://github.com/openclaw/skills/tree/main/skills/metehan777/growth-marketer/SKILL.md)
 - **hackernews** — Browse and search Hacker News. [→](https://github.com/openclaw/skills/tree/main/skills/gchapim/hackernews/SKILL.md)
@@ -3157,4 +3155,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-18T08:02:38.182Z*
+*Generated: 2026-02-19T08:02:08.800Z*

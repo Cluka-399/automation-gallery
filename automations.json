@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-18T08:02:38.182Z",
-  "count": 3000,
+  "generated": "2026-02-19T08:02:08.800Z",
+  "count": 2998,
   "skills": [
     {
       "name": "achurch",
@@ -6730,13 +6730,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "deeps",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ttboy/deeps/SKILL.md",
-      "description": "Deep Research Agent specializes in complex, multi-step research tasks",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "denario-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jmanhype/denario-skill/SKILL.md",
       "description": "Wraps the framework to automate the scientific research process.",
@@ -6915,13 +6908,6 @@
       "name": "google-teneo",
       "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/google-teneo/SKILL.md",
       "description": "The agent gives you the ability to search Google and retrieve",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "gorger",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ttboy/gorger/SKILL.md",
-      "description": "Deep Research Agent specializes in complex, multi-step research tasks",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -13177,13 +13163,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "ouyang",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ttboy/ouyang/SKILL.md",
-      "description": "Local RAG system for agent memory using ChromaDB and sentence-transformers.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "pandas-construction-analysis",
       "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/pandas-construction-analysis/SKILL.md",
       "description": "Comprehensive Pandas",
@@ -13719,6 +13698,13 @@
       "name": "xuezh",
       "url": "https://github.com/openclaw/skills/tree/main/skills/local/xuezh/SKILL.md",
       "description": "Teach Mandarin using the xuezh engine for review, speaking, and audits.",
+      "category": "AI & LLMs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "openclaw-validate",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/humanjudge-arthur/openclaw-validate/SKILL.md",
+      "description": "Real-time human evaluation benchmark for AI agent responses",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
