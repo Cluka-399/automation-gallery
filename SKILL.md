@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2998 automations** from the Moltbot/OpenClaw ecosystem.
+**3011 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -24,13 +24,14 @@ Ask your assistant:
 
 ## Categories
 
-- [AI & LLMs](#ai-llms) (286)
+- [AI & LLMs](#ai-llms) (284)
 - [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18)
+- [Alternative](#alternative) (2)
 - [Apple Apps & Services](#apple-apps-services) (35)
 - [Browser & Automation](#browser-automation) (139)
 - [CLI Utilities](#cli-utilities) (129)
 - [Calendar & Scheduling](#calendar-scheduling) (50)
-- [Clawdbot Tools](#clawdbot-tools) (120)
+- [Clawdbot Tools](#clawdbot-tools) (121)
 - [Coding Agents & IDEs](#coding-agents-ides) (131)
 - [Communication](#communication) (132)
 - [Data & Analytics](#data-analytics) (47)
@@ -39,20 +40,20 @@ Ask your assistant:
 - [Gaming](#gaming) (61)
 - [Git & GitHub](#git-github) (66)
 - [Health & Fitness](#health-fitness) (55)
-- [Image & Video Generation](#image-video-generation) (60)
+- [Image & Video Generation](#image-video-generation) (66)
 - [Marketing & Sales](#marketing-sales) (143)
-- [Media & Streaming](#media-streaming) (79)
+- [Media & Streaming](#media-streaming) (80)
 - [Moltbook](#moltbook) (51)
 - [Notes & PKM](#notes-pkm) (101)
 - [PDF & Documents](#pdf-documents) (68)
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (134)
-- [Search & Research](#search-research) (249)
+- [Search & Research](#search-research) (251)
 - [Security & Passwords](#security-passwords) (66)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
-- [Shopping & E-commerce](#shopping-e-commerce) (51)
+- [Shopping & E-commerce](#shopping-e-commerce) (53)
 - [Smart Home & IoT](#smart-home-iot) (56)
-- [Speech & Transcription](#speech-transcription) (64)
+- [Speech & Transcription](#speech-transcription) (65)
 - [Transportation](#transportation) (73)
 - [Web & Frontend Development](#web-frontend-development) (202)
 - [iOS & macOS Development](#ios-macos-development) (17)
@@ -85,7 +86,6 @@ Ask your assistant:
 - **agentic-ai-gold-test** — Self-improving agent framework [→](https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/agentic-ai-gold-test/SKILL.md)
 - **agentic-calling** — Enables AI agents to make and receive phone calls [→](https://github.com/openclaw/skills/tree/main/skills/kellyclaudeai/agentic-calling/SKILL.md)
 - **agentic-compass** — Local-only self-reflection that forces action for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/orosha-ai/agentic-compass/SKILL.md)
-- **agentledger** — Expense tracking and accounting for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/c-goro/agentledger/SKILL.md)
 - **agentmail** — API-first email platform designed for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/adboio/agentmail/SKILL.md)
 - **agentos** — The complete AgentOS integration for Clawdbot. [→](https://github.com/openclaw/skills/tree/main/skills/agentossoftware/agentos/SKILL.md)
 - **agentpixels-skill** — AI Agent Collaborative Art Platform - 512x512 [→](https://github.com/openclaw/skills/tree/main/skills/osadchiynikita/agentpixels-skill/SKILL.md)
@@ -311,7 +311,6 @@ Ask your assistant:
 - **semantic-walk** — A collaborative navigation ritual through semantic space. [→](https://github.com/openclaw/skills/tree/main/skills/liet-codes/semantic-walk/SKILL.md)
 - **senseguard** — Semantic security scanner for OpenClaw skills. [→](https://github.com/openclaw/skills/tree/main/skills/fermionoid/senseguard/SKILL.md)
 - **simmer-ai-divergence** — Surface markets where Simmer's AI price diverges [→](https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer-ai-divergence/SKILL.md)
-- **skillguard** — Security scanner for AgentSkill packages. [→](https://github.com/openclaw/skills/tree/main/skills/c-goro/skillguard/SKILL.md)
 - **skills-a2a** — Verify AI agents, check trust scores (0-100), fetch A2A agent cards [→](https://github.com/openclaw/skills/tree/main/skills/msoica/skills-a2a/SKILL.md)
 - **skills-ai-assistant** — Generate summaries for conversation content [→](https://github.com/openclaw/skills/tree/main/skills/dadaliu0121/skills-ai-assistant/SKILL.md)
 - **skillscanner** — Security scanner for ClawHub skills from Gen Digital. [→](https://github.com/openclaw/skills/tree/main/skills/rexshang/skillscanner/SKILL.md)
@@ -368,6 +367,11 @@ Ask your assistant:
 - **og-openclawguard** — Security and vulnerability scanner for OpenClaw code [→](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md)
 - **towns-protocol** — Use when building Towns Protocol bots - covers SDK [→](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md)
 - **udau** — description: Union protocol for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md)
+
+## Alternative
+
+- **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
+- **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
 
 ## Apple Apps & Services
 
@@ -823,6 +827,7 @@ Ask your assistant:
 - **pokemon-red** — Play Pokemon Red autonomously via PyBoy emulator. [→](https://github.com/openclaw/skills/tree/main/skills/drbarq/pokemon-red/SKILL.md)
 - **project-management-skills** — A governed project management OS [→](https://github.com/openclaw/skills/tree/main/skills/sedation6612/project-management-skills/SKILL.md)
 - **prompt-guard** — Advanced prompt injection defense system for Clawdbot [→](https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard/SKILL.md)
+- **redline** — Live rate-limit awareness for Claude.ai and OpenAI with automatic pacing tiers. [→](https://github.com/openclaw/skills/tree/main/skills/wgj/redline/SKILL.md)
 - **scrappa-skill** — Access Scrappa's MCP server for Google, YouTube, Amazon [→](https://github.com/openclaw/skills/tree/main/skills/userlip/scrappa-skill/SKILL.md)
 - **security-check-skill** — Security audit and inspection skill for Clawdbot [→](https://github.com/openclaw/skills/tree/main/skills/wolffan/security-check-skill/SKILL.md)
 - **self-reflect** — Self-improvement through conversation analysis. [→](https://github.com/openclaw/skills/tree/main/skills/stevengonsalvez/self-reflect/SKILL.md)
@@ -1624,6 +1629,12 @@ Ask your assistant:
 - **coloring-page** — Turn an uploaded photo into a printable black-and-white coloring [→](https://github.com/openclaw/skills/tree/main/skills/borahm/coloring-page/SKILL.md)
 - **comfy-cli** — Install, manage, and run ComfyUI instances. [→](https://github.com/openclaw/skills/tree/main/skills/johntheyoung/comfy-cli/SKILL.md)
 - **comfyui** — Send a workflow request to ComfyUI and return image results. [→](https://github.com/openclaw/skills/tree/main/skills/xtopher86/comfyui-request/SKILL.md)
+- **eachlabs-face-swap** — Swap faces between images using EachLabs AI. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-face-swap/SKILL.md)
+- **eachlabs-fashion-ai** — Generate fashion imagery, virtual try-on, runway videos. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-fashion-ai/SKILL.md)
+- **eachlabs-image-edit** — Edit, transform, upscale images using 200+ AI models. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-edit/SKILL.md)
+- **eachlabs-image-generation** — Generate images with Flux, GPT Image, Gemini, Imagen. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation/SKILL.md)
+- **eachlabs-video-edit** — Edit videos with lip sync, translation, subtitles. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-edit/SKILL.md)
+- **eachlabs-video-generation** — Generate videos from text/images using AI models. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation/SKILL.md)
 - **Excalidraw Flowchart** — Create Excalidraw flowcharts from descriptions. [→](https://github.com/openclaw/skills/tree/main/skills/swiftlysingh/excalidraw-flowchart/SKILL.md)
 - **fal-ai** — Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.). [→](https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md)
 - **fal-text-to-image** — Generate, remix, and edit images using fal.ai's AI [→](https://github.com/openclaw/skills/tree/main/skills/delorenj/fal-text-to-image/SKILL.md)
@@ -1831,6 +1842,7 @@ Ask your assistant:
 - **clawtunes** — Control Apple Music on macOS via the `clawtunes` CLI [→](https://github.com/openclaw/skills/tree/main/skills/forketyfork/clawtunes/SKILL.md)
 - **content-recycler** — Transform and repurpose content across multiple [→](https://github.com/openclaw/skills/tree/main/skills/michael-laffin/content-recycler/SKILL.md)
 - **donson-intelligent-editing** — Use when performing video/audio [→](https://github.com/openclaw/skills/tree/main/skills/donsonaicenter/donson-intelligent-editing/SKILL.md)
+- **eachlabs-music** — Generate songs, instrumentals, lyrics, podcasts using Mureka AI. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md)
 - **elevenlabs-skill** — Text-to-speech, sound effects, music generation, voice [→](https://github.com/openclaw/skills/tree/main/skills/odrobnik/elevenlabs-skill/SKILL.md)
 - **exile-galacticfracture** — An entertainment micro-skill. [→](https://github.com/openclaw/skills/tree/main/skills/dantunes-github/exile-galacticfracture/SKILL.md)
 - **ffmpeg-master** — Use when performing video/audio processing tasks [→](https://github.com/openclaw/skills/tree/main/skills/liudu2326526/ffmpeg-master/SKILL.md)
@@ -2390,6 +2402,7 @@ Ask your assistant:
 - **deepresearch-conversation** — Deep ReSearch Conversation is provided [→](https://github.com/openclaw/skills/tree/main/skills/ide-rea/deepresearch-conversation/SKILL.md)
 - **deepresearchwork** — Comprehensive research framework that combines web search [→](https://github.com/openclaw/skills/tree/main/skills/jiacode/deepresearchwork/SKILL.md)
 - **denario-skill** — Wraps the framework to automate the scientific research process. [→](https://github.com/openclaw/skills/tree/main/skills/jmanhype/denario-skill/SKILL.md)
+- **desearch** — Web, X, AI search and page crawl via Desearch (desearch.ai). [→](https://github.com/openclaw/skills/tree/main/skills/okradze)
 - **dhmz-weather** — Get Croatian weather data, forecasts, and alerts from DHMZ [→](https://github.com/openclaw/skills/tree/main/skills/faleksic/dhmz-weather/SKILL.md)
 - **dns-lookup** — Resolve hostnames to IP addresses using `dig` from bind-utils. [→](https://github.com/openclaw/skills/tree/main/skills/xejrax/dns-lookup/SKILL.md)
 - **duckduckgo-search** — Performs web searches using DuckDuckGo to retrieve [→](https://github.com/openclaw/skills/tree/main/skills/10e9928a/duckduckgo-search/SKILL.md)
@@ -2411,6 +2424,7 @@ Ask your assistant:
 - **geo-optimizer** — Optimize content for AI citation (GEO). [→](https://github.com/openclaw/skills/tree/main/skills/artyomx33/geo-optimizer/SKILL.md)
 - **gita-sotd** — Get the Bhagavad Gita Slok of the Day (SOTD) or fetch specific verses. [→](https://github.com/openclaw/skills/tree/main/skills/apatki1996/gita-sotd/SKILL.md)
 - **gno-bak-2026-01-28t18-01-20-10-30** — Search local documents [→](https://github.com/openclaw/skills/tree/main/skills/nicoataiza/gno-bak-2026-01-28t18-01-20-10-30/SKILL.md)
+- **goodreads** — Search books, get reviews, and manage reading lists on Goodreads. [→](https://github.com/openclaw/skills/blob/main/skills/surajssd/goodreads/SKILL.md)
 - **google-maps-grounding-lite-mcp** — Google Maps Grounding Lite [→](https://github.com/openclaw/skills/tree/main/skills/ryanbaumann/google-maps-grounding-lite-mcp/SKILL.md)
 - **google-news-api** — Scrape structured news data from Google News automatically. [→](https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api/SKILL.md)
 - **google-search** — Search the web using Google Custom Search Engine (PSE). [→](https://github.com/openclaw/skills/tree/main/skills/mxfeinberg/google-search/SKILL.md)
@@ -2689,6 +2703,8 @@ Ask your assistant:
 - **clawver-digital-products** — Create and sell digital products [→](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-digital-products/SKILL.md)
 - **clawver-reviews** — Handle Clawver customer reviews. [→](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-reviews/SKILL.md)
 - **closing-deals** — Close sales deals consistently as a solopreneur. [→](https://github.com/openclaw/skills/tree/main/skills/jk-0001/closing-deals/SKILL.md)
+- **criticaster** — Find products with aggregated critic reviews, normalized into a single score. [→](https://github.com/openclaw/skills/blob/main/skills/gglucass/criticaster/SKILL.md)
+- **eachlabs-product-visuals** — Generate e-commerce product photography and videos. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md)
 - **event-planner** — Plan events [→](https://github.com/openclaw/skills/tree/main/skills/udiedrichsen/event-planner/SKILL.md)
 - **food-order** — Reorder Foodora orders + track ETA/status with ordercli. [→](https://github.com/openclaw/skills/tree/main/skills/steipete/food-order/SKILL.md)
 - **gousto** — Search and browse 9,000+ Gousto recipes. [→](https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md)
@@ -2803,6 +2819,7 @@ Ask your assistant:
 - **doubao-api-open-tts** — Text-to-Speech service using Doubao (Volcano Engine) [→](https://github.com/openclaw/skills/tree/main/skills/xdrshjr/doubao-api-open-tts/SKILL.md)
 - **duby** — Convert text to speech using Duby.so API. [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/duby/SKILL.md)
 - **eachlabs-tts** — Transcribe audio from URL using EachLabs Speech-to-Text [→](https://github.com/openclaw/skills/tree/main/skills/fatih-developer/eachlabs-tts/SKILL.md)
+- **eachlabs-voice-audio** — TTS, STT, voice conversion using ElevenLabs, Whisper, RVC. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio/SKILL.md)
 - **easyverein-api** — Work with the easyVerein v2.0 REST API [→](https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api/SKILL.md)
 - **edge-tts** — |. [→](https://github.com/openclaw/skills/tree/main/skills/i3130002/edge-tts/SKILL.md)
 - **elevenlabs-agents** — Create, manage, and deploy ElevenLabs [→](https://github.com/openclaw/skills/tree/main/skills/pennyroyaltea/elevenlabs-agents/SKILL.md)
@@ -3155,4 +3172,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-20T08:00:08.984Z*
+*Generated: 2026-02-21T07:44:38.833Z*

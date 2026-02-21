@@ -1,7 +1,21 @@
 {
-  "generated": "2026-02-20T08:00:08.984Z",
-  "count": 2998,
+  "generated": "2026-02-21T07:44:38.833Z",
+  "count": 3011,
   "skills": [
+    {
+      "name": "Snyk Skill Security Scanner",
+      "url": "https://github.com/snyk/agent-scan",
+      "description": "",
+      "category": "Alternative",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "Agent Trust Hub",
+      "url": "https://ai.gendigital.com/agent-trust-hub",
+      "description": "",
+      "category": "Alternative",
+      "source": "awesome-moltbot-skills"
+    },
     {
       "name": "achurch",
       "url": "https://github.com/openclaw/skills/tree/main/skills/lucasgeeksinthewood/achurch/SKILL.md",
@@ -5722,6 +5736,48 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "eachlabs-face-swap",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-face-swap/SKILL.md",
+      "description": "Swap faces between images using EachLabs AI.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-fashion-ai",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-fashion-ai/SKILL.md",
+      "description": "Generate fashion imagery, virtual try-on, runway videos.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-image-edit",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-edit/SKILL.md",
+      "description": "Edit, transform, upscale images using 200+ AI models.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-image-generation",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-image-generation/SKILL.md",
+      "description": "Generate images with Flux, GPT Image, Gemini, Imagen.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-video-edit",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-edit/SKILL.md",
+      "description": "Edit videos with lip sync, translation, subtitles.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-video-generation",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-video-generation/SKILL.md",
+      "description": "Generate videos from text/images using AI models.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "fal-ai",
       "url": "https://github.com/openclaw/skills/tree/main/skills/agmmnn/fal-ai/SKILL.md",
       "description": "Generate images, videos, and audio via fal.ai API (FLUX, SDXL, Whisper, etc.).",
@@ -6737,6 +6793,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "desearch",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/okradze",
+      "description": "Web, X, AI search and page crawl via Desearch (desearch.ai).",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "dhmz-weather",
       "url": "https://github.com/openclaw/skills/tree/main/skills/faleksic/dhmz-weather/SKILL.md",
       "description": "Get Croatian weather data, forecasts, and alerts from DHMZ",
@@ -6880,6 +6943,13 @@
       "name": "gno-bak-2026-01-28t18-01-20-10-30",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nicoataiza/gno-bak-2026-01-28t18-01-20-10-30/SKILL.md",
       "description": "Search local documents",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "goodreads",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/surajssd/goodreads/SKILL.md",
+      "description": "Search books, get reviews, and manage reading lists on Goodreads.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -8630,6 +8700,13 @@
       "name": "prompt-guard",
       "url": "https://github.com/openclaw/skills/tree/main/skills/seojoonkim/prompt-guard/SKILL.md",
       "description": "Advanced prompt injection defense system for Clawdbot",
+      "category": "Clawdbot Tools",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "redline",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/wgj/redline/SKILL.md",
+      "description": "Live rate-limit awareness for Claude.ai and OpenAI with automatic pacing tiers.",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -11875,13 +11952,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agentledger",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/c-goro/agentledger/SKILL.md",
-      "description": "Expense tracking and accounting for AI agents.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agentmail",
       "url": "https://github.com/openclaw/skills/tree/main/skills/adboio/agentmail/SKILL.md",
       "description": "API-first email platform designed for AI agents.",
@@ -13450,13 +13520,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "skillguard",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/c-goro/skillguard/SKILL.md",
-      "description": "Security scanner for AgentSkill packages.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "skills-a2a",
       "url": "https://github.com/openclaw/skills/tree/main/skills/msoica/skills-a2a/SKILL.md",
       "description": "Verify AI agents, check trust scores (0-100), fetch A2A agent cards",
@@ -14272,6 +14335,13 @@
       "name": "donson-intelligent-editing",
       "url": "https://github.com/openclaw/skills/tree/main/skills/donsonaicenter/donson-intelligent-editing/SKILL.md",
       "description": "Use when performing video/audio",
+      "category": "Media & Streaming",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "eachlabs-music",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md",
+      "description": "Generate songs, instrumentals, lyrics, podcasts using Mureka AI.",
       "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
@@ -17888,6 +17958,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "eachlabs-voice-audio",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-voice-audio/SKILL.md",
+      "description": "TTS, STT, voice conversion using ElevenLabs, Whisper, RVC.",
+      "category": "Speech & Transcription",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "easyverein-api",
       "url": "https://github.com/openclaw/skills/tree/main/skills/truefoobar/easyverein-api/SKILL.md",
       "description": "Work with the easyVerein v2.0 REST API",
@@ -18714,6 +18791,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "eachlabs-product-visuals",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md",
+      "description": "Generate e-commerce product photography and videos.",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "closing-deals",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jk-0001/closing-deals/SKILL.md",
       "description": "Close sales deals consistently as a solopreneur.",
@@ -18969,6 +19053,13 @@
       "name": "zentao",
       "url": "https://github.com/openclaw/skills/tree/main/skills/leeguooooo/zentao/SKILL.md",
       "description": "Use the zentao CLI to login and query ZenTao products and bugs.",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "criticaster",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gglucass/criticaster/SKILL.md",
+      "description": "Find products with aggregated critic reviews, normalized into a single score.",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },
