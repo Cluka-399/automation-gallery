@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-22T07:53:42.219Z",
-  "count": 3011,
+  "generated": "2026-02-23T08:05:54.973Z",
+  "count": 3010,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -18486,13 +18486,6 @@
       "name": "home-music",
       "url": "https://github.com/openclaw/skills/tree/main/skills/asteinberger/home-music/SKILL.md",
       "description": "Control whole-house music scenes combining Spotify playback",
-      "category": "Smart Home & IoT",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "homeassistant",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/homeassistant/SKILL.md",
-      "description": "Control Home Assistant - smart plugs, lights, scenes",
       "category": "Smart Home & IoT",
       "source": "awesome-moltbot-skills"
     },

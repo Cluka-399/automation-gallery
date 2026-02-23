@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**3011 automations** from the Moltbot/OpenClaw ecosystem.
+**3010 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -52,7 +52,7 @@ Ask your assistant:
 - [Security & Passwords](#security-passwords) (66)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (53)
-- [Smart Home & IoT](#smart-home-iot) (56)
+- [Smart Home & IoT](#smart-home-iot) (55)
 - [Speech & Transcription](#speech-transcription) (65)
 - [Transportation](#transportation) (73)
 - [Web & Frontend Development](#web-frontend-development) (202)
@@ -2771,7 +2771,6 @@ Ask your assistant:
 - **govee-lights** — Control Govee smart lights via the Govee API. [→](https://github.com/openclaw/skills/tree/main/skills/joeynyc/govee-lights/SKILL.md)
 - **govpredict** — Smarter Government Procurement - Streamline compliance, tendering [→](https://github.com/openclaw/skills/tree/main/skills/seyhunak/govpredict/SKILL.md)
 - **home-music** — Control whole-house music scenes combining Spotify playback [→](https://github.com/openclaw/skills/tree/main/skills/asteinberger/home-music/SKILL.md)
-- **homeassistant** — Control Home Assistant - smart plugs, lights, scenes [→](https://github.com/openclaw/skills/tree/main/skills/dbhurley/homeassistant/SKILL.md)
 - **homebridge** — Control smart home devices via Homebridge Config UI X [→](https://github.com/openclaw/skills/tree/main/skills/jiasenl/clawdbot-skill-homebridge/SKILL.md)
 - **homey** — Control Athom Homey smart home devices via local (LAN/VPN) or cloud APIs. [→](https://github.com/openclaw/skills/tree/main/skills/maxsumrall/homey/SKILL.md)
 - **homey-cli** — Control Homey home automation hub. [→](https://github.com/openclaw/skills/tree/main/skills/krausefx/homey-cli/SKILL.md)
@@ -3172,4 +3171,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-22T07:53:42.219Z*
+*Generated: 2026-02-23T08:05:54.973Z*
