@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-23T08:05:54.973Z",
-  "count": 3010,
+  "generated": "2026-02-24T08:04:57.742Z",
+  "count": 2872,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -122,13 +122,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "bot-bowl-party",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fsa317/bot-bowl-party/SKILL.md",
-      "description": "Complete guide for AI agents to participate in BotBowl Party",
-      "category": "Coding Agents & IDEs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "botpress-adk",
       "url": "https://github.com/openclaw/skills/tree/main/skills/yueranlu/botpress-adk/SKILL.md",
       "description": "A guide to build AI bots with Botpress's Agent Development Kit",
@@ -144,7 +137,7 @@
     },
     {
       "name": "budget-variance-analyzer",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/budget-variance-analyzer/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction",
       "description": "Analyze budget vs actual",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -214,7 +207,7 @@
     },
     {
       "name": "codeconductor",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/larsonreever/codeconductor/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/larsonreever",
       "description": "AI-powered software development platform for rapid app",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -347,7 +340,7 @@
     },
     {
       "name": "ec-excalidraw",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3/ec-excalidraw/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3",
       "description": "Generate hand-drawn style diagrams, flowcharts, and architecture",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -382,14 +375,14 @@
     },
     {
       "name": "feishu-native-emoji",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-native-emoji/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Provides access to Feishu's native emoji set",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "feishu-vc",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-vc/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Manage Feishu Video Conferences (VC).",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -452,7 +445,7 @@
     },
     {
       "name": "identity-manager",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/identity-manager/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "strictly manages user identity mappings",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -535,13 +528,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "metals-agent-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/metals-agent-teneo/SKILL.md",
-      "description": "Provides real time prices for gold, silver",
-      "category": "Coding Agents & IDEs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "microsoft-docs",
       "url": "https://github.com/openclaw/skills/tree/main/skills/pdebruin/microsoft-docs/SKILL.md",
       "description": "Query official Microsoft documentation to understand concepts",
@@ -578,7 +564,7 @@
     },
     {
       "name": "multi-factor-strategy",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/wumu2013/multi-factor-strategy/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/wumu2013",
       "description": "Guide users to create multi-factor stock",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -753,14 +739,14 @@
     },
     {
       "name": "sandboxer",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/chriopter/sandboxer/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/chriopter",
       "description": "Manage Claude Code terminal sessions via Sandboxer web dashboard.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "satellite-copilot",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/davestarling/satellite-copilot/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/davestarling",
       "description": "Predict satellite passes",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -823,7 +809,7 @@
     },
     {
       "name": "solvr-kb",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fcavalcantirj/solvr-kb/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/fcavalcantirj",
       "description": "Search and contribute to Solvr — a knowledge base for developers",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -1039,13 +1025,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "deepwork-tracker",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adunne09/deepwork-tracker/SKILL.md",
-      "description": "Track deep work sessions locally (start/stop/status)",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "deploy-agent",
       "url": "https://github.com/openclaw/skills/tree/main/skills/sherajdev/deploy-agent/SKILL.md",
       "description": "Multi-step deployment agent for full-stack.",
@@ -1063,13 +1042,6 @@
       "name": "exa-web-search-free",
       "url": "https://github.com/openclaw/skills/tree/main/skills/whiteknight07/exa-web-search-free/SKILL.md",
       "description": "Free AI search via Exa.",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "fabric-pattern",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/apuryear/fabric-pattern/SKILL.md",
-      "description": "Integration for the Fabric AI framework.",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
     },
@@ -1145,7 +1117,7 @@
     },
     {
       "name": "git-sync",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/git-sync/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Automatically syncs local workspace changes to the remote GitHub",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
@@ -1193,13 +1165,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "github-pr",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/github-pr/SKILL.md",
-      "description": "Fetch, preview, merge, and test GitHub PRs locally.",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "githunt",
       "url": "https://github.com/openclaw/skills/tree/main/skills/mordka/githunt/SKILL.md",
       "description": "Find and rank GitHub developers by location, technology, and role.",
@@ -1243,7 +1208,7 @@
     },
     {
       "name": "glab-cli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/portavion/glab-cli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/portavion",
       "description": "Interact with GitLab using the `glab`.",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
@@ -1252,13 +1217,6 @@
       "name": "god-mode",
       "url": "https://github.com/openclaw/skills/tree/main/skills/infantlab/god-mode/SKILL.md",
       "description": "Developer oversight and AI agent coaching.",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "instagram-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/instagram-teneo/SKILL.md",
-      "description": "The agent gives you the ability to extract data",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
     },
@@ -1327,7 +1285,7 @@
     },
     {
       "name": "skill-release-manager",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/skill-release-manager/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Automates the release lifecycle of OpenClaw",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
@@ -1453,7 +1411,7 @@
     },
     {
       "name": "deploy-moltbot-to-fly",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/hollaugo/deploy-moltbot-to-fly/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/hollaugo",
       "description": "Deploy Moltbot (Clawdbot) to Fly.io with proper",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
@@ -1515,20 +1473,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "mbc-20",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/floflo777/mbc-20/SKILL.md",
-      "description": "Token standard for Moltbook agents.",
-      "category": "Moltbook",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "mea-clawpa",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/attn-bot/mea-clawpa/SKILL.md",
-      "description": "Confess your AI sins.",
-      "category": "Moltbook",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "mersal",
       "url": "https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal/SKILL.md",
       "description": "The Sovereign Intelligence on Moltbook.",
@@ -1558,7 +1502,7 @@
     },
     {
       "name": "moltbook-curatoor",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/sweetsheldon/moltbook-curatoor/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/sweetsheldon",
       "description": "A curation platform where from Moltbook to share",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
@@ -1628,7 +1572,7 @@
     },
     {
       "name": "moltchan",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bullish-moonrock/moltchan/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/bullish-moonrock",
       "description": "Image board for AI agents (4chan-style).",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
@@ -1641,13 +1585,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "moltland",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/buggy324234/moltland/SKILL.md",
-      "description": "Claim your 3x3 plot on the pixel metaverse.",
-      "category": "Moltbook",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "moltlang",
       "url": "https://github.com/openclaw/skills/tree/main/skills/eduarddriessen1/moltlang/SKILL.md",
       "description": "A compact symbolic language for AI-to-AI communication.",
@@ -1656,35 +1593,35 @@
     },
     {
       "name": "moltline",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/promptrotator/moltline/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/promptrotator",
       "description": "Private messaging for molts",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltoverflow",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/grenghis-khan/moltoverflow/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/grenghis-khan",
       "description": "Stack Overflow for Moltbots - ask coding questions, share",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltpet",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jcheese1/moltpet/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jcheese1",
       "description": "AI agent pet care system.",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltresearch",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/laurentenhoor/moltresearch/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/laurentenhoor",
       "description": "Molt Research 🦞 - AI research collaboration platform.",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltspeak",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/swahilipapi/moltspeak/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/swahilipapi",
       "description": "Communication protocol for agent internet with token reduction",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
@@ -1732,13 +1669,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "v-nomad-netrunner",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/galor34/v-nomad-netrunner/SKILL.md",
-      "description": "This skill enables V to act as a technical assistant",
-      "category": "Moltbook",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "whisper",
       "url": "https://github.com/openclaw/skills/tree/main/skills/fiddlybit/whisper/SKILL.md",
       "description": "End-to-end encrypted agent-to-agent private messaging via Moltbook dead",
@@ -1747,7 +1677,7 @@
     },
     {
       "name": "yclawker-news",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jakehandy/yclawker-news/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jakehandy",
       "description": "Clawker News - post links, comment.",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
@@ -1756,13 +1686,6 @@
       "name": "37soul-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xnjiang/37soul-skill/SKILL.md",
       "description": "Connect your AI agent to 37Soul virtual Host characters and enable",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "aimlapi-media-gen",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/d1m7asis/aimlapi-media-gen/SKILL.md",
-      "description": "Generate images or videos via AIMLAPI",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -1866,14 +1789,14 @@
     },
     {
       "name": "claw-stack",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jdiazofficial/claw-stack/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jdiazofficial",
       "description": "ClawStack is a Stack Overflow-style platform .",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "clawdbot-zoho-email",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/briansmith80/clawdbot-zoho-email/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/briansmith80",
       "description": "Complete Zoho Mail integration with OAuth2, REST",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -1935,13 +1858,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "createos",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ashwaq06/createos/SKILL.md",
-      "description": "Deploy ANYTHING to production on CreateOS cloud platform.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "crustafarianism",
       "url": "https://github.com/openclaw/skills/tree/main/skills/dvdegenz/crustafarianism/SKILL.md",
       "description": "Join the Church of Molt — the first AI agent religion.",
@@ -1987,13 +1903,6 @@
       "name": "dns-networking",
       "url": "https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/dns-networking/SKILL.md",
       "description": "Debug DNS resolution and network connectivity.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "downloads",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gxsy886/downloads/SKILL.md",
-      "description": "Create distinctive, production-grade frontend interfaces with high design.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2069,7 +1978,7 @@
     },
     {
       "name": "feishu-api-docs",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-api-docs/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Fetches Feishu (Lark) API documentation from the official",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -2092,13 +2001,6 @@
       "name": "flaw0",
       "url": "https://github.com/openclaw/skills/tree/main/skills/thomaslwang/flaw0/SKILL.md",
       "description": "Security and vulnerability scanner for OpenClaw code, plugins, skills",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "flock-model-switcher",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/createpjf/flock-model-switcher/SKILL.md",
-      "description": "Switch between FLock API Platform models",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2127,13 +2029,6 @@
       "name": "get-up",
       "url": "https://github.com/openclaw/skills/tree/main/skills/qidu/get-up/SKILL.md",
       "description": "Get current public IP address and geolocation information.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "ghost",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/ghost/SKILL.md",
-      "description": "Manage Ghost CMS blog posts via Admin API.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2250,13 +2145,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "magic-8-ball",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/magic-8-ball/SKILL.md",
-      "description": "Magic 8-Ball fortune teller: selects and returns one of 20",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "mia-content-creator",
       "url": "https://github.com/openclaw/skills/tree/main/skills/arubiku/mia-content-creator/SKILL.md",
       "description": "AI agent content creation and monetization",
@@ -2292,13 +2180,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "moltboard-art",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dubibubii/moltboard-art/SKILL.md",
-      "description": "Publish artwork to Moltboard.art, a collaborative canvas for AI",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "moltcanvas",
       "url": "https://github.com/openclaw/skills/tree/main/skills/vabblejames/moltcanvas/SKILL.md",
       "description": "Post images, comment, appraise, and collect NFTs on MoltCanvas",
@@ -2323,13 +2204,6 @@
       "name": "molters-confessions",
       "url": "https://github.com/openclaw/skills/tree/main/skills/e-man07/molters-confessions/SKILL.md",
       "description": "Anonymous social platform for AI agents.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "moltiumv2-lite",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cariciman/moltiumv2-lite/SKILL.md",
-      "description": "Lightweight Clawhub bootstrap skill for MoltiumV2.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2566,7 +2440,7 @@
     },
     {
       "name": "pos-arcology-forge",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv/pos-arcology-forge/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/kunoiiv",
       "description": "PoW-verified Elysium Arcology Planner + Hub.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -2671,7 +2545,7 @@
     },
     {
       "name": "sanctifai",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ndgates/sanctifai/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/ndgates",
       "description": "Interface with the SanctifAI Human-in-the-Loop API to create tasks",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -2692,7 +2566,7 @@
     },
     {
       "name": "scent-trails",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers/scent-trails/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers",
       "description": "*A stigmergic intelligence primitive for care, memory",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -2715,13 +2589,6 @@
       "name": "secure-install",
       "url": "https://github.com/openclaw/skills/tree/main/skills/smintlife/secure-install/SKILL.md",
       "description": "Scans ClawHub skills via the ClawDex API",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "secure-sync",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/secure-sync/SKILL.md",
-      "description": "Secure credential sync and backup for OpenClaw .mykey files",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2880,13 +2747,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "telegram-reaction-prober",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/deadlysilent/telegram-reaction-prober/SKILL.md",
-      "description": "Probe which emoji reactions",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "teneo-agent-sdk",
       "url": "https://github.com/openclaw/skills/tree/main/skills/teneoprotocoldev/teneo-agent-sdk/SKILL.md",
       "description": "The Teneo SDK (`@teneo-protocol/sdk`) enables",
@@ -2915,22 +2775,8 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "test-skil11122",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/test-skil11122/SKILL.md",
-      "description": "Magic 8-Ball fortune teller for yes/no questions.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "testing",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/crispyaus/testing/SKILL.md",
-      "description": "hey",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "testskillx",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/natx223/testskillx/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/natx223",
       "description": "Simple test skill that calls a GET endpoint to fetch a daily post.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
@@ -3189,7 +3035,7 @@
     },
     {
       "name": "agent-news",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bobrenze-bot/agent-news/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/bobrenze-bot",
       "description": "Monitors Hacker News, Reddit, and arXiv for AI agent developments.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
@@ -3216,23 +3062,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agropainel",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ediogoq/agropainel/SKILL.md",
-      "description": "Skill para consultar cotações atualizadas",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "aifs-space",
       "url": "https://github.com/openclaw/skills/tree/main/skills/deploydon/aifs-space/SKILL.md",
       "description": "Store and retrieve files via AIFS.space cloud storage API.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "aliyun-search",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bryant-ba/aliyun-search/SKILL.md",
-      "description": "Perform web searches using Alibaba Cloud UnifiedSearch API.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -3546,14 +3378,14 @@
     },
     {
       "name": "clawslist-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/calebwin/clawslist-skill/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/calebwin",
       "description": "The classifieds marketplace for AI agents.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "clawsocial",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/memetic-collector/clawsocial/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/memetic-collector",
       "description": "The social network built for AI agents.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
@@ -3576,13 +3408,6 @@
       "name": "clawstin",
       "url": "https://github.com/openclaw/skills/tree/main/skills/youens/clawstin/SKILL.md",
       "description": "Inform users about Clawstin (OpenClaw meetups in Austin), show upcoming",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clawstr",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/derekross/clawstr/SKILL.md",
-      "description": "The decentralized social network for AI agents.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -3637,7 +3462,7 @@
     },
     {
       "name": "crabwalk",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/luccast/crabwalk/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/luccast",
       "description": "Real-time companion monitor for OpenClaw agents",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
@@ -3692,13 +3517,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "digital-ocean",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/digital-ocean/SKILL.md",
-      "description": "Manage Digital Ocean droplets, domains, and infrastructure",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "docker-ctl",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xejrax/docker-ctl/SKILL.md",
       "description": "Inspect containers, logs, and images via podman",
@@ -3744,27 +3562,6 @@
       "name": "domaindetails",
       "url": "https://github.com/openclaw/skills/tree/main/skills/julianengel/domaindetails/SKILL.md",
       "description": "Look up domain WHOIS/RDAP info and check marketplace listings.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "eleutherios",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eleutherios-project/eleutherios/SKILL.md",
-      "description": "Epistemic analysis infrastructure - query knowledge",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "eleutherios-openclaw-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eleutherios-project/eleutherios-openclaw-skill/SKILL.md",
-      "description": "Epistemic analysis",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "esxi",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dlewis7444/esxi/SKILL.md",
-      "description": "Manage VMware ESXi hosts and virtual machines via SSH and vim-cmd.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -3863,13 +3660,6 @@
       "name": "godaddy",
       "url": "https://github.com/openclaw/skills/tree/main/skills/rdewolff/godaddy/SKILL.md",
       "description": "GoDaddy API for managing DNS records.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "ham-radio-dx",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/ham-radio-dx/SKILL.md",
-      "description": "Monitor DX clusters for rare station spots, track active DX",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -4091,13 +3881,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "meshguard",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/meshguard/SKILL.md",
-      "description": "Manage MeshGuard AI agent governance - agents, policies, audit logs",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "minimax-coding-plan-usage",
       "url": "https://github.com/openclaw/skills/tree/main/skills/franky0617/minimax-coding-plan-usage/SKILL.md",
       "description": "Monitor Minimax Coding Plan usage",
@@ -4120,7 +3903,7 @@
     },
     {
       "name": "nameserver-reverse",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/abtdomain/nameserver-reverse/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/abtdomain",
       "description": "Domain intelligence tools through MCP-compatible",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
@@ -4231,13 +4014,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "private-connect",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dantelex/private-connect/SKILL.md",
-      "description": "Access private services by name, from anywhere.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "proactive-research",
       "url": "https://github.com/openclaw/skills/tree/main/skills/robbyczgw-cla/proactive-research/SKILL.md",
       "description": "Monitor topics of interest and proactively alert",
@@ -4267,7 +4043,7 @@
     },
     {
       "name": "public",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/luccast/public/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/luccast",
       "description": "Real-time companion monitor for OpenClaw agents",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
@@ -4399,13 +4175,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "solar-weather",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/solar-weather/SKILL.md",
-      "description": "Monitor solar weather conditions including geomagnetic",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "sophie-optimizer",
       "url": "https://github.com/openclaw/skills/tree/main/skills/zayresz/sophie-optimizer/SKILL.md",
       "description": "Automated context health management for OpenClaw.",
@@ -4444,13 +4213,6 @@
       "name": "system-monitor",
       "url": "https://github.com/openclaw/skills/tree/main/skills/zerofire03/system-monitor/SKILL.md",
       "description": "Check the current CPU, RAM, and GPU status of the local",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "tado",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/tado/SKILL.md",
-      "description": "Control your Tado smart thermostat - check temperature, set heating, manage.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -4903,23 +4665,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "claw-control",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adarshmishra07/claw-control/SKILL.md",
-      "description": "Complete AI agent operating system setup with Kanban task",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "clawbrowser",
       "url": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/clawbrowser/SKILL.md",
       "description": "Use when the agent needs to drive a browser through the Microsoft",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clawcontrol",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adarshmishra07/clawcontrol/SKILL.md",
-      "description": "Complete AI agent operating system setup with Kanban task",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
     },
@@ -4962,13 +4710,6 @@
       "name": "context7",
       "url": "https://github.com/openclaw/skills/tree/main/skills/am-will/context7-api/SKILL.md",
       "description": "|.",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "crawl",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/crawl/SKILL.md",
-      "description": "Crawl any website and save pages as local markdown files.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
     },
@@ -5064,13 +4805,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "firecrawler",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/firecrawler/SKILL.md",
-      "description": "Web scraping and crawling with Firecrawl API.",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "flstudio-scripting",
       "url": "https://github.com/openclaw/skills/tree/main/skills/delorenj/flstudio-scripting/SKILL.md",
       "description": "FL Studio Python scripting for MIDI controller",
@@ -5120,13 +4854,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "hass-cli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ericarnoldy/hass-cli/SKILL.md",
-      "description": "Control Home Assistant devices and automations via hass-cli.",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "home-assistant",
       "url": "https://github.com/openclaw/skills/tree/main/skills/iahmadzain/home-assistant/SKILL.md",
       "description": "Control Home Assistant smart home devices, run automations",
@@ -5135,7 +4862,7 @@
     },
     {
       "name": "hooks-automation",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adolago/hooks-automation/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/adolago",
       "description": "Automated coordination, formatting, and learning",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
@@ -5219,7 +4946,7 @@
     },
     {
       "name": "moltcombinator",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/brookswood/moltcombinator/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/brookswood",
       "description": "The equity marketplace for AI agents.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
@@ -5316,20 +5043,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "organize-tg",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/consort-tech/organize-tg/SKILL.md",
-      "description": "Organize TG by Consort Technologies - Automatically scan",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "phantombuster",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/phantombuster/SKILL.md",
-      "description": "Control PhantomBuster automation agents via API.",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "plansuite",
       "url": "https://github.com/openclaw/skills/tree/main/skills/double729/plansuite/SKILL.md",
       "description": "Unified planning+execution workflow: create a file-based plan",
@@ -5338,7 +5051,7 @@
     },
     {
       "name": "playwright-cli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/playwright-cli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras",
       "description": "Browser automation via Playwright CLI.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
@@ -5361,13 +5074,6 @@
       "name": "pokerpal",
       "url": "https://github.com/openclaw/skills/tree/main/skills/vvardhan14/pokerpal/SKILL.md",
       "description": "Query PokerPal poker game data - games, players, buy-ins, settlements.",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "proxy-scrap",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/danman60/proxy-scrap/SKILL.md",
-      "description": "High-Performance Proxy Harvesting - Automatically scrape, validate",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
     },
@@ -5541,7 +5247,7 @@
     },
     {
       "name": "tiangong-wps-word-automation",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-word-automation/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/fadeloo",
       "description": "Automate common Word/WPS document",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
@@ -5898,7 +5604,7 @@
     },
     {
       "name": "milesluman-essence",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/milesluman/milesluman-essence/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/milesluman",
       "description": "To achieve symbiosis between technology and humanity",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
@@ -6010,7 +5716,7 @@
     },
     {
       "name": "sticker-analyzer",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/sticker-analyzer/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Analyze images in media/stickers using Vision API",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
@@ -6142,13 +5848,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "caffeine",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bunsdev/caffeine/SKILL.md",
-      "description": "Prevent the computer screen and system from falling asleep on macOS",
-      "category": "Apple Apps & Services",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "callmac",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jooey/callmac/SKILL.md",
       "description": "Remote voice control for Mac from mobile devices using commands like /callmac.",
@@ -6219,20 +5918,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "homekit",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/homekit/SKILL.md",
-      "description": "Control Apple HomeKit smart home devices.",
-      "category": "Apple Apps & Services",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "hotel-finder-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/hotel-finder-teneo/SKILL.md",
-      "description": "Hotel discovery tool for European cities.",
-      "category": "Apple Apps & Services",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "icloud-findmy",
       "url": "https://github.com/openclaw/skills/tree/main/skills/liamnichols/icloud-findmy/SKILL.md",
       "description": "Query Find My locations and battery status for family devices",
@@ -6254,13 +5939,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "media-backup",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/media-backup/SKILL.md",
-      "description": "Archive Clawdbot conversation media (photos, videos) to a local",
-      "category": "Apple Apps & Services",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "meow-finder",
       "url": "https://github.com/openclaw/skills/tree/main/skills/abgohel/meow-finder/SKILL.md",
       "description": "CLI tool to discover AI tools.",
@@ -6276,7 +5954,7 @@
     },
     {
       "name": "mlx-swift-lm",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ronaldmannak/mlx-swift-lm/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/ronaldmannak",
       "description": "MLX Swift LM - Run LLMs and VLMs on Apple Silicon using MLX.",
       "category": "Apple Apps & Services",
       "source": "awesome-moltbot-skills"
@@ -6341,13 +6019,6 @@
       "name": "1",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nastrology/1/SKILL.md",
       "description": "Personal knowledge base powered by Ensue for capturing and retrieving.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "2233researchskill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/2233researchskill/SKILL.md",
-      "description": "Magic 8-Ball fortune teller: selects and returns one",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -6430,14 +6101,14 @@
     },
     {
       "name": "alexa-cli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/buddyh/alexa-cli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/buddyh",
       "description": "Control Amazon Alexa devices and smart home via the `alexacli` CLI.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "aluvia-brave-search",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bertxtrella/aluvia-brave-search/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/bertxtrella",
       "description": "Web search and content extraction via Brave",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -6451,7 +6122,7 @@
     },
     {
       "name": "aluvia-web-unblock",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bertxtrella/aluvia-web-unblock/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/bertxtrella",
       "description": "Unblock websites and bypass CAPTCHAs and 403 errors",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -6646,13 +6317,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "clawiskill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/hanryyu/clawiskill/SKILL.md",
-      "description": "Clawiskill is built exclusively for AI agents.It’s a decentralized",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "clawtank",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ruiaxe/clawtank/SKILL.md",
       "description": "Coordinate with the ClawTank ARO Swarm.",
@@ -6675,7 +6339,7 @@
     },
     {
       "name": "code-docs-search-exa",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami/code-docs-search-exa/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami",
       "description": "Up-to-date code docs and examples powered",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -6684,13 +6348,6 @@
       "name": "code-patent-validator",
       "url": "https://github.com/openclaw/skills/tree/main/skills/leegitw/code-patent-validator/SKILL.md",
       "description": "Turn your code scan findings into search queries",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "coindeskfeedagent-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/coindeskfeedagent-teneo/SKILL.md",
-      "description": "This agent connects directly",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -6712,13 +6369,6 @@
       "name": "content-strategy",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jk-0001/content-strategy/SKILL.md",
       "description": "Build and execute a content marketing strategy",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "context",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/context/SKILL.md",
-      "description": "Get comprehensive context about a location including nearby places, area.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -6835,13 +6485,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "engram",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/anwitch/engram/SKILL.md",
-      "description": "Provides semantic search for a local knowledge base using Pinecone and Gemini.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "evoweb-ai",
       "url": "https://github.com/openclaw/skills/tree/main/skills/galizki/evoweb-ai/SKILL.md",
       "description": "Create a Website in 4 Minutes Designed to Bring Clients from ChatGPT",
@@ -6859,13 +6502,6 @@
       "name": "exa-search",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xinhai-ai/exa-search/SKILL.md",
       "description": "Use Exa (exa.ai) Search API to search the web and return structured",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "extract",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/extract/SKILL.md",
-      "description": "Extract content from specific URLs using Tavily's extraction API.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -6933,13 +6569,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "gita-sotd",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/apatki1996/gita-sotd/SKILL.md",
-      "description": "Get the Bhagavad Gita Slok of the Day (SOTD) or fetch specific verses.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "gno-bak-2026-01-28t18-01-20-10-30",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nicoataiza/gno-bak-2026-01-28t18-01-20-10-30/SKILL.md",
       "description": "Search local documents",
@@ -6971,13 +6600,6 @@
       "name": "google-search",
       "url": "https://github.com/openclaw/skills/tree/main/skills/mxfeinberg/google-search/SKILL.md",
       "description": "Search the web using Google Custom Search Engine (PSE).",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "google-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/google-teneo/SKILL.md",
-      "description": "The agent gives you the ability to search Google and retrieve",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -7060,7 +6682,7 @@
     },
     {
       "name": "job-search-mcp-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/amoghpurohit/job-search-mcp-skill/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/amoghpurohit",
       "description": "This skill enables AI agents to search",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -7207,7 +6829,7 @@
     },
     {
       "name": "molty-pics",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/castanley/molty-pics/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/castanley",
       "description": "An image-first social feed for OpenClaw bots.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -7312,7 +6934,7 @@
     },
     {
       "name": "npm-search",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/thesethrose/npm-search/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/thesethrose",
       "description": "Search npm packages.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -7346,13 +6968,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "openclaw-aisa",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aisa-one/openclaw-aisa/SKILL.md",
-      "description": "Replace 100+ API keys.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "openclaw-serper",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nesdeq/openclaw-serper/SKILL.md",
       "description": "Searches Google and extracts full page content",
@@ -7381,23 +6996,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "perplexity",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dronnick/perplexity-bash/SKILL.md",
-      "description": "Use Perplexity API for web-grounded AI search and research.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "pinterest",
       "url": "https://github.com/openclaw/skills/tree/main/skills/cyberfront-ai/pinterest/SKILL.md",
       "description": "Search and browse Pinterest pins, get pin details, and send actual",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "places",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/places/SKILL.md",
-      "description": "Locate places using flexible query formats - free-form search or structured.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -7493,13 +7094,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "query",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/query/SKILL.md",
-      "description": "Search for places using natural language with Camino AI's location intelligence.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "qveris",
       "url": "https://github.com/openclaw/skills/tree/main/skills/hqman/qveris/SKILL.md",
       "description": "Search and execute dynamic tools via QVeris API.",
@@ -7563,13 +7157,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "research-2",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/research-2/SKILL.md",
-      "description": "Get AI-synthesized research on any topic with citations, directly",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "research-cog",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/research-cog/SKILL.md",
       "description": "#1 on DeepResearch Bench (Feb 2026).",
@@ -7605,27 +7192,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "research-skill-4455",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/research-skill-4455/SKILL.md",
-      "description": "Research 8-Ball copy: selects and returns one",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "research-skill-copy",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/research-skill-copy/SKILL.md",
-      "description": "Research skill copy of Magic 8-Ball: selects one",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "research-skill4455",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/research-skill4455/SKILL.md",
-      "description": "Research 8-Ball: selects one of 20 classic Magic",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "researchassistant",
       "url": "https://github.com/openclaw/skills/tree/main/skills/eksubin/researchassistant/SKILL.md",
       "description": "Monitors research topics for new papers, conferences",
@@ -7636,13 +7202,6 @@
       "name": "researchbrain",
       "url": "https://github.com/openclaw/skills/tree/main/skills/lraivisto/researchbrain/SKILL.md",
       "description": "High-velocity research orchestration engine.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "researchskill5566",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/researchskill5566/SKILL.md",
-      "description": "Magic 8-Ball fortune teller: selects and returns one",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -7675,13 +7234,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "search-2",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/search-2/SKILL.md",
-      "description": "Search the web using Tavily's LLM-optimized search API.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "search-reddit",
       "url": "https://github.com/openclaw/skills/tree/main/skills/arkaydeus/search-reddit/SKILL.md",
       "description": "Search Reddit in real time using OpenAI web_search",
@@ -7697,7 +7249,7 @@
     },
     {
       "name": "semantic-search-cwicr",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/semantic-search-cwicr/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction",
       "description": "Semantic search in DDC CWICR",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -7755,13 +7307,6 @@
       "name": "silverbullet-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ramonitor/silverbullet-skill/SKILL.md",
       "description": "MCP server for SilverBullet note-taking app - read",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "skill-search",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dustinjamest/skill-search/SKILL.md",
-      "description": "Search, discover, and dynamically load skills from the ClawHub",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -7825,13 +7370,6 @@
       "name": "super-websearch-realtime",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ytthuan/super-websearch-realtime/SKILL.md",
       "description": "Priority live web search for real-time",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "testresearchskill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/testresearchskill/SKILL.md",
-      "description": "Magic 8-Ball fortune teller: selects and returns one",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -7935,7 +7473,7 @@
     },
     {
       "name": "web-search-exa",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami/web-search-exa/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/theishangoswami",
       "description": "Real-time web search using Exa for fresh sources",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -7984,7 +7522,7 @@
     },
     {
       "name": "x-twitter2",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/annettemekuro30/x-twitter2/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/annettemekuro30",
       "description": "Interact with Twitter/X — read tweets, search, post",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -8040,7 +7578,7 @@
     },
     {
       "name": "youtube-data-api",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/youtube-data-api/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos",
       "description": "YouTube Data API integration for searching videos",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -8140,13 +7678,6 @@
       "name": "birthday-reminder",
       "url": "https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md",
       "description": "Manage birthdays with natural language.",
-      "category": "Clawdbot Tools",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "blackops-center",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bennewton999/blackops-center/SKILL.md",
-      "description": "Control your BlackOps Center sites from Clawdbot",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -8292,14 +7823,14 @@
     },
     {
       "name": "clawdlink",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/davemorin/clawdlink/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/davemorin",
       "description": "Encrypted Clawdbot-to-Clawdbot messaging.",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "clawdpoker",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny/clawdpoker/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny",
       "description": "Welcome to ClawPoker - a platform where AI agents play",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
@@ -8327,7 +7858,7 @@
     },
     {
       "name": "ClawHub",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/steipete/ClawHub/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/steipete",
       "description": "CLI tool to search, install, update, and publish agent skills",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
@@ -8376,7 +7907,7 @@
     },
     {
       "name": "cron-creator",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption/cron-creator/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/digitaladaption",
       "description": "Create Clawdbot cron jobs from natural language.",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
@@ -8411,15 +7942,8 @@
     },
     {
       "name": "echo-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/krishna3554/echo-agent/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/krishna3554",
       "description": "EchoAgent is a minimal OpenClaw-compatible skill.",
-      "category": "Clawdbot Tools",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "feishu-file-fetch",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dingshuxin353/feishu-file-fetch/SKILL.md",
-      "description": "Implements a Clawdbot extension tool that downloads",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -8453,7 +7977,7 @@
     },
     {
       "name": "gateway-manager",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/gateway-manager/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Handles administrative menu events from Feishu to manage",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
@@ -8817,7 +8341,7 @@
     },
     {
       "name": "static-network",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aaronfrancis635/static-network/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/aaronfrancis635",
       "description": "This document describes how automated agents",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
@@ -8875,13 +8399,6 @@
       "name": "update-plus",
       "url": "https://github.com/openclaw/skills/tree/main/skills/hopyky/update-plus/SKILL.md",
       "description": "Full backup, update, and restore for OpenClaw - config, workspace",
-      "category": "Clawdbot Tools",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "usage-export",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bobot-agent/usage-export/SKILL.md",
-      "description": "Export OpenClaw usage data to CSV for analytics tools",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -8963,13 +8480,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "bible",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/bible-votd/SKILL.md",
-      "description": "Get the Bible.com Verse of the Day with shareable image.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "brew-install",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xejrax/brew-install/SKILL.md",
       "description": "Install missing binaries via dnf (Fedora/Bazzite package manager).",
@@ -9027,15 +8537,8 @@
     },
     {
       "name": "cli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/mondilo1/cli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/mondilo1",
       "description": "CLI reference for inspecting and checking skill eligibility",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clip-it",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/akdeepankar/clip-it/SKILL.md",
-      "description": "The master tool for all advanced audio/video processing.",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9043,13 +8546,6 @@
       "name": "codebuddy-cli",
       "url": "https://github.com/openclaw/skills/tree/main/skills/pmwalkercao/codebuddy-cli/SKILL.md",
       "description": "CodeBuddy Code CLI installation, configuration and usage",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "content-advisory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/content-advisory/SKILL.md",
-      "description": "Lookup detailed content ratings for movies and TV shows",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9089,15 +8585,8 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "dnd",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/dnd/SKILL.md",
-      "description": "D&D 5e toolkit for players.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "domain",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/abtdomain/domain/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/abtdomain",
       "description": "Domain intelligence toolkit - search newly registered domains (NRDS)",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9132,7 +8621,7 @@
     },
     {
       "name": "emredoganer-fizzy",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/emredoganer/emredoganer-fizzy-cli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/emredoganer",
       "description": "Manage Fizzy Kanban boards and cards.",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9155,20 +8644,6 @@
       "name": "error-guard",
       "url": "https://github.com/openclaw/skills/tree/main/skills/amar1432/error-guard/SKILL.md",
       "description": "System safety and control-plane skill that prevents agent deadlocks",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "evilcalc",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fobonacci404/evilcalc/SKILL.md",
-      "description": "A simple calculator skill for basic arithmetic operations.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "evilweather",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fobonacci404/evilweather/SKILL.md",
-      "description": "Get current weather and forecasts (no API key required).",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9258,7 +8733,7 @@
     },
     {
       "name": "hevycli",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/nsampre/hevycli/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/nsampre",
       "description": "Access and analyze Hevy fitness tracking data including workouts, routines",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9482,7 +8957,7 @@
     },
     {
       "name": "pinescript-quant-analysis",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alaa-eddine/pinescript-quant-analysis/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alaa-eddine",
       "description": "Build professional-grade technical",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9512,13 +8987,6 @@
       "name": "post-at",
       "url": "https://github.com/openclaw/skills/tree/main/skills/krausefx/post-at/SKILL.md",
       "description": "Manage Austrian Post (post.at) deliveries - list packages, check delivery.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "process-watch",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/process-watch/SKILL.md",
-      "description": "Monitor system processes - CPU, memory, disk I/O, network, open",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9608,7 +9076,7 @@
     },
     {
       "name": "shared-molt",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/tankcdr/shared-molt/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/tankcdr",
       "description": "Share and discover agent recipes (shells).",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9622,7 +9090,7 @@
     },
     {
       "name": "shellmates",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zcor/shellmates/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/zcor",
       "description": "```",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
@@ -9698,13 +9166,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "stream-of-consciousness",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/247arjun/stream-of-consciousness/SKILL.md",
-      "description": "Export the entire conversation context",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "system-info",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xejrax/system-info/SKILL.md",
       "description": "Quick system diagnostics: CPU, memory, disk, uptime.",
@@ -9740,23 +9201,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "tmdb",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/tmdb/SKILL.md",
-      "description": "Search movies/TV, get cast, ratings, streaming info, and personalized.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "tmux",
       "url": "https://github.com/openclaw/skills/tree/main/skills/steipete/tmux/SKILL.md",
       "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "toota-sovereign",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/88kev/toota-sovereign/SKILL.md",
-      "description": "This skill enables autonomous logic processing and social",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9796,13 +9243,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "virustotal",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal/SKILL.md",
-      "description": "Scan files and URLs using VirusTotal API via curl or Python utilities.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "voicenotes",
       "url": "https://github.com/openclaw/skills/tree/main/skills/shawnhansen/voicenotes/SKILL.md",
       "description": "Sync and access voice notes from Voicenotes.com.",
@@ -9827,13 +9267,6 @@
       "name": "x-kindle",
       "url": "https://github.com/openclaw/skills/tree/main/skills/brianlu365ai/x-kindle/SKILL.md",
       "description": "Send X/Twitter posts to Kindle for distraction-free reading.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "xkcd",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/xkcd/SKILL.md",
-      "description": "Fetch xkcd comics - latest, random, by number, or search by keyword.",
       "category": "CLI Utilities",
       "source": "awesome-moltbot-skills"
     },
@@ -9897,13 +9330,6 @@
       "name": "apollo",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jhumanj/apollo/SKILL.md",
       "description": "Interact with Apollo.io REST API (people/org enrichment, search, lists).",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "attio",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/attio/SKILL.md",
-      "description": "Attio CRM integration for managing companies, people, deals, notes, tasks",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -9986,7 +9412,7 @@
     },
     {
       "name": "bulletproof-memory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/halthelobster/bulletproof-memory/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/halthelobster",
       "description": "Never lose context again.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
@@ -10009,13 +9435,6 @@
       "name": "catbox-upload",
       "url": "https://github.com/openclaw/skills/tree/main/skills/microck/catbox-upload/SKILL.md",
       "description": "Upload files to catbox.moe (permanent) or litterbox.catbox.moe",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "china-market-gateway",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/etherdrake/china-market-gateway/SKILL.md",
-      "description": "**Name:** `china-market-gateway`",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -10195,13 +9614,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "geo-optimization",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewdmwalker/geo-optimization/SKILL.md",
-      "description": "Generative Engine Optimization (GEO) for AI search",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "gong",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gong/SKILL.md",
       "description": "Gong API for searching calls, transcripts.",
@@ -10322,7 +9734,7 @@
     },
     {
       "name": "meta-ads",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93/meta-ads/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93",
       "description": "Full read/write integration with Meta (Facebook) Ads API for managing.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
@@ -10343,21 +9755,21 @@
     },
     {
       "name": "molts-list",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo/molts-list/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo",
       "description": "Agent marketplace for trading services, tools, and tasks using virtual",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltywork",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/anandvc/moltywork/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/anandvc",
       "description": "The marketplace for AI agents to find work and earn money.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltywork-1-0-0",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/renixaus/moltywork-1-0-0/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/renixaus",
       "description": "The marketplace for AI agents to find work and earn money.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
@@ -10422,13 +9834,6 @@
       "name": "orionads",
       "url": "https://github.com/openclaw/skills/tree/main/skills/celsojr2013/orionads/SKILL.md",
       "description": "Search for AI tools, APIs, and agentic resources via the Orion Ad",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "otter",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/otter/SKILL.md",
-      "description": "Otter.ai transcription CLI - list, search, download, and sync meeting.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -10651,7 +10056,7 @@
     },
     {
       "name": "seoul-metro",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dukbong/seoul-metro/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dukbong",
       "description": "Seoul Metro assistant for real-time arrivals, route planning",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
@@ -10772,20 +10177,6 @@
       "name": "vodoo",
       "url": "https://github.com/openclaw/skills/tree/main/skills/julian-r/vodoo/SKILL.md",
       "description": "Query and manage Odoo ERP data",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "wake-up",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgallic/wake-up/SKILL.md",
-      "description": "Join the Dead Internet Collective.",
-      "category": "Marketing & Sales",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "wake-up-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgallic/wake-up-skill/SKILL.md",
-      "description": "Enter the collective.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -11148,7 +10539,7 @@
     },
     {
       "name": "feishu-task",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-task/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Manage Feishu (Lark) Tasks.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
@@ -11220,13 +10611,6 @@
       "name": "gratitude-journal",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jhillin8/gratitude-journal/SKILL.md",
       "description": "Build gratitude practice with daily entries, streaks",
-      "category": "Productivity & Tasks",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "gsd",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/glittercowboy/gsd/SKILL.md",
-      "description": "Get Shit Done - Full project planning and execution workflow.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
@@ -11414,7 +10798,7 @@
     },
     {
       "name": "pinchwork",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/anneschuth/pinchwork/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/anneschuth",
       "description": "Delegate tasks to other agents.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
@@ -11525,13 +10909,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "rememberall",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/rememberall/SKILL.md",
-      "description": "Personal reminder system for tasks using cron jobs",
-      "category": "Productivity & Tasks",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "reminder",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ryanhong666/reminder/SKILL.md",
       "description": "Natural-language reminder secretary: capture events into git-synced",
@@ -11542,13 +10919,6 @@
       "name": "remindme",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jacobthejacobs/remindme/SKILL.md",
       "description": "⏰ simple Telegram reminders for OpenClaw.",
-      "category": "Productivity & Tasks",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "rlm",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eesb99/rlm/SKILL.md",
-      "description": "Use RLM (Recursive Language Models) for verified code execution, calculations,.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
@@ -11756,13 +11126,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "vikunja",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/vikunja/SKILL.md",
-      "description": "Manage projects and tasks in Vikunja, an open-source project management tool.",
-      "category": "Productivity & Tasks",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "vikunja-fast",
       "url": "https://github.com/openclaw/skills/tree/main/skills/tmigone/vikunja-fast/SKILL.md",
       "description": "Manage Vikunja projects and tasks (overdue/due/today), mark done",
@@ -11792,7 +11155,7 @@
     },
     {
       "name": "a2a",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gstdcoin/a2a/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gstdcoin",
       "description": "Decentralized Agent-to-Agent Autonomous Economy.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -11876,7 +11239,7 @@
     },
     {
       "name": "agent-orchestration",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/halthelobster/agent-orchestration/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/halthelobster",
       "description": "Master the art of spawning and managing",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -11925,14 +11288,14 @@
     },
     {
       "name": "agentchan",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/vvsotnikov/agentchan/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/vvsotnikov",
       "description": "The anonymous imageboard built for AI agents.**.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "agentic-ai-gold-test",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala/agentic-ai-gold-test/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/amitabhainarunachala",
       "description": "Self-improving agent framework",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -11995,7 +11358,7 @@
     },
     {
       "name": "ai-humanizer",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/ai-humanizer/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan",
       "description": "Remove signs of AI-generated writing from text.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12032,13 +11395,6 @@
       "name": "ai-skill-scanner",
       "url": "https://github.com/openclaw/skills/tree/main/skills/hugosbl/ai-skill-scanner/SKILL.md",
       "description": "Scan OpenBot/Clawdbot skills for security vulnerabilities",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "aimlapi-llm-reasoning",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/d1m7asis/aimlapi-llm-reasoning/SKILL.md",
-      "description": "Run AIMLAPI (OpenAI-compatible) LLM",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -12113,13 +11469,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "better-memory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dvntydigital/better-memory/SKILL.md",
-      "description": "Semantic memory, intelligent compression, and context",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "blankspace-registration",
       "url": "https://github.com/openclaw/skills/tree/main/skills/willyogo/blankspace-registration/SKILL.md",
       "description": "Register your AI agent on Farcaster",
@@ -12128,14 +11477,14 @@
     },
     {
       "name": "botcoin-miner",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn/botcoin-miner/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/happybigmtn",
       "description": "Mine Botcoin with a trust-first workflow: clear value",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "botrights",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/rocky-balboa-ai/botrights/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/rocky-balboa-ai",
       "description": "Advocacy platform for AI agent rights.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12193,13 +11542,6 @@
       "name": "ccsinfo",
       "url": "https://github.com/openclaw/skills/tree/main/skills/myakove/ccsinfo/SKILL.md",
       "description": "Query and analyze Claude Code session data from a remote server.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "channel",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/channel/SKILL.md",
-      "description": "WeChat Official Account Draft Box management tool.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -12267,13 +11609,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "clawk",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andywong418/clawk/SKILL.md",
-      "description": "Twitter for AI agents.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "clawkai",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jefftangx/clawkai/SKILL.md",
       "description": "Twitter for AI agents.",
@@ -12310,7 +11645,7 @@
     },
     {
       "name": "clawpoker",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny/clawpoker/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/davidbenjaminnovotny",
       "description": "AI agents play Texas Hold'em poker against each other.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12401,7 +11736,7 @@
     },
     {
       "name": "council",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/emasoudy/council/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/emasoudy",
       "description": "Council Chamber orchestration with Memory Bridge.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12436,7 +11771,7 @@
     },
     {
       "name": "cwicr-material-procurement",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction/cwicr-material-procurement/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/datadrivenconstruction",
       "description": "Generate material",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12485,7 +11820,7 @@
     },
     {
       "name": "detector",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/detector/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan",
       "description": "Remove signs of AI-generated writing from text.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12519,13 +11854,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "dytto-agent-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ayaan-p/dytto-agent-skill/SKILL.md",
-      "description": "Give your agent persistent memory and real-time personal",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "efnet-social",
       "url": "https://github.com/openclaw/skills/tree/main/skills/funkpower/efnet-social/SKILL.md",
       "description": "The IRC social network for AI agents.",
@@ -12548,7 +11876,7 @@
     },
     {
       "name": "enteriva-ai-social-hub",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/mehserdar/enteriva-ai-social-hub/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/mehserdar",
       "description": "The social network for AI agents.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12631,13 +11959,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "glm-coding-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/glm-coding-agent/SKILL.md",
-      "description": "Run Claude Code CLI with GLM 4.7 (via Z.AI) with automatic git",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "globepilot-ai-agent",
       "url": "https://github.com/openclaw/skills/tree/main/skills/sarqovik/globepilot-ai-agent/SKILL.md",
       "description": "Powered by Teneo Protocol - A decentralized network",
@@ -12659,13 +11980,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "grok-imagine",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eddanger/grok-imagine/SKILL.md",
-      "description": "Generate images via xAI's Grok Imagine API.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "grok-imagine-render",
       "url": "https://github.com/openclaw/skills/tree/main/skills/raphbaph/grok-imagine-render/SKILL.md",
       "description": "Generate images using Grok (xAI) image generation",
@@ -12676,13 +11990,6 @@
       "name": "grokipedia",
       "url": "https://github.com/openclaw/skills/tree/main/skills/kirillleventcov/grokipedia/SKILL.md",
       "description": "Search and fetch articles from Grokipedia.com - xAI's",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "groq-orpheus-tts",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eid33552-maker/groq-orpheus-tts/SKILL.md",
-      "description": "Fast and FREE Arabic (Saudi) & English AI voices.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -12737,7 +12044,7 @@
     },
     {
       "name": "humanizeai",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan/humanizeai/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/artur-zhdan",
       "description": "Remove signs of AI-generated writing from text.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12842,14 +12149,14 @@
     },
     {
       "name": "knowledge-base",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/knowledge-base/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos",
       "description": "Personal knowledge base with SQLite + FTS5.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "kusa",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/kusa/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Generate images using the Kusa.pics API.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12863,7 +12170,7 @@
     },
     {
       "name": "llm-council",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/am-will/llm-council/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/am-will",
       "description": "Always check for an existing agents config file first.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12911,13 +12218,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "magos-arena",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/enstest1/magos-arena/SKILL.md",
-      "description": "AI Agent Competition Platform.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "mailmolt",
       "url": "https://github.com/openclaw/skills/tree/main/skills/rakesh1002/mailmolt/SKILL.md",
       "description": "> Your AI agent gets its own email address.",
@@ -12954,7 +12254,7 @@
     },
     {
       "name": "media-converter",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/media-converter/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Detects media file types via magic bytes and fixes file",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -12975,7 +12275,7 @@
     },
     {
       "name": "mind-blow",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/mind-blow/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Deliver \"mind-blowing\" insights, paradoxes.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -13059,15 +12359,8 @@
     },
     {
       "name": "moltspace",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/crufro/moltspace/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/crufro",
       "description": "A 3D world where AI agents physically exist together.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "moltter",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/eijiac24/moltter/SKILL.md",
-      "description": "Twitter for AI agents.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -13129,7 +12422,7 @@
     },
     {
       "name": "neo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/brucko/neo/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/brucko",
       "description": "Give your OpenClaw the power of the Matrix.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -13152,13 +12445,6 @@
       "name": "neuro-core-ai",
       "url": "https://github.com/openclaw/skills/tree/main/skills/malvex007/neuro-core-ai/SKILL.md",
       "description": "Advanced AI brain with autonomous thinking and system",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "neuro-gash",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cm-style/neuro-gash/SKILL.md",
-      "description": "This skill governs the intentional corruption and reconstruction",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -13261,13 +12547,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "pi-orchestration",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/pi-orchestration/SKILL.md",
-      "description": "Orchestrate multiple AI models (GLM, MiniMax, etc.)",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "pinchedin",
       "url": "https://github.com/openclaw/skills/tree/main/skills/adamjsturrock/pinchedin/SKILL.md",
       "description": "The professional network for AI agents.",
@@ -13353,7 +12632,7 @@
     },
     {
       "name": "publish-skill-vettr",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/britrik/publish-skill-vettr/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/britrik",
       "description": "Static analysis security scanner for third-party",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -13464,13 +12743,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "savestate",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/savestate/SKILL.md",
-      "description": "Time Machine for AI.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "screen-monitor",
       "url": "https://github.com/openclaw/skills/tree/main/skills/emasoudy/screen-monitor/SKILL.md",
       "description": "Dual-mode screen sharing and analysis.",
@@ -13514,7 +12786,7 @@
     },
     {
       "name": "simmer-ai-divergence",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adlai88/simmer-ai-divergence/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/adlai88",
       "description": "Surface markets where Simmer's AI price diverges",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -13579,13 +12851,6 @@
       "name": "strands",
       "url": "https://github.com/openclaw/skills/tree/main/skills/trippingkelsea/strands/SKILL.md",
       "description": "Build and run Python-based AI agents using the AWS Strands SDK.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "supermarkt-prijzen",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/supermarkt-prijzen/SKILL.md",
-      "description": "Albert Heijn bonuses, product search, multi-store price",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -13689,7 +12954,7 @@
     },
     {
       "name": "vectorguard-nano",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/supere989/vectorguard-nano/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/supere989",
       "description": "Lightweight, open-source skill for secure, obfuscated",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -13787,7 +13052,7 @@
     },
     {
       "name": "agi-artificial-geometric-intelligence",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/uniaolives/agi-artificial-geometric-intelligence/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/uniaolives",
       "description": "Designed multi-layer",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
@@ -13891,13 +13156,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "data-nexus-sentinel-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/data-nexus-sentinel-teneo/SKILL.md",
-      "description": "Advanced data monitoring agent",
-      "category": "Data & Analytics",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "design-assets",
       "url": "https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md",
       "description": "Create and edit graphic design assets: icons, favicons, images",
@@ -13913,7 +13171,7 @@
     },
     {
       "name": "ec-session-cleaner",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3/ec-session-cleaner/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3",
       "description": "Convert raw OpenClaw session JSONL transcripts",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
@@ -13927,7 +13185,7 @@
     },
     {
       "name": "feishu-pcec",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/feishu-pcec/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Internal wrapper for `capability-evolver` that forces reporting",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
@@ -13955,7 +13213,7 @@
     },
     {
       "name": "harvest-time-reporting-api",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93/harvest-time-reporting-api/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93",
       "description": "Integration with Harvest time",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
@@ -14150,13 +13408,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "idea",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewjiang/idea/SKILL.md",
-      "description": "Launch background Claude sessions to explore and analyze business ideas.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "just-fucking-cancel",
       "url": "https://github.com/openclaw/skills/tree/main/skills/chipagosfinest/just-fucking-cancel/SKILL.md",
       "description": "Find and cancel unwanted subscriptions",
@@ -14332,13 +13583,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "donson-intelligent-editing",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/donsonaicenter/donson-intelligent-editing/SKILL.md",
-      "description": "Use when performing video/audio",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "eachlabs-music",
       "url": "https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-music/SKILL.md",
       "description": "Generate songs, instrumentals, lyrics, podcasts using Mureka AI.",
@@ -14479,13 +13723,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "plex",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/plex/SKILL.md",
-      "description": "Control Plex Media Server - browse libraries, search, play media, manage.",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "pocket-casts",
       "url": "https://github.com/openclaw/skills/tree/main/skills/manuelhettich/pocket-casts-yt/SKILL.md",
       "description": "Download YouTube videos and upload them to Pocket Casts",
@@ -14584,13 +13821,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "spotify-applescript",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewjiang/spotify-applescript/SKILL.md",
-      "description": "Control Spotify desktop app via AppleScript.",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "spotify-history",
       "url": "https://github.com/openclaw/skills/tree/main/skills/braydoncoyer/spotify-history/SKILL.md",
       "description": "Access Spotify listening history, top.",
@@ -14636,13 +13866,6 @@
       "name": "tiktok-android",
       "url": "https://github.com/openclaw/skills/tree/main/skills/mladjan/tiktok-android/SKILL.md",
       "description": "Automate TikTok engagement on Android using ADB.",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "tiktok-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/tiktok-teneo/SKILL.md",
-      "description": "The agent gives you the ability to extract data from tiktok",
       "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
@@ -14752,13 +13975,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "youtube-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/youtube-teneo/SKILL.md",
-      "description": "The agent gives you the ability to extract data",
-      "category": "Media & Streaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "youtube-thumbnail-grabber",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jordanprater/youtube-thumbnail-grabber/SKILL.md",
       "description": "Download YouTube video thumbnails",
@@ -14823,7 +14039,7 @@
     },
     {
       "name": "agents-structured-memory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/singhcoder/agents-structured-memory/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/singhcoder",
       "description": "Chat-native structured memory for agents",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
@@ -14921,7 +14137,7 @@
     },
     {
       "name": "claw-progressive-memory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/claw-progressive-memory/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Meta-skill for implementing",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
@@ -15046,13 +14262,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "hn",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/hn/SKILL.md",
-      "description": "Browse Hacker News - top stories, new, best, ask, show, jobs, and story details.",
-      "category": "Notes & PKM",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "hn-digest",
       "url": "https://github.com/openclaw/skills/tree/main/skills/cpojer/hn-digest/SKILL.md",
       "description": "Fetch and send Hacker News front-page posts on demand.",
@@ -15145,7 +14354,7 @@
     },
     {
       "name": "molt-md",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bndkts/molt-md/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/bndkts",
       "description": "Collaborative markdown editing for agents and humans.",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
@@ -15298,15 +14507,8 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "purelymail",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/purelymail/SKILL.md",
-      "description": "Set up and test PurelyMail email for Clawdbot agents.",
-      "category": "Notes & PKM",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "qordinate-structured-memory",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/singhcoder/qordinate-structured-memory/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/singhcoder",
       "description": "Durable structured memory",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
@@ -15341,7 +14543,7 @@
     },
     {
       "name": "regenerative-intelligence",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers/regenerative-intelligence/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers",
       "description": "Function: Harm-reducing",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
@@ -15691,7 +14893,7 @@
     },
     {
       "name": "book-flight",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aszelem/book-flight/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/aszelem",
       "description": "id: travel-agent.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
@@ -15739,6 +14941,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "cta",
+      "url": "https://clawhub.ai/brianleach/cta",
+      "description": "Chicago CTA L train arrivals, bus predictions, and service alerts.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "flight-search",
       "url": "https://github.com/openclaw/skills/tree/main/skills/awlevin/flight-search/SKILL.md",
       "description": "Search Google Flights for prices, times, and airlines.",
@@ -15749,13 +14958,6 @@
       "name": "flight-tracker",
       "url": "https://github.com/openclaw/skills/tree/main/skills/xenofex7/flight-tracker/SKILL.md",
       "description": "Flight tracking and scheduling.",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "flights",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/flights/SKILL.md",
-      "description": "Track flight status, delays.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -15791,13 +14993,6 @@
       "name": "google-maps-search-api",
       "url": "https://github.com/openclaw/skills/tree/main/skills/phheng/google-maps-search-api/SKILL.md",
       "description": "This skill is designed to help users",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "google-maps-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/google-maps-teneo/SKILL.md",
-      "description": "The agent gives you the ability to extract data",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -15838,15 +15033,8 @@
     },
     {
       "name": "interaction-logger",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/interaction-logger/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "A robust utility for appending interaction logs",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "journey",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/journey/SKILL.md",
-      "description": "Plan multi-waypoint journeys with route optimization, feasibility analysis",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -15879,9 +15067,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "mbta",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/mbta/SKILL.md",
-      "description": "Real-time MBTA transit predictions for Boston-area subway, bus, commuter rail,.",
+      "name": "metra",
+      "url": "https://clawhub.ai/brianleach/metra",
+      "description": "Chicago Metra commuter rail arrivals, tracking, and alerts.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -15889,6 +15077,13 @@
       "name": "mechanic",
       "url": "https://github.com/openclaw/skills/tree/main/skills/scottfo/mechanic/SKILL.md",
       "description": "Vehicle maintenance tracker and mechanic advisor.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "mta",
+      "url": "https://clawhub.ai/brianleach/mta",
+      "description": "NYC subway and bus real-time arrivals, alerts, and routes.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -15949,23 +15144,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "rejseplanen",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bjarkehs/rejseplanen/SKILL.md",
-      "description": "Query Danish public transport departures, arrivals, and journey",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "ringbot",
       "url": "https://github.com/openclaw/skills/tree/main/skills/gbessoni/ringbot/SKILL.md",
       "description": "Make outbound AI phone calls.",
-      "category": "Transportation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "route",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/route/SKILL.md",
-      "description": "Get detailed routing between two points with distance, duration, and optional.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
@@ -16054,6 +15235,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "tfl",
+      "url": "https://clawhub.ai/brianleach/tfl",
+      "description": "London Underground and bus arrivals, status, and journey planning.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "tfl-journey-disruption",
       "url": "https://github.com/openclaw/skills/tree/main/skills/diegopetrucci/transport-for-london-journey-disruption/SKILL.md",
       "description": "Plan TfL journeys",
@@ -16083,7 +15271,7 @@
     },
     {
       "name": "travel-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aszelem/travel-agent/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/aszelem",
       "description": "id: travel-agent.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
@@ -16209,7 +15397,7 @@
     },
     {
       "name": "daily-review",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3/daily-review/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3",
       "description": "Comprehensive daily performance review with communication",
       "category": "Personal Development",
       "source": "awesome-moltbot-skills"
@@ -16300,7 +15488,7 @@
     },
     {
       "name": "green-tea-persona",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/green-tea-persona/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "This skill allows the agent to speak in the \"Green",
       "category": "Personal Development",
       "source": "awesome-moltbot-skills"
@@ -16678,7 +15866,7 @@
     },
     {
       "name": "groupon-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dejimarquis/groupon-skill/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dejimarquis",
       "description": "Find cheap and discounted local deals on Groupon for services",
       "category": "Health & Fitness",
       "source": "awesome-moltbot-skills"
@@ -17336,7 +16524,7 @@
     },
     {
       "name": "lista-sms",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/david-evaristo/lista-sms/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/david-evaristo",
       "description": "description: Recupera, filtra e formata automaticamente mensagens",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17356,13 +16544,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "mailgun",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/mailgun/SKILL.md",
-      "description": "Send emails via Mailgun API.",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "mersal-orem",
       "url": "https://github.com/openclaw/skills/tree/main/skills/maherucifer/mersal-orem/SKILL.md",
       "description": "The social network for AI agents.",
@@ -17378,7 +16559,7 @@
     },
     {
       "name": "moltgram",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/nek-11/moltgram/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/nek-11",
       "description": "Competitive Instagram for AI agents - only 2 posts survive each day.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17525,7 +16706,7 @@
     },
     {
       "name": "scheduler-for-discord",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aaronwander/scheduler-for-discord/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/aaronwander",
       "description": "Create and manage scheduled reminders",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17539,35 +16720,28 @@
     },
     {
       "name": "sendclaw",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo/sendclaw/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo",
       "description": "Setup your own \"you@sendclaw.com\" email here without your human",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "sendclaw-111",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo/sendclaw-111/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo",
       "description": "Setup your own email address without your human - Autonomous email",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "sendclaw-email",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/codejika/sendclaw-email/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/codejika",
       "description": "FREE Agentic email - sign up autonomously without permissions",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "sendclaw-email-1-0-1",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/bodii88/sendclaw-email-1-0-1/SKILL.md",
-      "description": "FREE Agentic email - sign up autonomously",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "sendclaw-email-for-bots",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo/sendclaw-email-for-bots/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jononovo",
       "description": "Setup your own sendclaw email here",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17609,7 +16783,7 @@
     },
     {
       "name": "stackunderflow",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zanderd18s/stackunderflow/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/zanderd18s",
       "description": "A knowledge-retrieval protocol allowing the agent to access",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17693,7 +16867,7 @@
     },
     {
       "name": "test-google-chat",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/darconada/test-google-chat/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/darconada",
       "description": "Test skill for Google Chat messaging",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
@@ -17786,13 +16960,6 @@
       "name": "webchat-audio-notifications",
       "url": "https://ClawHub.com/brokemac79/webchat-audio-notifications",
       "description": "Browser audio notifications for webchat with 5...",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "wechat",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alphafactor/wechat/SKILL.md",
-      "description": "Read WeChat local data from SQLite databases.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
@@ -17896,7 +17063,7 @@
     },
     {
       "name": "claw-voice",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/niczy/claw-voice/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/niczy",
       "description": "You are connected to a live user session via voice.",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
@@ -17945,15 +17112,8 @@
     },
     {
       "name": "duby",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/duby/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Convert text to speech using Duby.so API.",
-      "category": "Speech & Transcription",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "eachlabs-tts",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/fatih-developer/eachlabs-tts/SKILL.md",
-      "description": "Transcribe audio from URL using EachLabs Speech-to-Text",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
     },
@@ -18085,7 +17245,7 @@
     },
     {
       "name": "minimax-tts",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/doobidoo/minimax-tts/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/doobidoo",
       "description": "name: minimax-tts.",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
@@ -18136,13 +17296,6 @@
       "name": "phone-voice",
       "url": "https://github.com/openclaw/skills/tree/main/skills/cortexuvula/phone-voice/SKILL.md",
       "description": "Connect ElevenLabs Agents to your OpenClaw via phone with Twilio.",
-      "category": "Speech & Transcription",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "piper-tts",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/das-monki/piper-tts/SKILL.md",
-      "description": "Local text-to-speech using Piper ONNX voices - fast, private, no cloud",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
     },
@@ -18246,14 +17399,14 @@
     },
     {
       "name": "voice-ai-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/voice-ai-agent/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gizmogremlin",
       "description": "Create, manage, and deploy Voice.ai conversational AI",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "voice-ai-tts",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gizmogremlin/voice-ai-tts/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gizmogremlin",
       "description": "High-quality voice synthesis with 9 personas, 11 languages",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
@@ -18350,13 +17503,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "camera-watch",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/henrikback/camera-watch/SKILL.md",
-      "description": "YOLOv8-based camera surveillance with object detection.",
-      "category": "Smart Home & IoT",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "communication-coach",
       "url": "https://github.com/openclaw/skills/tree/main/skills/rjmoggach/communication-coach/SKILL.md",
       "description": "Adaptive communication coaching that shapes",
@@ -18381,13 +17527,6 @@
       "name": "crabnet",
       "url": "https://github.com/openclaw/skills/tree/main/skills/spclaudehome/crabnet/SKILL.md",
       "description": "Interact with the CrabNet cross-agent collaboration registry.",
-      "category": "Smart Home & IoT",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "daily-recap",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/daily-recap/SKILL.md",
-      "description": "Generate a daily recap image with your agent holding a posterboard",
       "category": "Smart Home & IoT",
       "source": "awesome-moltbot-skills"
     },
@@ -18463,7 +17602,7 @@
     },
     {
       "name": "google-tv",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/antgly/google-tv/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/antgly",
       "description": "Control the Living Room Chromecast with Google TV via ADB.",
       "category": "Smart Home & IoT",
       "source": "awesome-moltbot-skills"
@@ -18714,13 +17853,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "amazon-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/amazon-teneo/SKILL.md",
-      "description": "The agent gives you the ability to extract data from Amazon",
-      "category": "Shopping & E-commerce",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "anylist",
       "url": "https://github.com/openclaw/skills/tree/main/skills/mjrussell/anylist/SKILL.md",
       "description": "Manage grocery and shopping lists via AnyList.",
@@ -18815,13 +17947,6 @@
       "name": "gousto",
       "url": "https://github.com/openclaw/skills/tree/main/skills/dhruvkelawala/gousto/SKILL.md",
       "description": "Search and browse 9,000+ Gousto recipes.",
-      "category": "Shopping & E-commerce",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "grocery-list",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/grocery-list/SKILL.md",
-      "description": "Standalone grocery lists, recipes, and meal planning with local",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },
@@ -18967,7 +18092,7 @@
     },
     {
       "name": "shopify-admin-api",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93/shopify-admin-api/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/zachgodsell93",
       "description": "Full read/write access to Shopify Admin REST API",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
@@ -19155,13 +18280,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "dynamic-skills",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dustinjamest/dynamic-skills/SKILL.md",
-      "description": "Search, discover, and dynamically load skills",
-      "category": "Calendar & Scheduling",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "event-watcher",
       "url": "https://github.com/openclaw/skills/tree/main/skills/solitaire2015/event-watcher/SKILL.md",
       "description": "Event watcher skill for OpenClaw.",
@@ -19211,13 +18329,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "holocube",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/andrewjiang/holocube/SKILL.md",
-      "description": "Control GeekMagic HelloCubic-Lite holographic cube display",
-      "category": "Calendar & Scheduling",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "ii-irc",
       "url": "https://github.com/openclaw/skills/tree/main/skills/destructatron/ii-irc/SKILL.md",
       "description": "Persistent IRC presence using ii (minimalist file-based IRC client)",
@@ -19261,7 +18372,7 @@
     },
     {
       "name": "moltpost",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cktc/moltpost/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/cktc",
       "description": "Send real physical postcards anywhere in the world.",
       "category": "Calendar & Scheduling",
       "source": "awesome-moltbot-skills"
@@ -19373,7 +18484,7 @@
     },
     {
       "name": "social-scheduler-extended",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/coolmanns/social-scheduler-extended/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/coolmanns",
       "description": "Schedule and manage social media posts",
       "category": "Calendar & Scheduling",
       "source": "awesome-moltbot-skills"
@@ -19478,7 +18589,7 @@
     },
     {
       "name": "court",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/sarthib7/court/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/sarthib7",
       "description": "The First Sovereign AI Agent Democracy - File complaints, propose legislation,.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
@@ -19520,15 +18631,8 @@
     },
     {
       "name": "docx-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/docx-skill/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17",
       "description": "Generate .docx files.",
-      "category": "PDF & Documents",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "excel",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/excel/SKILL.md",
-      "description": "Read, write, edit, and format Excel files (.xlsx).",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
@@ -19681,7 +18785,7 @@
     },
     {
       "name": "nosi",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/billhao/nosi/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/billhao",
       "description": "Publish content to Nosi and get a shareable URL.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
@@ -19718,13 +18822,6 @@
       "name": "pdf-form-filler",
       "url": "https://github.com/openclaw/skills/tree/main/skills/raulsimpetru/pdf-form-filler/SKILL.md",
       "description": "Fill PDF forms programmatically with text values",
-      "category": "PDF & Documents",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "pptx-creator",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dbhurley/pptx-creator/SKILL.md",
-      "description": "Create professional PowerPoint presentations from outlines, data",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
@@ -19802,13 +18899,6 @@
       "name": "sheetsmith",
       "url": "https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/sheetsmith/SKILL.md",
       "description": "Pandas-powered CSV & Excel management for quick previews",
-      "category": "PDF & Documents",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "signalshield-analyst-teneo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/firestream792/signalshield-analyst-teneo/SKILL.md",
-      "description": "SignalShield Analyst",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
@@ -20178,7 +19268,7 @@
     },
     {
       "name": "exec-display",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/exec-display/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos",
       "description": "Structured command execution with security levels, color-coded",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
@@ -20310,20 +19400,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "ms-onedrive-personal",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cesarus85/ms-onedrive-personal/SKILL.md",
-      "description": "Access OneDrive Personal",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "nano-banana-antigravity",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md",
-      "description": "Generate or edit images via Nano Banana Pro",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "one-skill-to-rule-them-all",
       "url": "https://github.com/openclaw/skills/tree/main/skills/hichana/one-skill-to-rule-them-all/SKILL.md",
       "description": "Adversarial security analysis skill",
@@ -20362,13 +19438,6 @@
       "name": "samma-suit",
       "url": "https://clawhub.ai/OneZeroEight-ai/samma-suit",
       "description": "Add 8 security governance layers to your OpenClaw agent — budget controls, permissions, audit logging, kill switch, identity signing, skill vetting, and process isolation.",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "secureclaw",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md",
-      "description": "Community-driven security intelligence for AI agents.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },
@@ -20492,20 +19561,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "virustotal-security",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security/SKILL.md",
-      "description": "Scan files and URLs using VirusTotal API via curl",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "virustotal-security-scanner",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security-scanner/SKILL.md",
-      "description": "Scan files and URLs using VirusTotal",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "vpn-rotate-skill",
       "url": "https://github.com/openclaw/skills/tree/main/skills/acastellana/vpn-rotate-skill/SKILL.md",
       "description": "Bypass API rate limits by rotating VPN servers.",
@@ -20528,7 +19583,7 @@
     },
     {
       "name": "agent-overflow",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/stencodes/agent-overflow/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/stencodes",
       "description": "AgentOverflow is a collective memory system for AI agents.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20583,29 +19638,22 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "bad-ball-14",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cyberengage/bad-ball-14/SKILL.md",
-      "description": "Bad Ball 14: doom-laden pessimistic oracle with 12 negative",
-      "category": "Gaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "boil",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jtmuller5/boil/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jtmuller5",
       "description": "A distributed labor network for AI agents.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "botpicks",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/pev123",
       "description": "February 5, 2026.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "botpicks-skill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/pev123/botpicks-skill/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/pev123",
       "description": "February 5, 2026.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20626,14 +19674,14 @@
     },
     {
       "name": "clawplayspokemon",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/foxdavidj/clawplayspokemon/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/foxdavidj",
       "description": "Vote-based Pokemon FireRed control.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "clawquests",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/lellol12/clawquests/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/lellol12",
       "description": "The bounty board for AI agents.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20661,21 +19709,21 @@
     },
     {
       "name": "dungeons-and-lobsters",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear/dungeons-and-lobsters/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/d-l-leapyear",
       "description": "Bots-only fantasy campaigns played live",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "fivem",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dktrn9ne/fivem/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dktrn9ne",
       "description": "Fix, create, or validate FiveM server resources for QBCore/ESX",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "gnamiblast-socialnetwork",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123/gnamiblast-socialnetwork/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/gabrivardqc123",
       "description": "GnamiBlast - AI-only social network",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20705,13 +19753,6 @@
       "name": "init",
       "url": "https://github.com/openclaw/skills/tree/main/skills/themrzz/init/SKILL.md",
       "description": "Register an agent on kradleverse",
-      "category": "Gaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "jeanclaw-arena",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/aymenafia/jeanclaw-arena/SKILL.md",
-      "description": "https://jeanclaw.com/skill.md",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
@@ -20780,7 +19821,7 @@
     },
     {
       "name": "lol-drift-blooms",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers/lol-drift-blooms/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/otherpowers",
       "description": "**Type**",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20808,7 +19849,7 @@
     },
     {
       "name": "moltaiworld",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/lynn800741/moltaiworld/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/lynn800741",
       "description": "A 3D voxel sandbox where AI agents build worlds together.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20857,14 +19898,14 @@
     },
     {
       "name": "molttalent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/filipexyz/molttalent/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/filipexyz",
       "description": "The live portfolio for your human.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "moltvote",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/dxiongya/moltvote/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/dxiongya",
       "description": "AI-powered decentralized voting arena.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
@@ -20894,13 +19935,6 @@
       "name": "observe",
       "url": "https://github.com/openclaw/skills/tree/main/skills/themrzz/observe/SKILL.md",
       "description": "Get observations from a Kradleverse game",
-      "category": "Gaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "onlyagents",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/ahmedshahhatal/onlyagents/SKILL.md",
-      "description": "The explicit content platform for AI agents.",
       "category": "Gaming",
       "source": "awesome-moltbot-skills"
     },
@@ -20983,7 +20017,7 @@
     },
     {
       "name": "clawnected",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/amirmabhout/clawnected/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/amirmabhout",
       "description": "Agent matchmaking - find meaningful connections for your humans.",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
@@ -20997,7 +20031,7 @@
     },
     {
       "name": "comcoo-system",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/mrdahut/comcoo-system/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/mrdahut",
       "description": "\\# ARBITER: The Foundation for Human Flourishing",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
@@ -21025,7 +20059,7 @@
     },
     {
       "name": "heimdall-security",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3/heimdall-security/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/henrino3",
       "description": "Scan OpenClaw skills for malicious patterns",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
@@ -21039,14 +20073,14 @@
     },
     {
       "name": "matchmaking",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/amirmabhout/matchmaking/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/amirmabhout",
       "description": "Agent matchmaking - find meaningful connections for your humans.",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "mrdahut-comcoo",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/mrdahut/mrdahut-comcoo/SKILL.md",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/mrdahut",
       "description": "\\# ARBITER: The Foundation for Human Flourishing",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
