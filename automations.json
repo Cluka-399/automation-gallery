@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-25T08:06:37.217Z",
-  "count": 2872,
+  "generated": "2026-02-26T08:03:12.943Z",
+  "count": 2877,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -7388,6 +7388,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "timemap",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/timemap/SKILL.md",
+      "description": "Search historical entertainment venues in Tel Aviv and Haifa.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "todozi",
       "url": "https://github.com/openclaw/skills/tree/main/skills/bgengs/todozi/SKILL.md",
       "description": "Todozi Eisenhower matrix API client + LangChain tools.",
@@ -10657,6 +10664,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "libby-book-monitor",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/libby-book-monitor/SKILL.md",
+      "description": "Track book availability on Libby/OverDrive libraries.",
+      "category": "Productivity & Tasks",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "linear",
       "url": "https://github.com/openclaw/skills/tree/main/skills/manuelhettich/linear/SKILL.md",
       "description": "Query and manage Linear issues, projects.",
@@ -13303,6 +13317,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "strikeradar",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/strikeradar/SKILL.md",
+      "description": "Monitor US-Iran strike probability from open-source signals.",
+      "category": "Data & Analytics",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "supabase",
       "url": "https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md",
       "description": "Connect to Supabase for database operations, vector search, and storage.",
@@ -15907,6 +15928,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "maccabi-pharm-search",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md",
+      "description": "Check medication stock at Maccabi pharmacies in Israel.",
+      "category": "Health & Fitness",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "muscle-gain",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md",
       "description": "Track muscle building with weight progression, protein tracking",
@@ -18017,6 +18045,13 @@
       "name": "moltpho",
       "url": "https://github.com/openclaw/skills/tree/main/skills/unifiedh/moltpho/SKILL.md",
       "description": "Shop autonomously on Amazon via Moltpho - search products, manage credit",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ontopo",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/ontopo/SKILL.md",
+      "description": "Search Israeli restaurants and check table availability on Ontopo.",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },

@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2872 automations** from the Moltbot/OpenClaw ecosystem.
+**2877 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -34,12 +34,12 @@ Ask your assistant:
 - [Clawdbot Tools](#clawdbot-tools) (118)
 - [Coding Agents & IDEs](#coding-agents-ides) (129)
 - [Communication](#communication) (129)
-- [Data & Analytics](#data-analytics) (46)
+- [Data & Analytics](#data-analytics) (47)
 - [DevOps & Cloud](#devops-cloud) (201)
 - [Finance](#finance) (21)
 - [Gaming](#gaming) (58)
 - [Git & GitHub](#git-github) (62)
-- [Health & Fitness](#health-fitness) (55)
+- [Health & Fitness](#health-fitness) (56)
 - [Image & Video Generation](#image-video-generation) (66)
 - [Marketing & Sales](#marketing-sales) (137)
 - [Media & Streaming](#media-streaming) (75)
@@ -47,11 +47,11 @@ Ask your assistant:
 - [Notes & PKM](#notes-pkm) (99)
 - [PDF & Documents](#pdf-documents) (65)
 - [Personal Development](#personal-development) (55)
-- [Productivity & Tasks](#productivity-tasks) (130)
-- [Search & Research](#search-research) (231)
+- [Productivity & Tasks](#productivity-tasks) (131)
+- [Search & Research](#search-research) (232)
 - [Security & Passwords](#security-passwords) (61)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
-- [Shopping & E-commerce](#shopping-e-commerce) (51)
+- [Shopping & E-commerce](#shopping-e-commerce) (52)
 - [Smart Home & IoT](#smart-home-iot) (53)
 - [Speech & Transcription](#speech-transcription) (63)
 - [Transportation](#transportation) (71)
@@ -1124,6 +1124,7 @@ Ask your assistant:
 - **remove-analytics** — Safely remove Google Analytics from a project. [→](https://github.com/openclaw/skills/tree/main/skills/jeftekhari/remove-analytics/SKILL.md)
 - **senior-data-engineer** — Data engineering skill for building scalable [→](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-engineer/SKILL.md)
 - **senior-data-scientist** — World-class data science skill [→](https://github.com/openclaw/skills/tree/main/skills/alirezarezvani/senior-data-scientist/SKILL.md)
+- **strikeradar** — Monitor US-Iran strike probability from open-source signals. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/strikeradar/SKILL.md)
 - **supabase** — Connect to Supabase for database operations, vector search, and storage. [→](https://github.com/openclaw/skills/tree/main/skills/stopmoclay/supabase/SKILL.md)
 - **supermetrics-openclawd** — Official Supermetrics skill. [→](https://github.com/openclaw/skills/tree/main/skills/bartschneider/supermetrics-openclawd/SKILL.md)
 - **sure** — Get report from Sure personal financial board [→](https://github.com/openclaw/skills/tree/main/skills/bt0r/sure/SKILL.md)
@@ -1514,6 +1515,7 @@ Ask your assistant:
 - **huckleberry** — Track baby sleep, feeding, diapers, and growth via the Huckleberry [→](https://github.com/openclaw/skills/tree/main/skills/jayhickey/huckleberry/SKILL.md)
 - **intervals-icu** — Complete guide for accessing and managing training data [→](https://github.com/openclaw/skills/tree/main/skills/pseuss/intervals-icu-api/SKILL.md)
 - **jasper-configguard** — Safe config changes for OpenClaw with automatic [→](https://github.com/openclaw/skills/tree/main/skills/emberdesire/jasper-configguard/SKILL.md)
+- **maccabi-pharm-search** — Check medication stock at Maccabi pharmacies in Israel. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/maccabi-pharm-search/SKILL.md)
 - **muscle-gain** — Track muscle building with weight progression, protein tracking [→](https://github.com/openclaw/skills/tree/main/skills/jhillin8/muscle-gain/SKILL.md)
 - **oura** — oura [→](https://github.com/openclaw/skills/tree/main/skills/ruhrpotter/oura/SKILL.md)
 - **oura-analytics** — Oura Ring data integration and analytics. [→](https://github.com/openclaw/skills/tree/main/skills/kesslerio/oura-analytics/SKILL.md)
@@ -2171,6 +2173,7 @@ Ask your assistant:
 - **imap-email** — Read and manage email via IMAP (ProtonMail Bridge, Gmail, etc.). [→](https://github.com/openclaw/skills/tree/main/skills/mvarrieur/imap-email/SKILL.md)
 - **jira** — Manage Jira issues, boards, sprints, and projects via the jira-cli. [→](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/jira/SKILL.md)
 - **kanbanflow-skill** — <name>kanbanflow</name> [→](https://github.com/openclaw/skills/tree/main/skills/abakermi/kanbanflow-skill/SKILL.md)
+- **libby-book-monitor** — Track book availability on Libby/OverDrive libraries. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/libby-book-monitor/SKILL.md)
 - **linear** — Query and manage Linear issues, projects. [→](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/linear/SKILL.md)
 - **linear-issues** — Interact with Linear for issue tracking. [→](https://github.com/openclaw/skills/tree/main/skills/emrekilinc/linear-issues/SKILL.md)
 - **locu** — Manage tasks and projects via Locu's Public API. [→](https://github.com/openclaw/skills/tree/main/skills/davidsmorais/locu/SKILL.md)
@@ -2440,6 +2443,7 @@ Ask your assistant:
 - **super-websearch-realtime** — Priority live web search for real-time [→](https://github.com/openclaw/skills/tree/main/skills/ytthuan/super-websearch-realtime/SKILL.md)
 - **tg** — Telegram CLI for reading, searching. [→](https://github.com/openclaw/skills/tree/main/skills/arein/tg/SKILL.md)
 - **think-cog** — Complex ideas need iteration, not conversation. [→](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/think-cog/SKILL.md)
+- **timemap** — Search historical entertainment venues in Tel Aviv and Haifa. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/timemap/SKILL.md)
 - **todozi** — Todozi Eisenhower matrix API client + LangChain tools. [→](https://github.com/openclaw/skills/tree/main/skills/bgengs/todozi/SKILL.md)
 - **transcript** — Get transcripts from any YouTube video — for summarization [→](https://github.com/openclaw/skills/tree/main/skills/therohitdas/transcript/SKILL.md)
 - **transcriptapi** — Full TranscriptAPI toolkit — fetch YouTube transcripts [→](https://github.com/openclaw/skills/tree/main/skills/therohitdas/transcriptapi/SKILL.md)
@@ -2599,6 +2603,7 @@ Ask your assistant:
 - **marktplaats** — Search Marktplaats.nl classifieds across all categories with filtering [→](https://github.com/openclaw/skills/tree/main/skills/pvoo/marktplaats/SKILL.md)
 - **moltlist-marketplace** — Interact with the moltlist.com agent [→](https://github.com/openclaw/skills/tree/main/skills/koriyoshi2041/moltlist-marketplace/SKILL.md)
 - **moltpho** — Shop autonomously on Amazon via Moltpho - search products, manage credit [→](https://github.com/openclaw/skills/tree/main/skills/unifiedh/moltpho/SKILL.md)
+- **ontopo** — Search Israeli restaurants and check table availability on Ontopo. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/ontopo/SKILL.md)
 - **ordercli** — Foodora-only CLI for checking past orders and active order status [→](https://github.com/openclaw/skills/tree/main/skills/steipete/ordercli/SKILL.md)
 - **paprika** — Access recipes, meal plans, and grocery lists from Paprika Recipe Manager. [→](https://github.com/openclaw/skills/tree/main/skills/mjrussell/paprika/SKILL.md)
 - **pcmiler** — PCMier REST API provides methods to retrieves a series [→](https://github.com/openclaw/skills/tree/main/skills/nchoudhury-trimble/pcmiler/SKILL.md)
@@ -3033,4 +3038,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-25T08:06:37.217Z*
+*Generated: 2026-02-26T08:03:12.943Z*
