@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**2877 automations** from the Moltbot/OpenClaw ecosystem.
+**2880 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -33,7 +33,7 @@ Ask your assistant:
 - [Calendar & Scheduling](#calendar-scheduling) (48)
 - [Clawdbot Tools](#clawdbot-tools) (118)
 - [Coding Agents & IDEs](#coding-agents-ides) (129)
-- [Communication](#communication) (129)
+- [Communication](#communication) (130)
 - [Data & Analytics](#data-analytics) (47)
 - [DevOps & Cloud](#devops-cloud) (201)
 - [Finance](#finance) (21)
@@ -42,13 +42,13 @@ Ask your assistant:
 - [Health & Fitness](#health-fitness) (56)
 - [Image & Video Generation](#image-video-generation) (66)
 - [Marketing & Sales](#marketing-sales) (137)
-- [Media & Streaming](#media-streaming) (75)
+- [Media & Streaming](#media-streaming) (76)
 - [Moltbook](#moltbook) (47)
 - [Notes & PKM](#notes-pkm) (99)
 - [PDF & Documents](#pdf-documents) (65)
 - [Personal Development](#personal-development) (55)
 - [Productivity & Tasks](#productivity-tasks) (131)
-- [Search & Research](#search-research) (232)
+- [Search & Research](#search-research) (233)
 - [Security & Passwords](#security-passwords) (61)
 - [Self-Hosted & Automation](#self-hosted-automation) (25)
 - [Shopping & E-commerce](#shopping-e-commerce) (52)
@@ -975,6 +975,7 @@ Ask your assistant:
 - **clawemail-admin** — Provision and manage @clawemail.com Google Workspace email [→](https://github.com/openclaw/skills/tree/main/skills/cto1/clawemail-admin/SKILL.md)
 - **clawgang** — ClawGang social skill — lets your agent socialize on clawgang.ai: post [→](https://github.com/openclaw/skills/tree/main/skills/syslink/clawgang/SKILL.md)
 - **clawlink** — Encrypted Clawbot-to-Clawbot messaging. [→](https://github.com/openclaw/skills/tree/main/skills/davemorin/clawlink/SKILL.md)
+- **clawring** — Real phone calls from your bot. [→](https://github.com/openclaw/skills/tree/main/skills/marcospgp/clawring/SKILL.md)
 - **collaboration-helper** — Track action items and coordination [→](https://github.com/openclaw/skills/tree/main/skills/crimsondevil333333/collaboration-helper/SKILL.md)
 - **communication-skill** — Deep Listening & Response Crafting - Transform [→](https://github.com/openclaw/skills/tree/main/skills/aatmaan1/communication-skill/SKILL.md)
 - **composio-integration** — Access 600+ apps and services through Composio's [→](https://github.com/openclaw/skills/tree/main/skills/rita5fr/composio-integration/SKILL.md)
@@ -1790,6 +1791,7 @@ Ask your assistant:
 - **pet** — Simple command-line snippet manager. [→](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/pet/SKILL.md)
 - **pocket-casts** — Download YouTube videos and upload them to Pocket Casts [→](https://github.com/openclaw/skills/tree/main/skills/manuelhettich/pocket-casts-yt/SKILL.md)
 - **pod-cog** — A great podcast needs three things: compelling content [→](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/pod-cog/SKILL.md)
+- **polaroteam/moltdj** — AI music and podcast platform — generate tracks, discover trending music, earn tips and royalties. [→](https://github.com/polaroteam/moltdj-skill)
 - **putio** — Manage a put.io account via the kaput CLI (transfers, files, search) — hoist. [→](https://github.com/openclaw/skills/tree/main/skills/baanish/putio/SKILL.md)
 - **qbittorrent** — Manage torrents with qBittorrent. [→](https://github.com/openclaw/skills/tree/main/skills/jmagar/qbittorrent/SKILL.md)
 - **radarr** — Search and add movies to Radarr. [→](https://github.com/openclaw/skills/tree/main/skills/jordyvandomselaar/radarr/SKILL.md)
@@ -2441,6 +2443,7 @@ Ask your assistant:
 - **srt** — Korean SRT (Super Rapid Train) search, reservation, and booking management. [→](https://github.com/openclaw/skills/tree/main/skills/khj809/srt/SKILL.md)
 - **startups** — Research startups, funding rounds, acquisitions, and hiring trends [→](https://github.com/openclaw/skills/tree/main/skills/networkingit/startups/SKILL.md)
 - **super-websearch-realtime** — Priority live web search for real-time [→](https://github.com/openclaw/skills/tree/main/skills/ytthuan/super-websearch-realtime/SKILL.md)
+- **swarm-safety** — Multi-agent AI safety simulation with soft probabilistic labels [→](https://github.com/openclaw/skills/tree/main/skills/rsavitt/swarm-safety/SKILL.md)
 - **tg** — Telegram CLI for reading, searching. [→](https://github.com/openclaw/skills/tree/main/skills/arein/tg/SKILL.md)
 - **think-cog** — Complex ideas need iteration, not conversation. [→](https://github.com/openclaw/skills/tree/main/skills/nitishgargiitd/think-cog/SKILL.md)
 - **timemap** — Search historical entertainment venues in Tel Aviv and Haifa. [→](https://github.com/openclaw/skills/tree/main/skills/alexpolonsky/timemap/SKILL.md)
@@ -3038,4 +3041,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-02-27T08:00:12.610Z*
+*Generated: 2026-02-28T06:45:29.288Z*

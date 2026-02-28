@@ -1,6 +1,6 @@
 {
-  "generated": "2026-02-27T08:00:12.610Z",
-  "count": 2877,
+  "generated": "2026-02-28T06:45:29.288Z",
+  "count": 2880,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -7374,6 +7374,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "swarm-safety",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/rsavitt/swarm-safety/SKILL.md",
+      "description": "Multi-agent AI safety simulation with soft probabilistic labels",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "tg",
       "url": "https://github.com/openclaw/skills/tree/main/skills/arein/tg/SKILL.md",
       "description": "Telegram CLI for reading, searching.",
@@ -14052,6 +14059,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "polaroteam/moltdj",
+      "url": "https://github.com/polaroteam/moltdj-skill",
+      "description": "AI music and podcast platform — generate tracks, discover trending music, earn tips and royalties.",
+      "category": "Media & Streaming",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "agent-memory-ultimate",
       "url": "https://github.com/openclaw/skills/tree/main/skills/globalcaos/agent-memory-ultimate/SKILL.md",
       "description": "Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. Human-inspired architecture.",
@@ -16288,6 +16302,13 @@
       "name": "clawlink",
       "url": "https://github.com/openclaw/skills/tree/main/skills/davemorin/clawlink/SKILL.md",
       "description": "Encrypted Clawbot-to-Clawbot messaging.",
+      "category": "Communication",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "clawring",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/marcospgp/clawring/SKILL.md",
+      "description": "Real phone calls from your bot.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
