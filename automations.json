@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-02T07:04:36.271Z",
-  "count": 880,
+  "generated": "2026-03-03T06:58:51.773Z",
+  "count": 877,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -132,13 +132,6 @@
       "name": "azure-devops",
       "url": "https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops/SKILL.md",
       "description": "List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "backup",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/jordanprater/backup/SKILL.md",
-      "description": "Backup and restore openclaw configuration, skills, commands, and settings.",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
     },
@@ -1623,13 +1616,6 @@
       "name": "assimilate-mcp",
       "url": "https://github.com/openclaw/skills/tree/main/skills/ergopooka/assimilate-mcp/SKILL.md",
       "description": "Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software.",
-      "category": "Clawdbot Tools",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "autoupdate",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md",
-      "description": "Automatically update Clawdbot and all installed skills once daily.",
       "category": "Clawdbot Tools",
       "source": "awesome-moltbot-skills"
     },
@@ -4861,20 +4847,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "ethereum-gas-tracker-k9hfk",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-k9hfk/SKILL.md",
-      "description": "Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times.",
-      "category": "Shopping & E-commerce",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "ethereum-gas-tracker-osr2u",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-osr2u/SKILL.md",
-      "description": "Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times.",
-      "category": "Shopping & E-commerce",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "accli",
       "url": "https://github.com/openclaw/skills/tree/main/skills/joargp/accli/SKILL.md",
       "description": "This skill should be used when interacting with Apple Calendar on macOS.",
@@ -5627,6 +5599,13 @@
       "name": "dotnet-expert",
       "url": "https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md",
       "description": "Use when building .NET 8/9 applications, ASP.NET Core APIs.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "domain-trust-check",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md",
+      "description": "Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

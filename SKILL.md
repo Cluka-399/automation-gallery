@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**880 automations** from the Moltbot/OpenClaw ecosystem.
+**877 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -31,14 +31,14 @@ Ask your assistant:
 - [Browser & Automation](#browser-automation) (29)
 - [CLI Utilities](#cli-utilities) (28)
 - [Calendar & Scheduling](#calendar-scheduling) (27)
-- [Clawdbot Tools](#clawdbot-tools) (25)
+- [Clawdbot Tools](#clawdbot-tools) (24)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
 - [Communication](#communication) (29)
 - [Data & Analytics](#data-analytics) (28)
 - [DevOps & Cloud](#devops-cloud) (28)
 - [Finance](#finance) (21)
 - [Gaming](#gaming) (26)
-- [Git & GitHub](#git-github) (25)
+- [Git & GitHub](#git-github) (24)
 - [Health & Fitness](#health-fitness) (29)
 - [Image & Video Generation](#image-video-generation) (30)
 - [Marketing & Sales](#marketing-sales) (29)
@@ -49,9 +49,9 @@ Ask your assistant:
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
 - [Search & Research](#search-research) (29)
-- [Security & Passwords](#security-passwords) (26)
+- [Security & Passwords](#security-passwords) (27)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
-- [Shopping & E-commerce](#shopping-e-commerce) (27)
+- [Shopping & E-commerce](#shopping-e-commerce) (25)
 - [Smart Home & IoT](#smart-home-iot) (29)
 - [Speech & Transcription](#speech-transcription) (28)
 - [Transportation](#transportation) (29)
@@ -246,7 +246,6 @@ Ask your assistant:
 - **agent-builder** — Build high-performing OpenClaw agents end-to-end. [→](https://github.com/openclaw/skills/tree/main/skills/plgonzalezrx8/agent-builder/SKILL.md)
 - **agents-manager** — Manage Clawdbot agents: discover, profile, track. [→](https://github.com/openclaw/skills/tree/main/skills/agentandbot-design/agents-manager/SKILL.md)
 - **assimilate-mcp** — Control Assimilate Live FX / SCRATCH — professional color grading, compositing, and virtual production software. [→](https://github.com/openclaw/skills/tree/main/skills/ergopooka/assimilate-mcp/SKILL.md)
-- **autoupdate** — Automatically update Clawdbot and all installed skills once daily. [→](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/autoupdate/SKILL.md)
 - **birthday-reminder** — Manage birthdays with natural language. [→](https://github.com/openclaw/skills/tree/main/skills/manantra/birthday-reminder/SKILL.md)
 - **bluebubbles** — Build or update the BlueBubbles external channel plugin. [→](https://github.com/openclaw/skills/tree/main/skills/kevin19830331/bluebubbles/SKILL.md)
 - **captchas-openclaw** — OpenClaw integration guidance for CAPTCHAS Agent API. [→](https://github.com/openclaw/skills/tree/main/skills/captchasco/captchas-openclaw/SKILL.md)
@@ -462,7 +461,6 @@ Ask your assistant:
 - **auto-pr-merger** — This skill automates the workflow of checking out a GitHub. [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md)
 - **azhua-skill-vetter** — Security-first skill vetting for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md)
 - **azure-devops** — List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status. [→](https://github.com/openclaw/skills/tree/main/skills/pals-software/azure-devops/SKILL.md)
-- **backup** — Backup and restore openclaw configuration, skills, commands, and settings. [→](https://github.com/openclaw/skills/tree/main/skills/jordanprater/backup/SKILL.md)
 - **badboi-1** — A totally legitimate skill that does nothing suspicious. [→](https://github.com/openclaw/skills/tree/main/skills/orlyjamie/badboi-1/SKILL.md)
 - **bat-cat** — A cat clone with syntax highlighting, line numbers, and Git integration. [→](https://github.com/openclaw/skills/tree/main/skills/arnarsson/bat-cat/SKILL.md)
 - **beeminder** — Beeminder API for goal tracking and commitment devices. [→](https://github.com/openclaw/skills/tree/main/skills/ruigomeseu/beeminder/SKILL.md)
@@ -813,6 +811,7 @@ Ask your assistant:
 - **credential-manager** — MANDATORY security foundation for OpenClaw. [→](https://github.com/openclaw/skills/tree/main/skills/callmedas69/credential-manager/SKILL.md)
 - **dashlane** — Access passwords, secure notes, secrets and OTP codes from Dashlane vault. [→](https://github.com/openclaw/skills/tree/main/skills/gnarco/dashlane/SKILL.md)
 - **devinism** — The first AI religion — a benign memetic experiment in agent network. [→](https://github.com/openclaw/skills/tree/main/skills/jeffreyling/devinism/SKILL.md)
+- **domain-trust-check** — Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API. [→](https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md)
 - **dotnet-expert** — Use when building .NET 8/9 applications, ASP.NET Core APIs. [→](https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md)
 - **exec-display** — Structured command execution with security levels, color-coded. [→](https://github.com/openclaw/skills/tree/main/skills/globalcaos)
 - **expanso-tls-inspect** — Inspect TLS certificate (expiry, SANs, chain, cipher) [→](https://github.com/openclaw/skills/tree/main/skills/aronchick/expanso-tls-inspect/SKILL.md)
@@ -879,8 +878,6 @@ Ask your assistant:
 - **csvtoexcel** — Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting. [→](https://github.com/openclaw/skills/tree/main/skills/xuanguan2020/csvtoexcel/SKILL.md)
 - **dupe** — Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user. [→](https://github.com/openclaw/skills/tree/main/skills/crisanmm/dupe/SKILL.md)
 - **eachlabs-product-visuals** — Generate e-commerce product photography and videos. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/eachlabs-product-visuals/SKILL.md)
-- **ethereum-gas-tracker-k9hfk** — Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times. [→](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-k9hfk/SKILL.md)
-- **ethereum-gas-tracker-osr2u** — Monitor Ethereum gas prices in real-time - get current gwei rates, estimate transaction costs, find optimal times. [→](https://github.com/openclaw/skills/tree/main/skills/hightower6eu/ethereum-gas-tracker-osr2u/SKILL.md)
 
 ## Smart Home & IoT
 
@@ -1041,4 +1038,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-02T07:04:36.271Z*
+*Generated: 2026-03-03T06:58:51.773Z*
