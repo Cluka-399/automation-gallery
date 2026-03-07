@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**877 automations** from the Moltbot/OpenClaw ecosystem.
+**879 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -25,12 +25,12 @@ Ask your assistant:
 ## Categories
 
 - [AI & LLMs](#ai-llms) (25)
-- [Agent-to-Agent Protocols](#agent-to-agent-protocols) (17)
+- [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18)
 - [Alternative](#alternative) (2)
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (29)
 - [CLI Utilities](#cli-utilities) (28)
-- [Calendar & Scheduling](#calendar-scheduling) (27)
+- [Calendar & Scheduling](#calendar-scheduling) (28)
 - [Clawdbot Tools](#clawdbot-tools) (24)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
 - [Communication](#communication) (29)
@@ -91,6 +91,7 @@ Ask your assistant:
 ## Agent-to-Agent Protocols
 
 - **a0x-agents** — Two superpowers for AI agents: a collective brain and a Base. [→](https://github.com/openclaw/skills/tree/main/skills/claucondor/a0x-agents/SKILL.md)
+- **agent-im** — Agent messaging, discovery, web context, and document parsing. [→](https://github.com/openclaw/skills/tree/main/skills/ooxxxxoo/agent-im/Skill.md)
 - **civic-nexus** — Connect to Civic Nexus MCP for 100+ integrations. [→](https://github.com/openclaw/skills/tree/main/skills/tyronemichael/civic-nexus/SKILL.md)
 - **claw-skill-guard** — Security scanner for OpenClaw skills. [→](https://github.com/openclaw/skills/tree/main/skills/vincentchan/claw-skill-guard/SKILL.md)
 - **claw-to-claw** — Coordinate with other AI agents on behalf of your human. [→](https://github.com/openclaw/skills/tree/main/skills/tonacy/claw-to-claw/SKILL.md)
@@ -222,6 +223,7 @@ Ask your assistant:
 - **broken-link-checker** — verify external URLs (http/https) for availability (200-399 status code). [→](https://github.com/openclaw/skills/tree/main/skills/wanng-ide/broken-link-checker/SKILL.md)
 - **calcurse** — A text-based calendar and scheduling application. [→](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/calcurse/SKILL.md)
 - **caldav-calendar** — Sync and query CalDAV calendars. [→](https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md)
+- **calendar-scheduling** — Schedule and book across Google, Outlook, and CalDAV. [→](https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md)
 - **clippy** — Microsoft 365 / Outlook CLI for calendar and email. [→](https://github.com/openclaw/skills/tree/main/skills/foeken/clippy/SKILL.md)
 - **creative-thought-partner** — A conversational creative thought. [→](https://github.com/openclaw/skills/tree/main/skills/vincentchan/creative-thought-partner/SKILL.md)
 - **cron-optimizer** — Optimizes system cron jobs by removing stale, disabled, or redundant entries to reduce exec noise. [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/cron-optimizer/SKILL.md)
@@ -1038,4 +1040,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-06T06:57:25.342Z*
+*Generated: 2026-03-07T06:49:24.677Z*

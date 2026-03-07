@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-06T06:57:25.342Z",
-  "count": 877,
+  "generated": "2026-03-07T06:49:24.677Z",
+  "count": 879,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -4917,6 +4917,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "calendar-scheduling",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/billylui/calendar-scheduling/SKILL.md",
+      "description": "Schedule and book across Google, Outlook, and CalDAV.",
+      "category": "Calendar & Scheduling",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "caldav-calendar",
       "url": "https://github.com/openclaw/skills/tree/main/skills/asleep123/caldav-calendar/SKILL.md",
       "description": "Sync and query CalDAV calendars.",
@@ -6138,6 +6145,13 @@
       "name": "udau",
       "url": "https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md",
       "description": "description: Union protocol for AI agents.",
+      "category": "Agent-to-Agent Protocols",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "agent-im",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/ooxxxxoo/agent-im/Skill.md",
+      "description": "Agent messaging, discovery, web context, and document parsing.",
       "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
     }
