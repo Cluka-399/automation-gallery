@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**879 automations** from the Moltbot/OpenClaw ecosystem.
+**880 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -48,7 +48,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (29)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (29)
+- [Search & Research](#search-research) (30)
 - [Security & Passwords](#security-passwords) (27)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (25)
@@ -789,6 +789,7 @@ Ask your assistant:
 - **ai-review** — Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific. [→](https://github.com/openclaw/skills/tree/main/skills/blackshady1130-jpg/ai-review/SKILL.md)
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md)
+- **arxiv-source** — Fetch arXiv LaTeX source, list sections, extract abstracts. [→](https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source/SKILL.md)
 
 ## Security & Passwords
 
@@ -1040,4 +1041,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-09T07:08:04.193Z*
+*Generated: 2026-03-10T06:57:24.879Z*
