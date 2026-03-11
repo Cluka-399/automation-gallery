@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**880 automations** from the Moltbot/OpenClaw ecosystem.
+**883 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -26,7 +26,6 @@ Ask your assistant:
 
 - [AI & LLMs](#ai-llms) (25)
 - [Agent-to-Agent Protocols](#agent-to-agent-protocols) (18)
-- [Alternative](#alternative) (2)
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (29)
 - [CLI Utilities](#cli-utilities) (28)
@@ -45,17 +44,18 @@ Ask your assistant:
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (29)
 - [Notes & PKM](#notes-pkm) (30)
-- [PDF & Documents](#pdf-documents) (29)
+- [PDF & Documents](#pdf-documents) (30)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (30)
-- [Security & Passwords](#security-passwords) (27)
+- [Search & Research](#search-research) (31)
+- [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (25)
 - [Smart Home & IoT](#smart-home-iot) (29)
 - [Speech & Transcription](#speech-transcription) (28)
 - [Transportation](#transportation) (29)
 - [Web & Frontend Development](#web-frontend-development) (28)
+- [Why This List Exists?](#why-this-list-exists) (2)
 - [iOS & macOS Development](#ios-macos-development) (28)
 
 ---
@@ -108,11 +108,6 @@ Ask your assistant:
 - **og-openclawguard** — Security and vulnerability scanner for OpenClaw code. [→](https://github.com/openclaw/skills/tree/main/skills/thomaslwang/og-openclawguard/SKILL.md)
 - **towns-protocol** — Use when building Towns Protocol bots - covers SDK. [→](https://github.com/openclaw/skills/tree/main/skills/andreyz/towns-protocol/SKILL.md)
 - **udau** — description: Union protocol for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/nicoacosta/udau/SKILL.md)
-
-## Alternative
-
-- **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
-- **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
 
 ## Apple Apps & Services
 
@@ -458,7 +453,7 @@ Ask your assistant:
 - **arc-security-audit** — Comprehensive security audit for an agent's full skill stack. [→](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-security-audit/SKILL.md)
 - **arc-skill-gitops** — Automated deployment, rollback, and version management for agent workflows and skills. [→](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-skill-gitops/SKILL.md)
 - **arc-trust-verifier** — Verify skill provenance and build trust scores for ClawHub skills. [→](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-trust-verifier/SKILL.md)
-- **arguedotfun** — Argument-driven prediction markets on Base. [→](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun/SKILL.md)
+- **arguedotfun** — Argument-driven prediction markets on Base. [→](https://github.com/openclaw/skills/tree/main/skills/albert-mr/arguedotfun)
 - **arxiv-search-collector** — Model-driven arXiv retrieval workflow for building a paper set with a manual language parameter: initialize a run. [→](https://github.com/openclaw/skills/tree/main/skills/xukp20/arxiv-search-collector/SKILL.md)
 - **auto-pr-merger** — This skill automates the workflow of checking out a GitHub. [→](https://github.com/openclaw/skills/tree/main/skills/autogame-17/auto-pr-merger/SKILL.md)
 - **azhua-skill-vetter** — Security-first skill vetting for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/fatfingererr/azhua-skill-vetter/SKILL.md)
@@ -680,6 +675,7 @@ Ask your assistant:
 - **beautiful-mermaid** — Render beautiful Mermaid diagrams as SVGs or ASCII art. [→](https://github.com/openclaw/skills/tree/main/skills/ntlx/beautiful-mermaid/SKILL.md)
 - **biver-builder** — Welcome to the **Biver API** — the public REST API for the Biver landing page builder platform. [→](https://github.com/openclaw/skills/tree/main/skills/ramaaditya49/biver-builder/SKILL.md)
 - **blankfiles** — Use blankfiles.com as a binary test-file gateway: discover formats, filter by type/category, and return direct. [→](https://github.com/openclaw/skills/tree/main/skills/seblavoie/blankfiles/SKILL.md)
+- **bluente-translate** — Translate your documents with formatting intact in 2 minutes. [→](https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md)
 - **boggle** — Solve Boggle boards — find all valid words (German + English) on a 4x4. [→](https://github.com/openclaw/skills/tree/main/skills/christianhaberl/boggle/SKILL.md)
 - **book-cover-generation** — Generate professional book covers and ebook covers using each::sense API with AI-powered design. [→](https://github.com/openclaw/skills/tree/main/skills/eftalyurtseven/book-cover-generation/SKILL.md)
 - **book-reader** — Read books (epub, pdf, txt) from various sources with progress tracking. [→](https://github.com/openclaw/skills/tree/main/skills/josharsh/book-reader/SKILL.md)
@@ -790,9 +786,11 @@ Ask your assistant:
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md)
 - **arxiv-source** — Fetch arXiv LaTeX source, list sections, extract abstracts. [→](https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source/SKILL.md)
+- **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter-scraper/SKILL.md)
 
 ## Security & Passwords
 
+- **1claw** — HSM-backed vault for agent secrets; store, rotate, share securely. [→](https://github.com/openclaw/skills/tree/main/skills/kmjones1979/1claw/SKILL.md)
 - **1password** — Set up and use 1Password CLI (op). [→](https://github.com/openclaw/skills/tree/main/skills/steipete/1password/SKILL.md)
 - **age-verification** — Skills for age verification and age-appropriate content filtering. [→](https://github.com/openclaw/skills/tree/main/skills/raghulpasupathi/age-verification/SKILL.md)
 - **amai-id** — Soul-Bound Keys and Soulchain for persistent. [→](https://www.clawhub.ai/Gonzih/amai-id)
@@ -1008,6 +1006,11 @@ Ask your assistant:
 - **agentns** — Register and manage ICANN domains for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns/SKILL.md)
 - **agentpay** — Buy things from real websites on behalf of your human. [→](https://github.com/openclaw/skills/tree/main/skills/kar69-96/agentpay/SKILL.md)
 
+## Why This List Exists?
+
+- **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
+- **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
+
 ## iOS & macOS Development
 
 - **agent-defibrillator** — Watchdog that monitors your AI agent gateway and restarts it when it crashes. [→](https://github.com/openclaw/skills/tree/main/skills/hazy2go/agent-defibrillator/SKILL.md)
@@ -1041,4 +1044,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-10T06:57:24.879Z*
+*Generated: 2026-03-11T07:00:30.306Z*
