@@ -1,19 +1,19 @@
 {
-  "generated": "2026-03-12T07:02:13.051Z",
-  "count": 883,
+  "generated": "2026-03-13T07:00:51.654Z",
+  "count": 884,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
       "url": "https://github.com/snyk/agent-scan",
       "description": "",
-      "category": "Why This List Exists?",
+      "category": "☁️ Hosting & Deployment",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "Agent Trust Hub",
       "url": "https://ai.gendigital.com/agent-trust-hub",
       "description": "",
-      "category": "Why This List Exists?",
+      "category": "☁️ Hosting & Deployment",
       "source": "awesome-moltbot-skills"
     },
     {
@@ -5354,6 +5354,13 @@
       "name": "hydra-evolver",
       "url": "https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md",
       "description": "A Proxmox-native orchestration skill that turns any home lab.",
+      "category": "Self-Hosted & Automation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "keepmyclaw",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw/SKILL.md",
+      "description": "Encrypted cloud backup and restore for OpenClaw workspaces.",
       "category": "Self-Hosted & Automation",
       "source": "awesome-moltbot-skills"
     },

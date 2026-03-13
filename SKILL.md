@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**883 automations** from the Moltbot/OpenClaw ecosystem.
+**884 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -49,14 +49,14 @@ Ask your assistant:
 - [Productivity & Tasks](#productivity-tasks) (29)
 - [Search & Research](#search-research) (31)
 - [Security & Passwords](#security-passwords) (28)
-- [Self-Hosted & Automation](#self-hosted-automation) (30)
+- [Self-Hosted & Automation](#self-hosted-automation) (31)
 - [Shopping & E-commerce](#shopping-e-commerce) (25)
 - [Smart Home & IoT](#smart-home-iot) (29)
 - [Speech & Transcription](#speech-transcription) (28)
 - [Transportation](#transportation) (29)
 - [Web & Frontend Development](#web-frontend-development) (28)
-- [Why This List Exists?](#why-this-list-exists) (2)
 - [iOS & macOS Development](#ios-macos-development) (28)
+- [☁️ Hosting & Deployment](#hosting-deployment) (2)
 
 ---
 
@@ -834,6 +834,7 @@ Ask your assistant:
 - **freshrss-reader** — Query headlines and articles from a self-hosted FreshRSS. [→](https://github.com/openclaw/skills/tree/main/skills/nickian/freshrss-reader/SKILL.md)
 - **gotify** — Send push notifications via Gotify when long-running tasks complete. [→](https://github.com/openclaw/skills/tree/main/skills/jmagar/gotify/SKILL.md)
 - **hydra-evolver** — A Proxmox-native orchestration skill that turns any home lab. [→](https://github.com/openclaw/skills/tree/main/skills/spamtylor/hydra-evolver/SKILL.md)
+- **keepmyclaw** — Encrypted cloud backup and restore for OpenClaw workspaces. [→](https://github.com/openclaw/skills/tree/main/skills/ryce/keepmyclaw/SKILL.md)
 - **kleo-static-files** — Host static files on subdomains with optional. [→](https://github.com/openclaw/skills/tree/main/skills/awaaate/kleo-static-files/SKILL.md)
 - **lifepath** — AI Life Simulator - Experience infinite lives year by year. [→](https://github.com/openclaw/skills/tree/main/skills/ezbreadsniper/lifepath/SKILL.md)
 - **looper-golf** — Play a round of golf using CLI tools — autonomously or with a human caddy. [→](https://github.com/openclaw/skills/tree/main/skills/sbauch/looper-golf/SKILL.md)
@@ -1006,11 +1007,6 @@ Ask your assistant:
 - **agentns** — Register and manage ICANN domains for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/vibrant/agentns/SKILL.md)
 - **agentpay** — Buy things from real websites on behalf of your human. [→](https://github.com/openclaw/skills/tree/main/skills/kar69-96/agentpay/SKILL.md)
 
-## Why This List Exists?
-
-- **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
-- **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
-
 ## iOS & macOS Development
 
 - **agent-defibrillator** — Watchdog that monitors your AI agent gateway and restarts it when it crashes. [→](https://github.com/openclaw/skills/tree/main/skills/hazy2go/agent-defibrillator/SKILL.md)
@@ -1042,6 +1038,11 @@ Ask your assistant:
 - **toolguard-daemon-control** — Manage long-running processes as macOS launchd services. [→](https://github.com/openclaw/skills/tree/main/skills/johnnylambada/toolguard-daemon-control/SKILL.md)
 - **v2rayn** — Manage V2RayN proxy client on macOS with auto-failover. [→](https://github.com/openclaw/skills/tree/main/skills/qiangwang375-wq/v2rayn/SKILL.md)
 
+## ☁️ Hosting & Deployment
+
+- **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
+- **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
+
 ---
 
-*Generated: 2026-03-12T07:02:13.051Z*
+*Generated: 2026-03-13T07:00:51.654Z*
