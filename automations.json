@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-13T07:00:51.654Z",
-  "count": 884,
+  "generated": "2026-03-14T06:55:01.871Z",
+  "count": 885,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1588,6 +1588,13 @@
       "name": "airbnb",
       "url": "https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md",
       "description": "Search Airbnb listings with prices, ratings, and direct links.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "openclaw-free-web-search",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md",
+      "description": "Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },

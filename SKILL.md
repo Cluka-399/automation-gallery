@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**884 automations** from the Moltbot/OpenClaw ecosystem.
+**885 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -47,7 +47,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (30)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (31)
+- [Search & Research](#search-research) (32)
 - [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (31)
 - [Shopping & E-commerce](#shopping-e-commerce) (25)
@@ -786,6 +786,7 @@ Ask your assistant:
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://github.com/openclaw/skills/tree/main/skills/qiao101660/aihotel/SKILL.md)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://github.com/openclaw/skills/tree/main/skills/stveenli/airbnb/SKILL.md)
 - **arxiv-source** — Fetch arXiv LaTeX source, list sections, extract abstracts. [→](https://github.com/openclaw/skills/tree/main/skills/willamhou/arxiv-source/SKILL.md)
+- **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://github.com/openclaw/skills/tree/main/skills/wd041216-bit/openclaw-free-web-search/SKILL.md)
 - **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/xquik-x-twitter-scraper/SKILL.md)
 
 ## Security & Passwords
@@ -1045,4 +1046,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-13T07:00:51.654Z*
+*Generated: 2026-03-14T06:55:01.871Z*
