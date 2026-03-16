@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-15T07:04:06.057Z",
-  "count": 885,
+  "generated": "2026-03-16T07:24:51.869Z",
+  "count": 883,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -4192,20 +4192,6 @@
       "name": "apple-mail-search-safe",
       "url": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md",
       "description": "Fast & safe Apple Mail search with body.",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "arb-injection",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection/SKILL.md",
-      "description": "BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities.",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "arbinjectionskill",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arbinjectionskill/SKILL.md",
-      "description": "BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },

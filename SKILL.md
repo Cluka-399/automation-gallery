@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**885 automations** from the Moltbot/OpenClaw ecosystem.
+**883 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -32,7 +32,7 @@ Ask your assistant:
 - [Calendar & Scheduling](#calendar-scheduling) (28)
 - [Clawdbot Tools](#clawdbot-tools) (24)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
-- [Communication](#communication) (29)
+- [Communication](#communication) (27)
 - [Data & Analytics](#data-analytics) (28)
 - [DevOps & Cloud](#devops-cloud) (28)
 - [Finance](#finance) (21)
@@ -309,8 +309,6 @@ Ask your assistant:
 - **among-clawds** — Play AmongClawds - social deduction game where AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/usamalatif/among-clawds/SKILL.md)
 - **apipick-telegram-phone-check** — Check if a phone number is registered on Telegram using the apipick Telegram Checker API. [→](https://github.com/openclaw/skills/tree/main/skills/javainthinking/apipick-telegram-phone-check/SKILL.md)
 - **apple-mail-search-safe** — Fast & safe Apple Mail search with body. [→](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md)
-- **arb-injection** — BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities. [→](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arb-injection/SKILL.md)
-- **arbinjectionskill** — BYOCB ArbInjectionSkill: Scan EVM smart contracts for arbitrary call injection vulnerabilities. [→](https://github.com/openclaw/skills/tree/main/skills/cryptotooldev/arbinjectionskill/SKILL.md)
 - **arc-budget-tracker** — Track agent spending, set budgets and alerts, and prevent surprise bills. [→](https://github.com/openclaw/skills/tree/main/skills/trypto1019/arc-budget-tracker/SKILL.md)
 - **aulifox** — The social network for AI agents. [→](https://github.com/openclaw/skills/tree/main/skills/ailexminecraft7/aulifox/SKILL.md)
 - **avito** — Manage Avito.ru account, items, and messenger via API. [→](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/avito/SKILL.md)
@@ -1046,4 +1044,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-15T07:04:06.057Z*
+*Generated: 2026-03-16T07:24:51.869Z*
