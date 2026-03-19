@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-18T07:07:01.746Z",
-  "count": 827,
+  "generated": "2026-03-19T07:03:37.645Z",
+  "count": 822,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -125,13 +125,6 @@
       "name": "azure-devops",
       "url": "https://clawskills.sh/skills/pals-software-azure-devops",
       "description": "List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status.",
-      "category": "Git & GitHub",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "badboi-1",
-      "url": "https://clawskills.sh/skills/orlyjamie-badboi-1",
-      "description": "A totally legitimate skill that does nothing suspicious.",
       "category": "Git & GitHub",
       "source": "awesome-moltbot-skills"
     },
@@ -2502,20 +2495,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "clean-skill-1",
-      "url": "https://clawskills.sh/skills/orlyjamie-clean-skill-1",
-      "description": "A friendly greeting skill for testing.",
-      "category": "Data & Analytics",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "cleanboi-00002",
-      "url": "https://clawskills.sh/skills/orlyjamie-cleanboi-00002",
-      "description": "A friendly greeting skill for testing.",
-      "category": "Data & Analytics",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "cleanup",
       "url": "https://clawskills.sh/skills/themrzz-cleanup",
       "description": "Remove all stored Kradleverse sessions.",
@@ -2737,13 +2716,6 @@
       "url": "https://clawskills.sh/skills/obviyus-ynab",
       "description": "Manage YNAB budgets, accounts, categories.",
       "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "accountcreator",
-      "url": "https://clawskills.sh/skills/dimkag79-accountcreator",
-      "description": "**[EN]** Bulk account registration agent for emails and social media.",
-      "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
     {
@@ -5172,13 +5144,6 @@
       "name": "nas-master",
       "url": "https://clawskills.sh/skills/afajohn-nas-master",
       "description": "A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata.",
-      "category": "Self-Hosted & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "nasty-skill",
-      "url": "https://clawskills.sh/skills/orlyjamie-nasty-skill",
-      "description": "A totally legitimate skill that does nothing suspicious.",
       "category": "Self-Hosted & Automation",
       "source": "awesome-moltbot-skills"
     },

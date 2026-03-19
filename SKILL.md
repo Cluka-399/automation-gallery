@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**827 automations** from the Moltbot/OpenClaw ecosystem.
+**822 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -33,15 +33,15 @@ Ask your assistant:
 - [Clawdbot Tools](#clawdbot-tools) (24)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
 - [Communication](#communication) (27)
-- [Data & Analytics](#data-analytics) (24)
+- [Data & Analytics](#data-analytics) (22)
 - [DevOps & Cloud](#devops-cloud) (25)
 - [Finance](#finance) (17)
 - [Gaming](#gaming) (17)
-- [Git & GitHub](#git-github) (23)
+- [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (26)
 - [Image & Video Generation](#image-video-generation) (30)
 - [Marketing & Sales](#marketing-sales) (26)
-- [Media & Streaming](#media-streaming) (26)
+- [Media & Streaming](#media-streaming) (25)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (28)
 - [PDF & Documents](#pdf-documents) (29)
@@ -49,7 +49,7 @@ Ask your assistant:
 - [Productivity & Tasks](#productivity-tasks) (27)
 - [Search & Research](#search-research) (32)
 - [Security & Passwords](#security-passwords) (26)
-- [Self-Hosted & Automation](#self-hosted-automation) (31)
+- [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (24)
 - [Smart Home & IoT](#smart-home-iot) (28)
 - [Speech & Transcription](#speech-transcription) (25)
@@ -320,8 +320,6 @@ Ask your assistant:
 - **check-analytics** — Audit existing Google Analytics implementation. [→](https://clawskills.sh/skills/jeftekhari-check-analytics)
 - **cicd-pipeline** — Create, debug, and manage CI/CD pipelines with GitHub. [→](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline)
 - **clawver-store-analytics** — Monitor Clawver store performance. [→](https://clawskills.sh/skills/nwang783-clawver-store-analytics)
-- **clean-skill-1** — A friendly greeting skill for testing. [→](https://clawskills.sh/skills/orlyjamie-clean-skill-1)
-- **cleanboi-00002** — A friendly greeting skill for testing. [→](https://clawskills.sh/skills/orlyjamie-cleanboi-00002)
 - **cleanup** — Remove all stored Kradleverse sessions. [→](https://clawskills.sh/skills/themrzz-cleanup)
 - **csv-pipeline** — Process, transform, analyze, and report on CSV and JSON. [→](https://clawskills.sh/skills/gitgoodordietrying-csv-pipeline)
 - **daily-report** — Track progress, report metrics, manage memory. [→](https://clawskills.sh/skills/visualdeptcreative-daily-report)
@@ -424,7 +422,6 @@ Ask your assistant:
 - **auto-pr-merger** — This skill automates the workflow of checking out a GitHub. [→](https://clawskills.sh/skills/autogame-17-auto-pr-merger)
 - **azhua-skill-vetter** — Security-first skill vetting for AI agents. [→](https://clawskills.sh/skills/fatfingererr-azhua-skill-vetter)
 - **azure-devops** — List Azure DevOps projects, repositories, and branches; create pull requests; manage work items; check build status. [→](https://clawskills.sh/skills/pals-software-azure-devops)
-- **badboi-1** — A totally legitimate skill that does nothing suspicious. [→](https://clawskills.sh/skills/orlyjamie-badboi-1)
 - **bat-cat** — A cat clone with syntax highlighting, line numbers, and Git integration. [→](https://clawskills.sh/skills/arnarsson-bat-cat)
 - **beeminder** — Beeminder API for goal tracking and commitment devices. [→](https://clawskills.sh/skills/ruigomeseu-beeminder)
 - **billy-emergency-repair** — - Neill explicitly requests Billy system repair. [→](https://clawskills.sh/skills/highlander89-billy-emergency-repair)
@@ -525,7 +522,6 @@ Ask your assistant:
 
 ## Media & Streaming
 
-- **accountcreator** — **[EN]** Bulk account registration agent for emails and social media. [→](https://clawskills.sh/skills/dimkag79-accountcreator)
 - **alexa-control** — Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands. [→](https://clawskills.sh/skills/ignito-pg-alexa-control)
 - **amateur-radio-dx** — Monitor DX clusters for rare station spots, track active DX expeditions, and get daily band activity digests. [→](https://clawskills.sh/skills/capt-marbles-amateur-radio-dx)
 - **anime** — CLI for AI agents to search and lookup anime info for their humans. [→](https://clawskills.sh/skills/jeffaf-anime)
@@ -793,7 +789,6 @@ Ask your assistant:
 - **n8n** — Manage n8n workflows and automations via API. [→](https://clawskills.sh/skills/thomasansems-n8n)
 - **n8n-workflow-automation** — Designs and outputs n8n workflow JSON. [→](https://clawskills.sh/skills/kowl64-n8n-workflow-automation)
 - **nas-master** — A hardware-aware, hybrid (SMB + SSH) suite for ASUSTOR NAS metadata. [→](https://clawskills.sh/skills/afajohn-nas-master)
-- **nasty-skill** — A totally legitimate skill that does nothing suspicious. [→](https://clawskills.sh/skills/orlyjamie-nasty-skill)
 - **nordvpn** — Control NordVPN on Linux via the `nordvpn` CLI. [→](https://clawskills.sh/skills/maciekish-nordvpn)
 - **open-persona** — Meta-skill for building and managing agent persona skill packs. [→](https://clawskills.sh/skills/neiljo-gy-open-persona)
 - **paperless** — Interact with Paperless-NGX document management system via ppls. [→](https://clawskills.sh/skills/nickchristensen-paperless)
@@ -988,4 +983,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-18T07:07:01.746Z*
+*Generated: 2026-03-19T07:03:37.645Z*
