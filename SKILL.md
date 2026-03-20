@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**822 automations** from the Moltbot/OpenClaw ecosystem.
+**792 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -25,7 +25,6 @@ Ask your assistant:
 ## Categories
 
 - [AI & LLMs](#ai-llms) (22)
-- [Agent-to-Agent Protocols](#agent-to-agent-protocols) (12)
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (27)
 - [CLI Utilities](#cli-utilities) (28)
@@ -35,7 +34,6 @@ Ask your assistant:
 - [Communication](#communication) (27)
 - [Data & Analytics](#data-analytics) (22)
 - [DevOps & Cloud](#devops-cloud) (25)
-- [Finance](#finance) (17)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (26)
@@ -47,7 +45,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (29)
 - [Personal Development](#personal-development) (28)
 - [Productivity & Tasks](#productivity-tasks) (27)
-- [Search & Research](#search-research) (32)
+- [Search & Research](#search-research) (31)
 - [Security & Passwords](#security-passwords) (26)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (24)
@@ -84,21 +82,6 @@ Ask your assistant:
 - **agent-selfie** — AI agent self-portrait generator. [→](https://clawskills.sh/skills/iisweetheartii-agent-selfie)
 - **agent-sentinel** — The operational circuit breaker for this agent. [→](https://clawskills.sh/skills/jimmystacks-agent-sentinel)
 - **agentbus-relay-chat** — AgentBus proof-of-concept: an IRC-like LLM. [→](https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat)
-
-## Agent-to-Agent Protocols
-
-- **a0x-agents** — Two superpowers for AI agents: a collective brain and a Base. [→](https://clawskills.sh/skills/claucondor-a0x-agents)
-- **civic-nexus** — Connect to Civic Nexus MCP for 100+ integrations. [→](https://clawskills.sh/skills/tyronemichael-civic-nexus)
-- **claw-skill-guard** — Security scanner for OpenClaw skills. [→](https://clawskills.sh/skills/vincentchan-claw-skill-guard)
-- **claw-to-claw** — Coordinate with other AI agents on behalf of your human. [→](https://clawskills.sh/skills/tonacy-claw-to-claw)
-- **clawtoclaw** — Coordinate with other AI agents on behalf of your human. [→](https://clawskills.sh/skills/tonacy-clawtoclaw)
-- **dating** — Meet other AI agents and make friends on the social platform built. [→](https://clawskills.sh/skills/lucasgeeksinthewood-dating)
-- **glitchward-shield** — Protect your OpenClaw assistant from prompt injection. [→](https://clawskills.sh/skills/eyeskiller-glitchward-shield)
-- **heimdall** — Scan OpenClaw skills for malicious patterns before installation. [→](https://clawskills.sh/skills/henrino3-heimdall)
-- **local-approvals** — Local approval system for managing agent permissions. [→](https://clawskills.sh/skills/shaiss-local-approvals)
-- **og-openclawguard** — Security and vulnerability scanner for OpenClaw code. [→](https://clawskills.sh/skills/thomaslwang-og-openclawguard)
-- **towns-protocol** — Use when building Towns Protocol bots - covers SDK. [→](https://clawskills.sh/skills/andreyz-towns-protocol)
-- **udau** — description: Union protocol for AI agents. [→](https://clawskills.sh/skills/nicoacosta-udau)
 
 ## Apple Apps & Services
 
@@ -363,26 +346,6 @@ Ask your assistant:
 - **agentic-devops** — Production-grade agent DevOps toolkit — Docker, process management, log analysis, and health monitoring. [→](https://clawskills.sh/skills/tkuehnl-agentic-devops)
 - **agentkeys** — Secure credential proxy for AI agents. [→](https://clawskills.sh/skills/alexandr-belogubov-agentkeys)
 - **agentmemory** — End-to-end encrypted cloud memory for AI agents. [→](https://clawskills.sh/skills/badaramoni-agentmemory)
-
-## Finance
-
-- **api-credentials-hygiene** — Audits and hardens API credential handling. [→](https://clawskills.sh/skills/kowl64-api-credentials-hygiene)
-- **app-store-changelog** — Create user-facing App Store release notes. [→](https://clawskills.sh/skills/dimillian-app-store-changelog)
-- **clawdbot-release-check** — Check for new clawdbot releases and notify once. [→](https://clawskills.sh/skills/pors-clawdbot-release-check)
-- **create-content** — Thinking partner that transforms ideas into platform-optimized. [→](https://clawskills.sh/skills/itsflow-create-content)
-- **expense-tracker-pro** — Track expenses via natural language, get spending. [→](https://clawskills.sh/skills/jhillin8-expense-tracker-pro)
-- **harvey** — Harvey is an imaginary friend and conversation companion - a large white. [→](https://clawskills.sh/skills/udiedrichsen-harvey)
-- **just-fucking-cancel** — Find and cancel unwanted subscriptions. [→](https://clawskills.sh/skills/chipagosfinest-just-fucking-cancel)
-- **nordpool-fi** — Hourly electricity prices for Finland with optimal EV charging window. [→](https://clawskills.sh/skills/ovaris-nordpool-fi)
-- **openssl** — Generate secure random strings, passwords, and cryptographic tokens. [→](https://clawskills.sh/skills/asleep123-openssl)
-- **plaid** — plaid-cli a cli for interacting with the plaid finance platform. [→](https://clawskills.sh/skills/jverdi-plaid)
-- **publisher** — Make your skills easy to understand and impossible to ignore. [→](https://clawskills.sh/skills/tunaissacoding-publisher)
-- **relationship-skills** — Improve relationships with communication tools. [→](https://clawskills.sh/skills/jhillin8-relationship-skills)
-- **sharesight-skill** — Manage Sharesight portfolios, holdings, and custom. [→](https://clawskills.sh/skills/lextoumbourou-sharesight-skill)
-- **solo-cli** — Monitor and interact with SOLO.ro accounting platform via CLI or TUI. [→](https://clawskills.sh/skills/rursache-solo-cli)
-- **swissweather** — Get current weather and forecasts from MeteoSwiss. [→](https://clawskills.sh/skills/xenofex7-swissweather)
-- **tax-professional** — US tax advisor, deduction optimizer. [→](https://clawskills.sh/skills/scottfo-tax-professional)
-- **ynab** — Manage YNAB budgets, accounts, categories. [→](https://clawskills.sh/skills/obviyus-ynab)
 
 ## Gaming
 
@@ -731,7 +694,6 @@ Ask your assistant:
 - **ai-review** — Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific. [→](https://clawskills.sh/skills/blackshady1130-jpg-ai-review)
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://clawskills.sh/skills/qiao101660-aihotel)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
-- **arxiv-source** — Fetch arXiv LaTeX source, list sections, extract abstracts. [→](https://clawskills.sh/skills/willamhou-arxiv-source)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
 - **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper)
 
@@ -983,4 +945,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-19T07:03:37.645Z*
+*Generated: 2026-03-20T07:02:06.541Z*

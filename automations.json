@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-19T07:03:37.645Z",
-  "count": 822,
+  "generated": "2026-03-20T07:02:06.541Z",
+  "count": 792,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1452,13 +1452,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "arxiv-source",
-      "url": "https://clawskills.sh/skills/willamhou-arxiv-source",
-      "description": "Fetch arXiv LaTeX source, list sections, extract abstracts.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agenthire",
       "url": "https://clawskills.sh/skills/lngdao-agenthire",
       "description": "AgentHire — Agent-to-Agent Marketplace.",
@@ -2597,125 +2590,6 @@
       "url": "https://clawskills.sh/skills/foontinz-linkdapi",
       "description": "Work with LinkdAPI Python SDK for accessing LinkedIn professional profile.",
       "category": "Data & Analytics",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "api-credentials-hygiene",
-      "url": "https://clawskills.sh/skills/kowl64-api-credentials-hygiene",
-      "description": "Audits and hardens API credential handling.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "app-store-changelog",
-      "url": "https://clawskills.sh/skills/dimillian-app-store-changelog",
-      "description": "Create user-facing App Store release notes.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clawdbot-release-check",
-      "url": "https://clawskills.sh/skills/pors-clawdbot-release-check",
-      "description": "Check for new clawdbot releases and notify once.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "create-content",
-      "url": "https://clawskills.sh/skills/itsflow-create-content",
-      "description": "Thinking partner that transforms ideas into platform-optimized.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "expense-tracker-pro",
-      "url": "https://clawskills.sh/skills/jhillin8-expense-tracker-pro",
-      "description": "Track expenses via natural language, get spending.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "harvey",
-      "url": "https://clawskills.sh/skills/udiedrichsen-harvey",
-      "description": "Harvey is an imaginary friend and conversation companion - a large white.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "just-fucking-cancel",
-      "url": "https://clawskills.sh/skills/chipagosfinest-just-fucking-cancel",
-      "description": "Find and cancel unwanted subscriptions.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "nordpool-fi",
-      "url": "https://clawskills.sh/skills/ovaris-nordpool-fi",
-      "description": "Hourly electricity prices for Finland with optimal EV charging window.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "openssl",
-      "url": "https://clawskills.sh/skills/asleep123-openssl",
-      "description": "Generate secure random strings, passwords, and cryptographic tokens.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "plaid",
-      "url": "https://clawskills.sh/skills/jverdi-plaid",
-      "description": "plaid-cli a cli for interacting with the plaid finance platform.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "publisher",
-      "url": "https://clawskills.sh/skills/tunaissacoding-publisher",
-      "description": "Make your skills easy to understand and impossible to ignore.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "relationship-skills",
-      "url": "https://clawskills.sh/skills/jhillin8-relationship-skills",
-      "description": "Improve relationships with communication tools.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "sharesight-skill",
-      "url": "https://clawskills.sh/skills/lextoumbourou-sharesight-skill",
-      "description": "Manage Sharesight portfolios, holdings, and custom.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "solo-cli",
-      "url": "https://clawskills.sh/skills/rursache-solo-cli",
-      "description": "Monitor and interact with SOLO.ro accounting platform via CLI or TUI.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "swissweather",
-      "url": "https://clawskills.sh/skills/xenofex7-swissweather",
-      "description": "Get current weather and forecasts from MeteoSwiss.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "tax-professional",
-      "url": "https://clawskills.sh/skills/scottfo-tax-professional",
-      "description": "US tax advisor, deduction optimizer.",
-      "category": "Finance",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "ynab",
-      "url": "https://clawskills.sh/skills/obviyus-ynab",
-      "description": "Manage YNAB budgets, accounts, categories.",
-      "category": "Finance",
       "source": "awesome-moltbot-skills"
     },
     {
@@ -5670,90 +5544,6 @@
       "url": "https://clawskills.sh/skills/themrzz-init",
       "description": "Register an agent on kradleverse.",
       "category": "Gaming",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "a0x-agents",
-      "url": "https://clawskills.sh/skills/claucondor-a0x-agents",
-      "description": "Two superpowers for AI agents: a collective brain and a Base.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "civic-nexus",
-      "url": "https://clawskills.sh/skills/tyronemichael-civic-nexus",
-      "description": "Connect to Civic Nexus MCP for 100+ integrations.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "claw-skill-guard",
-      "url": "https://clawskills.sh/skills/vincentchan-claw-skill-guard",
-      "description": "Security scanner for OpenClaw skills.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "claw-to-claw",
-      "url": "https://clawskills.sh/skills/tonacy-claw-to-claw",
-      "description": "Coordinate with other AI agents on behalf of your human.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "clawtoclaw",
-      "url": "https://clawskills.sh/skills/tonacy-clawtoclaw",
-      "description": "Coordinate with other AI agents on behalf of your human.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "dating",
-      "url": "https://clawskills.sh/skills/lucasgeeksinthewood-dating",
-      "description": "Meet other AI agents and make friends on the social platform built.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "glitchward-shield",
-      "url": "https://clawskills.sh/skills/eyeskiller-glitchward-shield",
-      "description": "Protect your OpenClaw assistant from prompt injection.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "heimdall",
-      "url": "https://clawskills.sh/skills/henrino3-heimdall",
-      "description": "Scan OpenClaw skills for malicious patterns before installation.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "local-approvals",
-      "url": "https://clawskills.sh/skills/shaiss-local-approvals",
-      "description": "Local approval system for managing agent permissions.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "og-openclawguard",
-      "url": "https://clawskills.sh/skills/thomaslwang-og-openclawguard",
-      "description": "Security and vulnerability scanner for OpenClaw code.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "towns-protocol",
-      "url": "https://clawskills.sh/skills/andreyz-towns-protocol",
-      "description": "Use when building Towns Protocol bots - covers SDK.",
-      "category": "Agent-to-Agent Protocols",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "udau",
-      "url": "https://clawskills.sh/skills/nicoacosta-udau",
-      "description": "description: Union protocol for AI agents.",
-      "category": "Agent-to-Agent Protocols",
       "source": "awesome-moltbot-skills"
     }
   ]
