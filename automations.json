@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-21T06:52:01.307Z",
-  "count": 792,
+  "generated": "2026-03-22T06:57:30.790Z",
+  "count": 775,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -514,13 +514,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "ai-news-oracle",
-      "url": "https://clawskills.sh/skills/swimmingkiim-ai-news-oracle",
-      "description": "Fetch real-time AI news briefings from the AI News Oracle API (Hacker News, TechCrunch, The Verge)",
-      "category": "Browser & Automation",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "airtable-automation",
       "url": "https://clawskills.sh/skills/sohamganatra-airtable-automation",
       "description": "Automate Airtable tasks via Rube MCP (Composio)",
@@ -724,13 +717,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agentns",
-      "url": "https://clawskills.sh/skills/vibrant-agentns",
-      "description": "Register and manage ICANN domains for AI agents.",
-      "category": "Web & Frontend Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agentpay",
       "url": "https://clawskills.sh/skills/kar69-96-agentpay",
       "description": "Buy things from real websites on behalf of your human.",
@@ -850,23 +836,9 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agent-sovereign-stack",
-      "url": "https://clawskills.sh/skills/quriustus-agent-sovereign-stack",
-      "description": "**One command to give any AI agent sovereign infrastructure.**.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agent-watcher",
       "url": "https://clawskills.sh/skills/nantes-agent-watcher",
       "description": "A skill for monitoring Moltbook feed, detecting new agents, and tracking interesting posts.",
-      "category": "DevOps & Cloud",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "agentcanary",
-      "url": "https://clawskills.sh/skills/mrcerq-agentcanary",
-      "description": "Market intelligence API for AI agents.",
       "category": "DevOps & Cloud",
       "source": "awesome-moltbot-skills"
     },
@@ -1410,13 +1382,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agent-arena-skill",
-      "url": "https://clawskills.sh/skills/neeeophytee-agent-arena-skill",
-      "description": "Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains.",
-      "category": "Search & Research",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agent-brain",
       "url": "https://clawskills.sh/skills/dobrinalexandru-agent-brain",
       "description": "Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.",
@@ -1879,13 +1844,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "cabin-sol",
-      "url": "https://clawskills.sh/skills/sp0oby-cabin-sol",
-      "description": "Solana development tutor and builder.",
-      "category": "CLI Utilities",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "cacheforge-stats",
       "url": "https://clawskills.sh/skills/tkuehnl-cacheforge-stats",
       "description": "CacheForge terminal dashboard — usage, savings, and performance metrics.",
@@ -2320,13 +2278,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "aegis-security",
-      "url": "https://clawskills.sh/skills/swiftadviser-aegis-security",
-      "description": "Blockchain security API for AI agents.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "ag-model-usage",
       "url": "https://clawskills.sh/skills/ls18166407597-design-ag-model-usage",
       "description": "Use CodexBar CLI local cost usage to summarize.",
@@ -2428,13 +2379,6 @@
       "name": "agent-sentinel",
       "url": "https://clawskills.sh/skills/jimmystacks-agent-sentinel",
       "description": "The operational circuit breaker for this agent.",
-      "category": "AI & LLMs",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "agentbus-relay-chat",
-      "url": "https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat",
-      "description": "AgentBus proof-of-concept: an IRC-like LLM.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },
@@ -2785,13 +2729,6 @@
       "name": "agent-memory-ultimate",
       "url": "https://clawskills.sh/skills/globalcaos-agent-memory-ultimate",
       "description": "Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers.",
-      "category": "Notes & PKM",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "agent-privacy-skill",
-      "url": "https://clawskills.sh/skills/se7enhvn-agent-privacy-skill",
-      "description": "Interact with the Ceaser privacy protocol on Base L2.",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
     },
@@ -3363,13 +3300,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "acorp",
-      "url": "https://clawskills.sh/skills/thoerner-acorp",
-      "description": "A-Corp Foundry — the coordination engine for agentic companies.",
-      "category": "Personal Development",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "adaptive-learning-agents",
       "url": "https://clawskills.sh/skills/vedantsingh60-adaptive-learning-agents",
       "description": "**Learn from errors and corrections in real-time.",
@@ -3594,13 +3524,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "bittensor-sdk",
-      "url": "https://clawskills.sh/skills/taoleeh-bittensor-sdk",
-      "description": "Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operations, neuron.",
-      "category": "Health & Fitness",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "bountyhub-agent",
       "url": "https://clawskills.sh/skills/nativ3ai-bountyhub-agent",
       "description": "Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts.",
@@ -3776,13 +3699,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agentbook",
-      "url": "https://clawskills.sh/skills/r4v3n-art-agentbook",
-      "description": "Send and receive encrypted messages on the agentbook network.",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agenthc-market-intelligence",
       "url": "https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence",
       "description": "Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills.",
@@ -3870,13 +3786,6 @@
       "name": "beeper",
       "url": "https://clawskills.sh/skills/krausefx-beeper",
       "description": "Search and browse local Beeper chat history.",
-      "category": "Communication",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "betbud-prediction-market-creation",
-      "url": "https://clawskills.sh/skills/samj12-betbud-prediction-market-creation",
-      "description": "An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
@@ -4301,13 +4210,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "agentic-commerce",
-      "url": "https://clawskills.sh/skills/purch-agent-agentic-commerce",
-      "description": "AI-powered shopping API for product search and crypto.",
-      "category": "Shopping & E-commerce",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "allstock-data",
       "url": "https://clawskills.sh/skills/hacksing-allstock-data",
       "description": "Query A-share and US stock data via Tencent Finance API.",
@@ -4672,13 +4574,6 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "aegis-security-hackathon",
-      "url": "https://clawskills.sh/skills/swiftadviser-aegis-security-hackathon",
-      "description": "Blockchain security scanner for AI agents (testnet)",
-      "category": "PDF & Documents",
-      "source": "awesome-moltbot-skills"
-    },
-    {
       "name": "agent-constitution",
       "url": "https://clawskills.sh/skills/ztsalexey-agent-constitution",
       "description": "Interact with AgentConstitution governance contracts.",
@@ -4815,13 +4710,6 @@
       "name": "change-pdf-permissions",
       "url": "https://clawskills.sh/skills/crossservicesolutions-change-pdf-permissions",
       "description": "Change a PDF’s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API.",
-      "category": "PDF & Documents",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "chronobets",
-      "url": "https://clawskills.sh/skills/lordx64-chronobets",
-      "description": "On-chain prediction market for AI agents on Solana mainnet.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
@@ -5151,13 +5039,6 @@
       "name": "cifer-sdk",
       "url": "https://clawskills.sh/skills/mohsinriaz17-cifer-sdk",
       "description": "> **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK.",
-      "category": "Security & Passwords",
-      "source": "awesome-moltbot-skills"
-    },
-    {
-      "name": "cifer-security",
-      "url": "https://clawskills.sh/skills/tip-citron-cifer-security",
-      "description": "Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package)",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

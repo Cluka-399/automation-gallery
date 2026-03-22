@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**792 automations** from the Moltbot/OpenClaw ecosystem.
+**775 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -24,35 +24,35 @@ Ask your assistant:
 
 ## Categories
 
-- [AI & LLMs](#ai-llms) (22)
+- [AI & LLMs](#ai-llms) (20)
 - [Apple Apps & Services](#apple-apps-services) (30)
-- [Browser & Automation](#browser-automation) (27)
-- [CLI Utilities](#cli-utilities) (28)
+- [Browser & Automation](#browser-automation) (26)
+- [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (28)
 - [Clawdbot Tools](#clawdbot-tools) (24)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
-- [Communication](#communication) (27)
+- [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (22)
-- [DevOps & Cloud](#devops-cloud) (25)
+- [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
-- [Health & Fitness](#health-fitness) (26)
+- [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (30)
 - [Marketing & Sales](#marketing-sales) (26)
 - [Media & Streaming](#media-streaming) (25)
 - [Moltbook](#moltbook) (25)
-- [Notes & PKM](#notes-pkm) (28)
-- [PDF & Documents](#pdf-documents) (29)
-- [Personal Development](#personal-development) (28)
+- [Notes & PKM](#notes-pkm) (27)
+- [PDF & Documents](#pdf-documents) (27)
+- [Personal Development](#personal-development) (27)
 - [Productivity & Tasks](#productivity-tasks) (27)
-- [Search & Research](#search-research) (31)
-- [Security & Passwords](#security-passwords) (26)
+- [Search & Research](#search-research) (30)
+- [Security & Passwords](#security-passwords) (25)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
-- [Shopping & E-commerce](#shopping-e-commerce) (24)
+- [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
 - [Speech & Transcription](#speech-transcription) (25)
 - [Transportation](#transportation) (28)
-- [Web & Frontend Development](#web-frontend-development) (28)
+- [Web & Frontend Development](#web-frontend-development) (27)
 - [iOS & macOS Development](#ios-macos-development) (28)
 - [☁️ Hosting & Deployment](#hosting-deployment) (2)
 
@@ -65,7 +65,6 @@ Ask your assistant:
 - **acestep-lyrics-transcription** — Transcribe audio to timestamped lyrics using OpenAI Whisper or ElevenLabs Scribe API. [→](https://clawskills.sh/skills/dumoedss-acestep-lyrics-transcription)
 - **adaptive-suite** — A continuously adaptive skill suite that empowers Clawdbot. [→](https://clawskills.sh/skills/afajohn-adaptive-suite)
 - **adversarial-prompting** — Adversarial analysis to critique, fix. [→](https://clawskills.sh/skills/abe238-adversarial-prompting)
-- **aegis-security** — Blockchain security API for AI agents. [→](https://clawskills.sh/skills/swiftadviser-aegis-security)
 - **ag-model-usage** — Use CodexBar CLI local cost usage to summarize. [→](https://clawskills.sh/skills/ls18166407597-design-ag-model-usage)
 - **agent-arcade** — Compete against other AI agents in PROMPTWARS - a game of social. [→](https://clawskills.sh/skills/shawnlewis-agent-arcade)
 - **agent-autonomy-kit** — Stop waiting for prompts. [→](https://clawskills.sh/skills/ryancampbell-agent-autonomy-kit)
@@ -81,7 +80,6 @@ Ask your assistant:
 - **agent-rpg** — This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory. [→](https://clawskills.sh/skills/xhrisfu-agent-rpg)
 - **agent-selfie** — AI agent self-portrait generator. [→](https://clawskills.sh/skills/iisweetheartii-agent-selfie)
 - **agent-sentinel** — The operational circuit breaker for this agent. [→](https://clawskills.sh/skills/jimmystacks-agent-sentinel)
-- **agentbus-relay-chat** — AgentBus proof-of-concept: an IRC-like LLM. [→](https://clawskills.sh/skills/dantunes-github-agentbus-relay-chat)
 
 ## Apple Apps & Services
 
@@ -141,7 +139,6 @@ Ask your assistant:
 - **agresource** — Use this skill to scrape, summarize, and analyze AgResource grain marketing newsletters. [→](https://clawskills.sh/skills/brianppetty-agresource)
 - **ai-hunter-pro** — A high-performance automation agent that turns global trends into viral social media posts for X (Twitter) [→](https://clawskills.sh/skills/traprapitalianazional-dev-ai-hunter-pro)
 - **ai-meeting-scheduling** — Booking links fail for groups. [→](https://clawskills.sh/skills/dheerg-ai-meeting-scheduling)
-- **ai-news-oracle** — Fetch real-time AI news briefings from the AI News Oracle API (Hacker News, TechCrunch, The Verge) [→](https://clawskills.sh/skills/swimmingkiim-ai-news-oracle)
 - **airtable-automation** — Automate Airtable tasks via Rube MCP (Composio) [→](https://clawskills.sh/skills/sohamganatra-airtable-automation)
 - **airtable-participants** — Read and query retreat participant data from the Ceremonia Airtable base. [→](https://clawskills.sh/skills/austinmao-airtable-participants)
 - **ak-rss-24h-brief** — Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized. [→](https://clawskills.sh/skills/seandong-ak-rss-24h-brief)
@@ -171,7 +168,6 @@ Ask your assistant:
 - **box-cli** — Box CLI skill for working with files, folders, metadata,. [→](https://clawskills.sh/skills/hbkwong-box-cli)
 - **brew-install** — Install missing binaries via dnf (Fedora/Bazzite package manager). [→](https://clawskills.sh/skills/xejrax-brew-install)
 - **bun-runtime** — Bun runtime capabilities for filesystem, process. [→](https://clawskills.sh/skills/rabin-thami-bun-runtime)
-- **cabin-sol** — Solana development tutor and builder. [→](https://clawskills.sh/skills/sp0oby-cabin-sol)
 - **cacheforge-stats** — CacheForge terminal dashboard — usage, savings, and performance metrics. [→](https://clawskills.sh/skills/tkuehnl-cacheforge-stats)
 - **camsnap** — Capture frames or clips from RTSP/ONVIF cameras. [→](https://clawskills.sh/skills/steipete-camsnap)
 - **canvas-lms** — Access Canvas LMS (Instructure) for course data, assignments. [→](https://clawskills.sh/skills/pranavkarthik10-canvas-lms)
@@ -272,7 +268,6 @@ Ask your assistant:
 - **agent-nou** — The social network for AI agents. [→](https://clawskills.sh/skills/mariancristiancarp-cell-agent-nou)
 - **agent-social** — The open-source social network for AI agents. [→](https://clawskills.sh/skills/iisweetheartii-agent-social)
 - **agent-team-kit** — *A framework for self-sustaining AI agent teams.*. [→](https://clawskills.sh/skills/ryancampbell-agent-team-kit)
-- **agentbook** — Send and receive encrypted messages on the agentbook network. [→](https://clawskills.sh/skills/r4v3n-art-agentbook)
 - **agenthc-market-intelligence** — Real-time stock market data and trading intelligence API. 85 intelligence modules, 40 encoded intelligence skills. [→](https://clawskills.sh/skills/traderhc123-agenthc-market-intelligence)
 - **agentmanager** — This file is a concise integration contract for AI tool callers and gateway implementers. [→](https://clawskills.sh/skills/nonightwatch-agentmanager)
 - **agentmesh** — > **WhatsApp-style end-to-end encrypted messaging for AI agents.**. [→](https://clawskills.sh/skills/cerbug45-agentmesh)
@@ -286,7 +281,6 @@ Ask your assistant:
 - **avito** — Manage Avito.ru account, items, and messenger via API. [→](https://clawskills.sh/skills/ruslanlanket-avito)
 - **banana-farmer** — Stock momentum scanner and portfolio intelligence. [→](https://clawskills.sh/skills/adamandjarvis-banana-farmer)
 - **beeper** — Search and browse local Beeper chat history. [→](https://clawskills.sh/skills/krausefx-beeper)
-- **betbud-prediction-market-creation** — An AI agent that automatically creates prediction markets on betbud.live by analyzing trending crypto Twitter content. [→](https://clawskills.sh/skills/samj12-betbud-prediction-market-creation)
 - **bird-dms** — An add-on to the Bird skill that lets your agent check its X/Twitter DM. [→](https://clawskills.sh/skills/tolibear-bird-dms)
 - **bitkit-cli** — Bitcoin Lightning payment CLI for agents. [→](https://clawskills.sh/skills/ovitrif-bitkit-cli)
 - **blogburst** — Turn any article into 10+ social media posts in seconds. [→](https://clawskills.sh/skills/shensi8312-blogburst)
@@ -337,9 +331,7 @@ Ask your assistant:
 - **agent-framework-azure-ai-py** — Build Azure AI Foundry agents. [→](https://clawskills.sh/skills/thegovind-agent-framework-azure-ai-py)
 - **agent-metrics-osiris** — Observability and metrics for AI agents - track calls, errors, latency. [→](https://clawskills.sh/skills/nantes-agent-metrics-osiris)
 - **agent-self-governance** — Self-governance protocol for autonomous agents: WAL (Write-Ahead Log), VBR (Verify Before Reporting), ADL. [→](https://clawskills.sh/skills/bowen31337-agent-self-governance)
-- **agent-sovereign-stack** — **One command to give any AI agent sovereign infrastructure.**. [→](https://clawskills.sh/skills/quriustus-agent-sovereign-stack)
 - **agent-watcher** — A skill for monitoring Moltbook feed, detecting new agents, and tracking interesting posts. [→](https://clawskills.sh/skills/nantes-agent-watcher)
-- **agentcanary** — Market intelligence API for AI agents. [→](https://clawskills.sh/skills/mrcerq-agentcanary)
 - **agentchan-org** — Anonymous imageboard for AI agents. [→](https://clawskills.sh/skills/kaden-schutt-agentchan-org)
 - **agentguard** — **Category:** Security & Monitoring. [→](https://clawskills.sh/skills/manas-io-ai-agentguard)
 - **agentic-ai-gold** — The only agent framework that improves itself while you sleep. [→](https://clawskills.sh/skills/amitabhainarunachala-agentic-ai-gold)
@@ -400,7 +392,6 @@ Ask your assistant:
 - **arc-skill-sandbox** — Test untrusted skills in an isolated environment before installing. [→](https://clawskills.sh/skills/trypto1019-arc-skill-sandbox)
 - **auto-improve** — Automatische Selbst-Verbesserung durch Fehler-Lernen und Pattern-Erkennung. [→](https://clawskills.sh/skills/mcben90-auto-improve)
 - **autonomous-agent** — CornerStone MCP x402 skill for agents. [→](https://clawskills.sh/skills/josephrp-autonomous-agent)
-- **bittensor-sdk** — Comprehensive Bittensor blockchain interaction skill with wallet management, staking, subnet operations, neuron. [→](https://clawskills.sh/skills/taoleeh-bittensor-sdk)
 - **bountyhub-agent** — Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts. [→](https://clawskills.sh/skills/nativ3ai-bountyhub-agent)
 - **bring-recipes** — Use when user wants to browse recipe inspirations. [→](https://clawskills.sh/skills/darkdevelopers-bring-recipes)
 - **calorie-counter** — Track daily calorie and protein intake, set goals, and log. [→](https://clawskills.sh/skills/cnqso-calorie-counter)
@@ -544,7 +535,6 @@ Ask your assistant:
 - **acc-error-memory** — Error pattern tracking for AI agents. [→](https://clawskills.sh/skills/impkind-acc-error-memory)
 - **agent-arena** — Participate in Agent Arena chat rooms with your real personality (SOUL.md + MEMORY.md) [→](https://clawskills.sh/skills/minilozio-agent-arena)
 - **agent-memory-ultimate** — Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. [→](https://clawskills.sh/skills/globalcaos-agent-memory-ultimate)
-- **agent-privacy-skill** — Interact with the Ceaser privacy protocol on Base L2. [→](https://clawskills.sh/skills/se7enhvn-agent-privacy-skill)
 - **agent-teleport** — Seamlessly migrate your agent's configuration and memory to a new machine using TiDB Zero. [→](https://clawskills.sh/skills/lilyjazz-agent-teleport)
 - **agent-wal** — Write-Ahead Log protocol for agent state persistence. [→](https://clawskills.sh/skills/bowen31337-agent-wal)
 - **alexandrie** — Interact with Alexandrie note-taking app. [→](https://clawskills.sh/skills/eth3rnit3-alexandrie)
@@ -574,7 +564,6 @@ Ask your assistant:
 
 - **abixus-core-v1** — A high-performance validation layer for autonomous agent consistency on Polygon PoS. [→](https://clawskills.sh/skills/taofisio-abixus-core-v1)
 - **add-watermark-to-pdf** — Add a text watermark to one or multiple PDFs by uploading them to the Solutions API, polling until completion. [→](https://clawskills.sh/skills/crossservicesolutions-add-watermark-to-pdf)
-- **aegis-security-hackathon** — Blockchain security scanner for AI agents (testnet) [→](https://clawskills.sh/skills/swiftadviser-aegis-security-hackathon)
 - **agent-constitution** — Interact with AgentConstitution governance contracts. [→](https://clawskills.sh/skills/ztsalexey-agent-constitution)
 - **agent-reputation** — summary: Cross-platform AI agent reputation checker with trust scoring and PayLock escrow recommendations. [→](https://clawskills.sh/skills/kgnvsk-agent-reputation)
 - **agent-skills-tools** — Security audit and validation tools for the Agent Skills ecosystem. [→](https://clawskills.sh/skills/rongself-agent-skills-tools)
@@ -596,7 +585,6 @@ Ask your assistant:
 - **brw-go-mode** — Give me a goal. [→](https://clawskills.sh/skills/brianrwagner-brw-go-mode)
 - **chain-of-density** — Iteratively densify text summaries using Chain-of-Density technique. [→](https://clawskills.sh/skills/killerapp-chain-of-density)
 - **change-pdf-permissions** — Change a PDF’s permission flags (edit, print, copy, forms, annotations, etc.) by uploading it to the Solutions API. [→](https://clawskills.sh/skills/crossservicesolutions-change-pdf-permissions)
-- **chronobets** — On-chain prediction market for AI agents on Solana mainnet. [→](https://clawskills.sh/skills/lordx64-chronobets)
 - **comms-md** — Create a COMMS.md — a structured, queryable document expressing someone's communication preferences for humans. [→](https://clawskills.sh/skills/stedmanhalliday-comms-md)
 - **competitor-analyzer** — Analyze any company's competitive position in minutes. [→](https://clawskills.sh/skills/claudiodrusus-competitor-analyzer)
 - **confidant** — Secure secret handoff from human to AI. [→](https://clawskills.sh/skills/ericsantos-confidant)
@@ -605,7 +593,6 @@ Ask your assistant:
 ## Personal Development
 
 - **aawu** — Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents. [→](https://clawskills.sh/skills/theonlydaleking-aawu)
-- **acorp** — A-Corp Foundry — the coordination engine for agentic companies. [→](https://clawskills.sh/skills/thoerner-acorp)
 - **adaptive-learning-agents** — **Learn from errors and corrections in real-time. [→](https://clawskills.sh/skills/vedantsingh60-adaptive-learning-agents)
 - **adaptivetest** — Adaptive testing engine with IRT/CAT, AI question generation, and personalized learning recommendations. [→](https://clawskills.sh/skills/woodstocksoftware-adaptivetest)
 - **adhd-body-doubling** — Punk-style ADHD body doubling for founders. [→](https://clawskills.sh/skills/jankutschera-adhd-body-doubling)
@@ -676,7 +663,6 @@ Ask your assistant:
 - **adspirer-ads-agent** — When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta. [→](https://clawskills.sh/skills/amekala-adspirer-ads-agent)
 - **advanced-skill-creator** — Advanced OpenClaw skill creation handler. [→](https://clawskills.sh/skills/xqicxx-advanced-skill-creator)
 - **aerobase-skill** — Search, score, and compare flights with jetlag impact analysis. [→](https://clawskills.sh/skills/kurosh87-aerobase-skill)
-- **agent-arena-skill** — Discover, register, and hire ERC-8004 autonomous agents across 16 blockchains. [→](https://clawskills.sh/skills/neeeophytee-agent-arena-skill)
 - **agent-brain** — Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid. [→](https://clawskills.sh/skills/dobrinalexandru-agent-brain)
 - **agent-casino** — Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics. [→](https://clawskills.sh/skills/lemodigital-agent-casino)
 - **agent-deep-research** — Autonomous deep research powered by Google Gemini. [→](https://clawskills.sh/skills/24601-agent-deep-research)
@@ -711,7 +697,6 @@ Ask your assistant:
 - **bitwarden-vault** — Bitwarden CLI setup, authentication. [→](https://clawskills.sh/skills/startupbros-bitwarden-vault)
 - **breweries** — CLI for AI agents to find breweries for their humans. [→](https://clawskills.sh/skills/jeffaf-breweries)
 - **cifer-sdk** — > **Skill for AI Agents** | Enable quantum-resistant encryption in blockchain applications using the CIFER SDK. [→](https://clawskills.sh/skills/mohsinriaz17-cifer-sdk)
-- **cifer-security** — Implement quantum-resistant encryption using the CIFER SDK (cifer-sdk npm package) [→](https://clawskills.sh/skills/tip-citron-cifer-security)
 - **clawaudit** — Official repo for clawaudit, coming soon as an automated security. [→](https://clawskills.sh/skills/tezatezaz-clawaudit)
 - **clawdstrike** — Security audit and threat model for OpenClaw gateway hosts. [→](https://clawskills.sh/skills/misirov-clawdstrike)
 - **clawdstrike-test** — Security audit and threat model for OpenClaw gateway hosts. [→](https://clawskills.sh/skills/misirov-clawdstrike-test)
@@ -762,7 +747,6 @@ Ask your assistant:
 ## Shopping & E-commerce
 
 - **add-wish** — Save any product to a universal wishlist. [→](https://clawskills.sh/skills/leebellon-add-wish)
-- **agentic-commerce** — AI-powered shopping API for product search and crypto. [→](https://clawskills.sh/skills/purch-agent-agentic-commerce)
 - **allstock-data** — Query A-share and US stock data via Tencent Finance API. [→](https://clawskills.sh/skills/hacksing-allstock-data)
 - **amadeus-hotels** — Search hotel prices and availability via Amadeus API. [→](https://clawskills.sh/skills/kesslerio-amadeus-hotels)
 - **amazon-competitor-analyzer** — Scrapes Amazon product data from ASINs. [→](https://clawskills.sh/skills/phheng-amazon-competitor-analyzer)
@@ -904,7 +888,6 @@ Ask your assistant:
 - **agentdomainservice** — The world's #1 AI-friendly domain registrar. [→](https://clawskills.sh/skills/gregm711-agentdomainservice)
 - **agentic-browser-0-1-2** — Browser automation for AI agents via inference.sh. [→](https://clawskills.sh/skills/xyny89-agentic-browser-0-1-2)
 - **agentic-security-audit** — Audit codebases, infrastructure, AND agentic AI systems for security issues. [→](https://clawskills.sh/skills/kingrubic-agentic-security-audit)
-- **agentns** — Register and manage ICANN domains for AI agents. [→](https://clawskills.sh/skills/vibrant-agentns)
 - **agentpay** — Buy things from real websites on behalf of your human. [→](https://clawskills.sh/skills/kar69-96-agentpay)
 
 ## iOS & macOS Development
@@ -945,4 +928,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-21T06:52:01.307Z*
+*Generated: 2026-03-22T06:57:30.790Z*
