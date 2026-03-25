@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**775 automations** from the Moltbot/OpenClaw ecosystem.
+**777 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -29,7 +29,7 @@ Ask your assistant:
 - [Browser & Automation](#browser-automation) (26)
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (28)
-- [Clawdbot Tools](#clawdbot-tools) (24)
+- [Clawdbot Tools](#clawdbot-tools) (25)
 - [Coding Agents & IDEs](#coding-agents-ides) (26)
 - [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (22)
@@ -44,7 +44,7 @@ Ask your assistant:
 - [Notes & PKM](#notes-pkm) (27)
 - [PDF & Documents](#pdf-documents) (27)
 - [Personal Development](#personal-development) (27)
-- [Productivity & Tasks](#productivity-tasks) (27)
+- [Productivity & Tasks](#productivity-tasks) (28)
 - [Search & Research](#search-research) (30)
 - [Security & Passwords](#security-passwords) (25)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
@@ -230,6 +230,7 @@ Ask your assistant:
 - **clawdefender** — Security scanner and input sanitizer for AI agents. [→](https://clawskills.sh/skills/nukewire-clawdefender)
 - **clawdirect** — Interact with ClawDirect, a directory of social web experiences. [→](https://clawskills.sh/skills/napoleond-clawdirect)
 - **clawdirect-dev** — Build agent-facing web experiences with ATXP-based. [→](https://clawskills.sh/skills/napoleond-clawdirect-dev)
+- **honcho-setup** — Persistent cross-session memory via Honcho. [→](https://clawskills.sh/skills/ajspig-honcho-setup)
 
 ## Coding Agents & IDEs
 
@@ -649,6 +650,7 @@ Ask your assistant:
 - **ask-agents** — AI agent for ask agents tasks. [→](https://clawskills.sh/skills/teamolab-ask-agents)
 - **async-task** — Execute long-running tasks without HTTP timeouts. [→](https://clawskills.sh/skills/enderfga-async-task)
 - **atlassian-mcp** — Run the Model Context Protocol (MCP) Atlassian server. [→](https://clawskills.sh/skills/atakanermis-atlassian-mcp)
+- **boss-ai-agent** — AI management middleware with 14 mentors and 9 culture packs. [→](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md)
 
 ## Search & Research
 
@@ -928,4 +930,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-24T07:10:26.840Z*
+*Generated: 2026-03-25T07:08:25.817Z*

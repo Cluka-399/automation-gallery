@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-24T07:10:26.841Z",
-  "count": 775,
+  "generated": "2026-03-25T07:08:25.817Z",
+  "count": 777,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1683,6 +1683,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "honcho-setup",
+      "url": "https://clawskills.sh/skills/ajspig-honcho-setup",
+      "description": "Persistent cross-session memory via Honcho.",
+      "category": "Clawdbot Tools",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "13-day-sprint-method",
       "url": "https://clawskills.sh/skills/galizki-13-day-sprint-method",
       "description": "Productivity system based on Maya calendar with 13 natural tones for project management and personal development.",
@@ -2239,6 +2246,13 @@
       "name": "atlassian-mcp",
       "url": "https://clawskills.sh/skills/atakanermis-atlassian-mcp",
       "description": "Run the Model Context Protocol (MCP) Atlassian server.",
+      "category": "Productivity & Tasks",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "boss-ai-agent",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md",
+      "description": "AI management middleware with 14 mentors and 9 culture packs.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
