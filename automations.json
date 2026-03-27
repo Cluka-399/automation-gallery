@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-26T07:15:55.880Z",
-  "count": 777,
+  "generated": "2026-03-27T07:15:06.199Z",
+  "count": 778,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -4997,6 +4997,13 @@
       "name": "amai-id",
       "url": "https://www.clawhub.ai/Gonzih/amai-id",
       "description": "Soul-Bound Keys and Soulchain for persistent.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "agent-security-harness",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/msaleme/agent-security-harness/SKILL.md",
+      "description": "Security testing for AI agent wire protocols and platforms.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**777 automations** from the Moltbot/OpenClaw ecosystem.
+**778 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -46,7 +46,7 @@ Ask your assistant:
 - [Personal Development](#personal-development) (27)
 - [Productivity & Tasks](#productivity-tasks) (28)
 - [Search & Research](#search-research) (30)
-- [Security & Passwords](#security-passwords) (25)
+- [Security & Passwords](#security-passwords) (26)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
@@ -690,6 +690,7 @@ Ask your assistant:
 - **1claw** — HSM-backed vault for agent secrets; store, rotate, share securely. [→](https://clawskills.sh/skills/kmjones1979-1claw)
 - **1password** — Set up and use 1Password CLI (op). [→](https://clawskills.sh/skills/steipete-1password)
 - **age-verification** — Skills for age verification and age-appropriate content filtering. [→](https://clawskills.sh/skills/raghulpasupathi-age-verification)
+- **agent-security-harness** — Security testing for AI agent wire protocols and platforms. [→](https://github.com/openclaw/skills/tree/main/skills/msaleme/agent-security-harness/SKILL.md)
 - **amai-id** — Soul-Bound Keys and Soulchain for persistent. [→](https://www.clawhub.ai/Gonzih/amai-id)
 - **api-security** — Implement secure API design patterns including authentication, authorization, input validation, rate limiting. [→](https://clawskills.sh/skills/brandonwise-api-security)
 - **audit-badge-demo** — Demo skill showcasing the audit badge workflow. [→](https://clawskills.sh/skills/tezatezaz-audit-badge-demo)
@@ -930,4 +931,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-03-26T07:15:55.880Z*
+*Generated: 2026-03-27T07:15:06.199Z*
