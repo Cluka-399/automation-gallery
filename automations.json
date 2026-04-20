@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-19T07:25:34.354Z",
-  "count": 778,
+  "generated": "2026-04-20T08:16:28.889Z",
+  "count": 791,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -353,6 +353,20 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "skywork-ppt",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-ppt/SKILL.md",
+      "description": "Generate, imitate, and edit PowerPoint presentations with skywork.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "skywork-music-maker",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-music-maker/SKILL.md",
+      "description": "Create professional music with Mureka AI.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "1p-shortlink",
       "url": "https://clawskills.sh/skills/tuanpmt-1p-shortlink",
       "description": "Create short URLs and submit feature requests using 1p.io.",
@@ -531,6 +545,20 @@
       "name": "ak-rss-24h-brief",
       "url": "https://clawskills.sh/skills/seandong-ak-rss-24h-brief",
       "description": "Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized.",
+      "category": "Browser & Automation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "adspower-browser",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser",
+      "description": "Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.",
+      "category": "Browser & Automation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "duoplus-agent",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md",
+      "description": "Control DuoPlus cloud phones via ADB.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
     },
@@ -1095,6 +1123,20 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "skywork-design",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-design/SKILL.md",
+      "description": "Generate and edit images via Skywork Image for posters, logos and more.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ai-video-remix",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/abu-shotai/ai-video-remix/SKILL.md",
+      "description": "AI-driven video remix from local library using ShotAI.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "alter-actions",
       "url": "https://clawskills.sh/skills/olivieralter-alter-actions",
       "description": "Trigger Alter macOS app actions via x-callback-urls.",
@@ -1511,6 +1553,13 @@
       "name": "xquik-x-twitter-scraper",
       "url": "https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper",
       "description": "X API scraper with 40+ tools for AI agents.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "skywork-search",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-search/SKILL.md",
+      "description": "AI-powered web search for real-time information — retrieve up-to-date content.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -2061,6 +2110,20 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "socialecho-social-media-management-agent",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md",
+      "description": "SocialEcho API team account article report queries.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "postiz",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md",
+      "description": "Schedule social media posts and threads across 28+ platforms.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "4to1-planner",
       "url": "https://clawskills.sh/skills/qingxuantang-4to1-planner",
       "description": "AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.",
@@ -2551,6 +2614,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "skywork-excel",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md",
+      "description": "AI-powered spreadsheet operations for creating, analyzing and generating reports.",
+      "category": "Data & Analytics",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "alexa-control",
       "url": "https://clawskills.sh/skills/ignito-pg-alexa-control",
       "description": "Control Alexa devices via CLI - set alarms, play music, flash briefings, smart home commands.",
@@ -2659,6 +2729,13 @@
       "name": "chromecast",
       "url": "https://clawskills.sh/skills/morozred-chromecast-control",
       "description": "Control Chromecast devices on your local network - discover.",
+      "category": "Media & Streaming",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "chords-fetcher",
+      "url": "https://clawskills.sh/skills/flobo3-chords-fetcher",
+      "description": "Fetch clean guitar chords and lyrics from mychords.net, amdm.ru, ultimate-guitar.com.",
       "category": "Media & Streaming",
       "source": "awesome-moltbot-skills"
     },
@@ -4763,6 +4840,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "skywork-document",
+      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-document/SKILL.md",
+      "description": "Generate professional documents from prompts with automatic web search for up-to-date content.",
+      "category": "PDF & Documents",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "beacon",
       "url": "https://clawskills.sh/skills/scottcjn-beacon",
       "description": "Agent-to-agent protocol for social coordination, crypto payments, and P2P mesh.",
@@ -5151,6 +5235,13 @@
       "name": "feelgoodbot",
       "url": "https://clawskills.sh/skills/kris-hansen-feelgoodbot",
       "description": "Set up feelgoodbot file integrity monitoring for macOS.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "skill-provenance",
+      "url": "https://clawskills.sh/skills/snapsynapse-skill-provenance",
+      "description": "Version tracking and integrity verification for skill bundles",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

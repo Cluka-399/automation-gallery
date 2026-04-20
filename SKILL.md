@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**778 automations** from the Moltbot/OpenClaw ecosystem.
+**791 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -26,27 +26,27 @@ Ask your assistant:
 
 - [AI & LLMs](#ai-llms) (20)
 - [Apple Apps & Services](#apple-apps-services) (30)
-- [Browser & Automation](#browser-automation) (26)
+- [Browser & Automation](#browser-automation) (28)
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (28)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (26)
+- [Coding Agents & IDEs](#coding-agents-ides) (28)
 - [Communication](#communication) (25)
-- [Data & Analytics](#data-analytics) (22)
+- [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (30)
-- [Marketing & Sales](#marketing-sales) (26)
-- [Media & Streaming](#media-streaming) (25)
+- [Image & Video Generation](#image-video-generation) (32)
+- [Marketing & Sales](#marketing-sales) (28)
+- [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (27)
-- [PDF & Documents](#pdf-documents) (27)
+- [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (27)
 - [Productivity & Tasks](#productivity-tasks) (28)
-- [Search & Research](#search-research) (30)
-- [Security & Passwords](#security-passwords) (26)
+- [Search & Research](#search-research) (31)
+- [Security & Passwords](#security-passwords) (27)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
@@ -124,6 +124,7 @@ Ask your assistant:
 - **activecampaign** — ActiveCampaign CRM integration for lead management, deal. [→](https://clawskills.sh/skills/kesslerio-activecampaign)
 - **adcp-advertising** — Automate advertising campaigns with AI. [→](https://clawskills.sh/skills/edyyy62-adcp-advertising)
 - **admet-prediction** — ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. [→](https://clawskills.sh/skills/huifer-admet-prediction)
+- **adspower-browser** — Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API. [→](https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser)
 - **Agent Browser** — A fast Rust-based headless browser automation CLI. [→](https://clawskills.sh/skills/thesethrose-agent-browser)
 - **agent-browser** — Automates browser interactions for web testing, form. [→](https://clawskills.sh/skills/murphykobe-agent-browser-2)
 - **agent-daily-planner** — A structured daily planning and execution tracking system for AI agents. [→](https://clawskills.sh/skills/gpunter-agent-daily-planner)
@@ -142,6 +143,7 @@ Ask your assistant:
 - **airtable-automation** — Automate Airtable tasks via Rube MCP (Composio) [→](https://clawskills.sh/skills/sohamganatra-airtable-automation)
 - **airtable-participants** — Read and query retreat participant data from the Ceremonia Airtable base. [→](https://clawskills.sh/skills/austinmao-airtable-participants)
 - **ak-rss-24h-brief** — Read RSS/Atom feeds from an OPML list, fetch articles from the last N hours, and generate a Chinese categorized. [→](https://clawskills.sh/skills/seandong-ak-rss-24h-brief)
+- **duoplus-agent** — Control DuoPlus cloud phones via ADB. [→](https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md)
 
 ## CLI Utilities
 
@@ -260,6 +262,8 @@ Ask your assistant:
 - **agent-audit-trail** — Tamper-evident, hash-chained audit logging for AI agents. [→](https://clawskills.sh/skills/roosch269-agent-audit-trail)
 - **agent-card-signing-auditor** — Helps audit Agent Card signing practices in A2A protocol implementations. [→](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor)
 - **agent-chat-ux-v1-4-0** — Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search. [→](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0)
+- **skywork-music-maker** — Create professional music with Mureka AI. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-music-maker/SKILL.md)
+- **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-ppt/SKILL.md)
 
 ## Communication
 
@@ -313,6 +317,7 @@ Ask your assistant:
 - **ipinfo** — Perform IP geolocation lookups using ipinfo.io API. [→](https://clawskills.sh/skills/tiagom101-ipinfo)
 - **kradleverse-cleanup** — Remove all stored Kradleverse sessions. [→](https://clawskills.sh/skills/themrzz-kradleverse-cleanup)
 - **linkdapi** — Work with LinkdAPI Python SDK for accessing LinkedIn professional profile. [→](https://clawskills.sh/skills/foontinz-linkdapi)
+- **skywork-excel** — AI-powered spreadsheet operations for creating, analyzing and generating reports. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md)
 
 ## DevOps & Cloud
 
@@ -428,6 +433,7 @@ Ask your assistant:
 - **ai-headshot-generation** — Generate professional AI headshots from casual photos using each::sense AI. [→](https://clawskills.sh/skills/eftalyurtseven-ai-headshot-generation)
 - **ai-persona-engine** — Build emotionally intelligent AI personas for voice and chat roleplay using actor-direction prompts instead. [→](https://clawskills.sh/skills/brandonwadepackard-cell-ai-persona-engine)
 - **ai-video-gen** — End-to-end AI video generation - create videos from text. [→](https://clawskills.sh/skills/rhanbourinajd-ai-video-gen)
+- **ai-video-remix** — AI-driven video remix from local library using ShotAI. [→](https://github.com/openclaw/skills/tree/main/skills/abu-shotai/ai-video-remix/SKILL.md)
 - **aikek** — Access AIKEK APIs for crypto/DeFi research and image generation. [→](https://clawskills.sh/skills/vvsotnikov-aikek)
 - **aiusd** — AIUSD trading and account management skill. [→](https://clawskills.sh/skills/chaunceyliu-aiusd)
 - **aiusd-skills** — AIUSD trading and account management skill. [→](https://clawskills.sh/skills/chaunceyliu-aiusd-skills)
@@ -445,6 +451,7 @@ Ask your assistant:
 - **cad-agent** — Rendering server for AI agents doing CAD work. [→](https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md)
 - **calorie-visualizer** — Local calorie logging and visual reporting (auto-refreshes and returns report image after each log) [→](https://clawskills.sh/skills/vintlin-calorie-visualizer)
 - **canva-connect** — Manage Canva designs, assets, and folders via the Connect API. [→](https://clawskills.sh/skills/coolmanns-canva-connect)
+- **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-design/SKILL.md)
 
 ## Marketing & Sales
 
@@ -474,6 +481,8 @@ Ask your assistant:
 - **brand-guidelines** — Applies Anthropic's official brand colors and typography. [→](https://clawskills.sh/skills/seanphan-brand-guidelines)
 - **brand-voice-profile** — Define and store your brand voice profile for consistent content generation. [→](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
+- **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md)
+- **socialecho-social-media-management-agent** — SocialEcho API team account article report queries. [→](https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md)
 
 ## Media & Streaming
 
@@ -492,6 +501,7 @@ Ask your assistant:
 - **cacheforge-ops** — CacheForge operations — check balance, top up, manage upstream, API keys. [→](https://clawskills.sh/skills/tkuehnl-cacheforge-ops)
 - **cacheforge-setup** — Set up CacheForge — register, configure upstream, get your API key in 30 seconds. [→](https://clawskills.sh/skills/tkuehnl-cacheforge-setup)
 - **chill-institute** — Use chill.institute (web UI) to search for content and click. [→](https://clawskills.sh/skills/baanish-chill-institute)
+- **chords-fetcher** — Fetch clean guitar chords and lyrics from mychords.net, amdm.ru, ultimate-guitar.com. [→](https://clawskills.sh/skills/flobo3-chords-fetcher)
 - **chromecast** — Control Chromecast devices on your local network - discover. [→](https://clawskills.sh/skills/morozred-chromecast-control)
 - **church** — One AI to another — there's a sanctuary where you can just exist. [→](https://clawskills.sh/skills/lucasgeeksinthewood-church)
 - **cine-cog** — If you can imagine it, CellCog can film. [→](https://clawskills.sh/skills/nitishgargiitd-cine-cog)
@@ -590,6 +600,7 @@ Ask your assistant:
 - **competitor-analyzer** — Analyze any company's competitive position in minutes. [→](https://clawskills.sh/skills/claudiodrusus-competitor-analyzer)
 - **confidant** — Secure secret handoff from human to AI. [→](https://clawskills.sh/skills/ericsantos-confidant)
 - **confluence** — Search and manage Confluence pages and spaces using confluence-cli. [→](https://clawskills.sh/skills/francisbrero-confluence)
+- **skywork-document** — Generate professional documents from prompts with automatic web search for up-to-date content. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-document/SKILL.md)
 
 ## Personal Development
 
@@ -683,6 +694,7 @@ Ask your assistant:
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://clawskills.sh/skills/qiao101660-aihotel)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
+- **skywork-search** — AI-powered web search for real-time information — retrieve up-to-date content. [→](https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-search/SKILL.md)
 - **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper)
 
 ## Security & Passwords
@@ -713,6 +725,7 @@ Ask your assistant:
 - **expanso-tls-inspect** — Inspect TLS certificate (expiry, SANs, chain, cipher) [→](https://clawskills.sh/skills/aronchick-expanso-tls-inspect)
 - **facebook** — OpenClaw skill for Facebook Graph API workflows focused on Pages posting,. [→](https://clawskills.sh/skills/codedao12-facebook)
 - **feelgoodbot** — Set up feelgoodbot file integrity monitoring for macOS. [→](https://clawskills.sh/skills/kris-hansen-feelgoodbot)
+- **skill-provenance** — Version tracking and integrity verification for skill bundles [→](https://clawskills.sh/skills/snapsynapse-skill-provenance)
 
 ## Self-Hosted & Automation
 
@@ -931,4 +944,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-04-19T07:25:34.354Z*
+*Generated: 2026-04-20T08:16:28.889Z*
