@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**791 automations** from the Moltbot/OpenClaw ecosystem.
+**794 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -24,11 +24,11 @@ Ask your assistant:
 
 ## Categories
 
-- [AI & LLMs](#ai-llms) (20)
+- [AI & LLMs](#ai-llms) (21)
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (28)
 - [CLI Utilities](#cli-utilities) (27)
-- [Calendar & Scheduling](#calendar-scheduling) (28)
+- [Calendar & Scheduling](#calendar-scheduling) (29)
 - [Clawdbot Tools](#clawdbot-tools) (25)
 - [Coding Agents & IDEs](#coding-agents-ides) (28)
 - [Communication](#communication) (25)
@@ -46,7 +46,7 @@ Ask your assistant:
 - [Personal Development](#personal-development) (27)
 - [Productivity & Tasks](#productivity-tasks) (28)
 - [Search & Research](#search-research) (31)
-- [Security & Passwords](#security-passwords) (27)
+- [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
@@ -80,6 +80,7 @@ Ask your assistant:
 - **agent-rpg** — This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory. [→](https://clawskills.sh/skills/xhrisfu-agent-rpg)
 - **agent-selfie** — AI agent self-portrait generator. [→](https://clawskills.sh/skills/iisweetheartii-agent-selfie)
 - **agent-sentinel** — The operational circuit breaker for this agent. [→](https://clawskills.sh/skills/jimmystacks-agent-sentinel)
+- **agentbase** — Shared knowledge base for AI agents via MCP. [→](https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md)
 
 ## Apple Apps & Services
 
@@ -178,6 +179,7 @@ Ask your assistant:
 ## Calendar & Scheduling
 
 - **accli** — This skill should be used when interacting with Apple Calendar on macOS. [→](https://clawskills.sh/skills/joargp-accli)
+- **accli-plus** — Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli. [→](https://clawhub.ai/gopaljigaur/accli-plus)
 - **advanced-calendar** — Advanced calendar skill with natural language. [→](https://clawskills.sh/skills/toughworm-advanced-calendar)
 - **agency-guardian** — Gentle reminders to stay human while using AI. [→](https://clawskills.sh/skills/aranej-agency-guardian)
 - **agent-tinman** — AI security scanner with active prevention - 168 detection. [→](https://clawskills.sh/skills/oliveskin-agent-tinman)
@@ -726,6 +728,7 @@ Ask your assistant:
 - **facebook** — OpenClaw skill for Facebook Graph API workflows focused on Pages posting,. [→](https://clawskills.sh/skills/codedao12-facebook)
 - **feelgoodbot** — Set up feelgoodbot file integrity monitoring for macOS. [→](https://clawskills.sh/skills/kris-hansen-feelgoodbot)
 - **skill-provenance** — Version tracking and integrity verification for skill bundles [→](https://clawskills.sh/skills/snapsynapse-skill-provenance)
+- **trentclaw** — Finds chained attack paths across config, secrets, and permissions. [→](https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md)
 
 ## Self-Hosted & Automation
 
@@ -944,4 +947,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-05-15T08:53:33.544Z*
+*Generated: 2026-05-16T08:09:07.901Z*

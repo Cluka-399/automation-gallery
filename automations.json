@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-15T08:53:33.544Z",
-  "count": 791,
+  "generated": "2026-05-16T08:09:07.901Z",
+  "count": 794,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -2460,6 +2460,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "agentbase",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md",
+      "description": "Shared knowledge base for AI agents via MCP.",
+      "category": "AI & LLMs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "add-analytics",
       "url": "https://clawskills.sh/skills/jeftekhari-add-analytics",
       "description": "Add Google Analytics 4 tracking to any project.",
@@ -4462,6 +4469,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "accli-plus",
+      "url": "https://clawhub.ai/gopaljigaur/accli-plus",
+      "description": "Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.",
+      "category": "Calendar & Scheduling",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "advanced-calendar",
       "url": "https://clawskills.sh/skills/toughworm-advanced-calendar",
       "description": "Advanced calendar skill with natural language.",
@@ -5242,6 +5256,13 @@
       "name": "skill-provenance",
       "url": "https://clawskills.sh/skills/snapsynapse-skill-provenance",
       "description": "Version tracking and integrity verification for skill bundles",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "trentclaw",
+      "url": "https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md",
+      "description": "Finds chained attack paths across config, secrets, and permissions.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },
