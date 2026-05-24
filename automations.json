@@ -1,19 +1,19 @@
 {
-  "generated": "2026-05-23T08:24:32.491Z",
+  "generated": "2026-05-24T08:34:12.850Z",
   "count": 794,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
       "url": "https://github.com/snyk/agent-scan",
       "description": "",
-      "category": "☁️ Hosting & Deployment",
+      "category": "🤖 Model Providers",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "Agent Trust Hub",
       "url": "https://ai.gendigital.com/agent-trust-hub",
       "description": "",
-      "category": "☁️ Hosting & Deployment",
+      "category": "🤖 Model Providers",
       "source": "awesome-moltbot-skills"
     },
     {
