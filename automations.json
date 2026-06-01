@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31T08:51:15.791Z",
+  "generated": "2026-06-01T11:42:56.539Z",
   "count": 794,
   "skills": [
     {
@@ -354,14 +354,14 @@
     },
     {
       "name": "skywork-ppt",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-ppt/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-ppt",
       "description": "Generate, imitate, and edit PowerPoint presentations with skywork.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "skywork-music-maker",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-music-maker/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-music-maker",
       "description": "Create professional music with Mureka AI.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -550,14 +550,14 @@
     },
     {
       "name": "adspower-browser",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/adspower/adspower-browser",
+      "url": "https://clawskills.sh/skills/adspower-adspower-browser",
       "description": "Use when the user asks to create or manage AdsPower browsers, groups, tags, proxies, or check status via AdsPower Local API.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "duoplus-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md",
+      "url": "https://clawskills.sh/skills/duoplusofficial-duoplus-agent",
       "description": "Control DuoPlus cloud phones via ADB.",
       "category": "Browser & Automation",
       "source": "awesome-moltbot-skills"
@@ -1103,7 +1103,7 @@
     },
     {
       "name": "cad-agent",
-      "url": "https://github.com/clawdbot/skills/tree/main/skills/clawd-maf/cad-agent/SKILL.md",
+      "url": "https://clawskills.sh/skills/clawd-maf-cad-agent",
       "description": "Rendering server for AI agents doing CAD work.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
@@ -1124,14 +1124,14 @@
     },
     {
       "name": "skywork-design",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-design/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-design",
       "description": "Generate and edit images via Skywork Image for posters, logos and more.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "ai-video-remix",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/abu-shotai/ai-video-remix/SKILL.md",
+      "url": "https://clawskills.sh/skills/abu-shotai-ai-video-remix",
       "description": "AI-driven video remix from local library using ShotAI.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
@@ -1558,7 +1558,7 @@
     },
     {
       "name": "skywork-search",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-search/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-search",
       "description": "AI-powered web search for real-time information — retrieve up-to-date content.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
@@ -2111,14 +2111,14 @@
     },
     {
       "name": "socialecho-social-media-management-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/socialecho-net/socialecho-social-media-management-agent/SKILL.md",
+      "url": "https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent",
       "description": "SocialEcho API team account article report queries.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "postiz",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/nevo-david/postiz/SKILL.md",
+      "url": "https://clawskills.sh/skills/nevo-david-postiz",
       "description": "Schedule social media posts and threads across 28+ platforms.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
@@ -2314,7 +2314,7 @@
     },
     {
       "name": "boss-ai-agent",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md",
+      "url": "https://clawskills.sh/skills/tonypk-boss-ai-agent",
       "description": "AI management middleware with 14 mentors and 9 culture packs.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
@@ -2461,7 +2461,7 @@
     },
     {
       "name": "agentbase",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md",
+      "url": "https://clawskills.sh/skills/revmischa-agentbase",
       "description": "Shared knowledge base for AI agents via MCP.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
@@ -2622,7 +2622,7 @@
     },
     {
       "name": "skywork-excel",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-excel/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-excel",
       "description": "AI-powered spreadsheet operations for creating, analyzing and generating reports.",
       "category": "Data & Analytics",
       "source": "awesome-moltbot-skills"
@@ -4848,14 +4848,14 @@
     },
     {
       "name": "bluente-translate",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/varsmallrookie/bluente-translate/SKILL.md",
+      "url": "https://clawskills.sh/skills/varsmallrookie-bluente-translate",
       "description": "Translate your documents with formatting intact in 2 minutes.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "skywork-document",
-      "url": "https://github.com/openclaw/skills/blob/main/skills/gxcun17/skywork-document/SKILL.md",
+      "url": "https://clawskills.sh/skills/gxcun17-skywork-document",
       "description": "Generate professional documents from prompts with automatic web search for up-to-date content.",
       "category": "PDF & Documents",
       "source": "awesome-moltbot-skills"
@@ -5100,7 +5100,7 @@
     },
     {
       "name": "agent-security-harness",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/msaleme/agent-security-harness/SKILL.md",
+      "url": "https://clawskills.sh/skills/msaleme-agent-security-harness",
       "description": "Security testing for AI agent wire protocols and platforms.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
@@ -5261,7 +5261,7 @@
     },
     {
       "name": "trentclaw",
-      "url": "https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md",
+      "url": "https://clawskills.sh/skills/trent-ai-release-trentclaw",
       "description": "Finds chained attack paths across config, secrets, and permissions.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
