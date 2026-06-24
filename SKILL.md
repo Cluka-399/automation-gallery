@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**794 automations** from the Moltbot/OpenClaw ecosystem.
+**800 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -28,22 +28,22 @@ Ask your assistant:
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (28)
 - [CLI Utilities](#cli-utilities) (27)
-- [Calendar & Scheduling](#calendar-scheduling) (29)
+- [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (28)
+- [Coding Agents & IDEs](#coding-agents-ides) (29)
 - [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (32)
-- [Marketing & Sales](#marketing-sales) (28)
+- [Image & Video Generation](#image-video-generation) (33)
+- [Marketing & Sales](#marketing-sales) (29)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (27)
 - [PDF & Documents](#pdf-documents) (28)
-- [Personal Development](#personal-development) (27)
+- [Personal Development](#personal-development) (28)
 - [Productivity & Tasks](#productivity-tasks) (28)
 - [Search & Research](#search-research) (31)
 - [Security & Passwords](#security-passwords) (28)
@@ -51,7 +51,7 @@ Ask your assistant:
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
 - [Speech & Transcription](#speech-transcription) (25)
-- [Transportation](#transportation) (28)
+- [Transportation](#transportation) (29)
 - [Web & Frontend Development](#web-frontend-development) (27)
 - [iOS & macOS Development](#ios-macos-development) (28)
 - [🤖 Model Providers](#model-providers) (2)
@@ -207,6 +207,7 @@ Ask your assistant:
 - **gcal-pro** — Google Calendar integration for viewing, creating, and managing. [→](https://clawskills.sh/skills/bilalmohamed187-cpu-gcal-pro)
 - **gog** — Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. [→](https://clawskills.sh/skills/steipete-gog)
 - **google-calendar** — Interact with Google Calendar via the Google Calendar. [→](https://clawskills.sh/skills/adrianmiller99-google-calendar)
+- **google-service-accounts** — Headless Google Sheets, Docs, Drive, Calendar via service-account sharing. [→](https://clawhub.ai/amiller/google-service-accounts)
 
 ## Clawdbot Tools
 
@@ -264,6 +265,7 @@ Ask your assistant:
 - **agent-audit-trail** — Tamper-evident, hash-chained audit logging for AI agents. [→](https://clawskills.sh/skills/roosch269-agent-audit-trail)
 - **agent-card-signing-auditor** — Helps audit Agent Card signing practices in A2A protocol implementations. [→](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor)
 - **agent-chat-ux-v1-4-0** — Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search. [→](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0)
+- **before-you-build** — Review product risk before building. [→](https://clawhub.ai/bin1874/before-you-build)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
 
@@ -453,6 +455,7 @@ Ask your assistant:
 - **cad-agent** — Rendering server for AI agents doing CAD work. [→](https://clawskills.sh/skills/clawd-maf-cad-agent)
 - **calorie-visualizer** — Local calorie logging and visual reporting (auto-refreshes and returns report image after each log) [→](https://clawskills.sh/skills/vintlin-calorie-visualizer)
 - **canva-connect** — Manage Canva designs, assets, and folders via the Connect API. [→](https://clawskills.sh/skills/coolmanns-canva-connect)
+- **runapi-mcp** — 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp` [→](https://clawhub.ai/runapi-ai/runapi-mcp)
 - **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://clawskills.sh/skills/gxcun17-skywork-design)
 
 ## Marketing & Sales
@@ -484,6 +487,7 @@ Ask your assistant:
 - **brand-voice-profile** — Define and store your brand voice profile for consistent content generation. [→](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
+- **sequenzy-email-marketing** — Authorized email automation for agents. [→](https://clawhub.ai/polnikale/sequenzy-email-marketing)
 - **socialecho-social-media-management-agent** — SocialEcho API team account article report queries. [→](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent)
 
 ## Media & Streaming
@@ -614,6 +618,7 @@ Ask your assistant:
 - **agent-evolver** — AI Agent self-evolution engine that enables agents to learn from experience, detect problems, extract insights. [→](https://clawskills.sh/skills/lilei0311-agent-evolver)
 - **agent-reflect** — Self-improvement through conversation analysis. [→](https://clawskills.sh/skills/stevengonsalvez-agent-reflect)
 - **ai-persona-os** — The complete operating system for OpenClaw agents. [→](https://clawskills.sh/skills/jeffjhunter-ai-persona-os)
+- **ai-shifu-course-creator** — Build interactive AI-Shifu courses. [→](https://clawhub.ai/heshaofu2/ai-shifu-course-creator)
 - **anxiety-relief** — Manage anxiety with grounding exercises, breathing techniques. [→](https://clawskills.sh/skills/jhillin8-anxiety-relief)
 - **apikiss** — Access weather, IP geolocation, SMS, crypto prices, Danish CVR, Whois, phone lookup, UUID, stock data. [→](https://clawskills.sh/skills/theill-apikiss)
 - **beaverhabits** — Track and manage your habits using the Beaver Habit Tracker API. [→](https://clawskills.sh/skills/daya0576-beaverhabits)
@@ -878,6 +883,7 @@ Ask your assistant:
 - **camino-journey** — Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints. [→](https://clawskills.sh/skills/james-southendsolutions-camino-journey)
 - **camino-real-estate** — Evaluate any address for home buyers and renters. [→](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate)
 - **camino-route** — Get detailed routing between two points with distance, duration, and optional turn-by-turn directions. [→](https://clawskills.sh/skills/james-southendsolutions-camino-route)
+- **traffic-standards-kb** — Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations. [→](https://clawhub.ai/solvex-top/traffic-standards-kb)
 
 ## Web & Frontend Development
 
@@ -947,4 +953,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-06-23T09:49:47.184Z*
+*Generated: 2026-06-24T09:37:39.316Z*

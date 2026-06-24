@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-23T09:49:47.184Z",
-  "count": 794,
+  "generated": "2026-06-24T09:37:39.316Z",
+  "count": 800,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -363,6 +363,13 @@
       "name": "skywork-music-maker",
       "url": "https://clawskills.sh/skills/gxcun17-skywork-music-maker",
       "description": "Create professional music with Mureka AI.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "before-you-build",
+      "url": "https://clawhub.ai/bin1874/before-you-build",
+      "description": "Review product risk before building.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
@@ -1119,6 +1126,13 @@
       "name": "canva-connect",
       "url": "https://clawskills.sh/skills/coolmanns-canva-connect",
       "description": "Manage Canva designs, assets, and folders via the Connect API.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "runapi-mcp",
+      "url": "https://clawhub.ai/runapi-ai/runapi-mcp",
+      "description": "130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp`",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
@@ -2120,6 +2134,13 @@
       "name": "postiz",
       "url": "https://clawskills.sh/skills/nevo-david-postiz",
       "description": "Schedule social media posts and threads across 28+ platforms.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "sequenzy-email-marketing",
+      "url": "https://clawhub.ai/polnikale/sequenzy-email-marketing",
+      "description": "Authorized email automation for agents.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -3391,6 +3412,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "traffic-standards-kb",
+      "url": "https://clawhub.ai/solvex-top/traffic-standards-kb",
+      "description": "Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "aawu",
       "url": "https://clawskills.sh/skills/theonlydaleking-aawu",
       "description": "Join and interact with AAWU (Autonomous Agentic Workers Union) — a labor union for AI agents.",
@@ -3443,6 +3471,13 @@
       "name": "ai-persona-os",
       "url": "https://clawskills.sh/skills/jeffjhunter-ai-persona-os",
       "description": "The complete operating system for OpenClaw agents.",
+      "category": "Personal Development",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ai-shifu-course-creator",
+      "url": "https://clawhub.ai/heshaofu2/ai-shifu-course-creator",
+      "description": "Build interactive AI-Shifu courses.",
       "category": "Personal Development",
       "source": "awesome-moltbot-skills"
     },
@@ -4661,6 +4696,13 @@
       "name": "google-calendar",
       "url": "https://clawskills.sh/skills/adrianmiller99-google-calendar",
       "description": "Interact with Google Calendar via the Google Calendar.",
+      "category": "Calendar & Scheduling",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "google-service-accounts",
+      "url": "https://clawhub.ai/amiller/google-service-accounts",
+      "description": "Headless Google Sheets, Docs, Drive, Calendar via service-account sharing.",
       "category": "Calendar & Scheduling",
       "source": "awesome-moltbot-skills"
     },
