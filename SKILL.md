@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**800 automations** from the Moltbot/OpenClaw ecosystem.
+**802 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -38,7 +38,7 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (33)
-- [Marketing & Sales](#marketing-sales) (29)
+- [Marketing & Sales](#marketing-sales) (30)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (27)
@@ -51,7 +51,7 @@ Ask your assistant:
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
 - [Speech & Transcription](#speech-transcription) (25)
-- [Transportation](#transportation) (29)
+- [Transportation](#transportation) (30)
 - [Web & Frontend Development](#web-frontend-development) (27)
 - [iOS & macOS Development](#ios-macos-development) (28)
 - [🤖 Model Providers](#model-providers) (2)
@@ -489,6 +489,7 @@ Ask your assistant:
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
 - **sequenzy-email-marketing** — Authorized email automation for agents. [→](https://clawhub.ai/polnikale/sequenzy-email-marketing)
 - **socialecho-social-media-management-agent** — SocialEcho API team account article report queries. [→](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent)
+- **tempguru-event-staffing-ordering** — Order W-2 temporary event staff across 345 US/Canada markets. [→](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering)
 
 ## Media & Streaming
 
@@ -883,6 +884,7 @@ Ask your assistant:
 - **camino-journey** — Plan multi-waypoint journeys with route optimization, feasibility analysis, and time budget constraints. [→](https://clawskills.sh/skills/james-southendsolutions-camino-journey)
 - **camino-real-estate** — Evaluate any address for home buyers and renters. [→](https://clawskills.sh/skills/james-southendsolutions-camino-real-estate)
 - **camino-route** — Get detailed routing between two points with distance, duration, and optional turn-by-turn directions. [→](https://clawskills.sh/skills/james-southendsolutions-camino-route)
+- **tongtu-china-travel** — Multilingual travel guide for foreign tourists visiting China — flights, hotels, trains, attractions, visa, payment, and transport via FlyAI. [→](https://clawhub.ai/jesse-tzx/skills/tongtu-china-travel)
 - **traffic-standards-kb** — Chinese smart transportation standards knowledge base (GB/JT/GA) for writing solutions with industry standard citations. [→](https://clawhub.ai/solvex-top/traffic-standards-kb)
 
 ## Web & Frontend Development
@@ -953,4 +955,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-07-12T08:22:39.174Z*
+*Generated: 2026-07-13T09:34:19.550Z*

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-12T08:22:39.174Z",
-  "count": 800,
+  "generated": "2026-07-13T09:34:19.550Z",
+  "count": 802,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -2145,6 +2145,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "tempguru-event-staffing-ordering",
+      "url": "https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering",
+      "description": "Order W-2 temporary event staff across 345 US/Canada markets.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "4to1-planner",
       "url": "https://clawskills.sh/skills/qingxuantang-4to1-planner",
       "description": "AI planning coach using the 4To1 Method™ — turn 4-year vision into daily action.",
@@ -3408,6 +3415,13 @@
       "name": "camino-route",
       "url": "https://clawskills.sh/skills/james-southendsolutions-camino-route",
       "description": "Get detailed routing between two points with distance, duration, and optional turn-by-turn directions.",
+      "category": "Transportation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "tongtu-china-travel",
+      "url": "https://clawhub.ai/jesse-tzx/skills/tongtu-china-travel",
+      "description": "Multilingual travel guide for foreign tourists visiting China — flights, hotels, trains, attractions, visa, payment, and transport via FlyAI.",
       "category": "Transportation",
       "source": "awesome-moltbot-skills"
     },
