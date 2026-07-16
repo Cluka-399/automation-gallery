@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-15T08:20:16.554Z",
-  "count": 802,
+  "generated": "2026-07-16T08:19:36.264Z",
+  "count": 804,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -370,6 +370,13 @@
       "name": "before-you-build",
       "url": "https://clawhub.ai/bin1874/before-you-build",
       "description": "Review product risk before building.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ditto-profile",
+      "url": "https://clawhub.ai/ohad6k/ditto-profile",
+      "description": "Load your mined personal profile so agents work like you.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
@@ -3023,6 +3030,13 @@
       "name": "continuity-framework",
       "url": "https://clawskills.sh/skills/riley-coyote-continuity-framework",
       "description": "Asynchronous reflection and memory integration.",
+      "category": "Notes & PKM",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ai-footprints",
+      "url": "https://clawhub.ai/Piccolo123/ai-footprints",
+      "description": "Cross-platform bookmark manager with AI categorization, shared collections, and Agent API access.",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
     },

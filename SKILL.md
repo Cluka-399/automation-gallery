@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**802 automations** from the Moltbot/OpenClaw ecosystem.
+**804 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -30,7 +30,7 @@ Ask your assistant:
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (29)
+- [Coding Agents & IDEs](#coding-agents-ides) (30)
 - [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
@@ -41,7 +41,7 @@ Ask your assistant:
 - [Marketing & Sales](#marketing-sales) (30)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
-- [Notes & PKM](#notes-pkm) (27)
+- [Notes & PKM](#notes-pkm) (28)
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (28)
 - [Productivity & Tasks](#productivity-tasks) (28)
@@ -266,6 +266,7 @@ Ask your assistant:
 - **agent-card-signing-auditor** — Helps audit Agent Card signing practices in A2A protocol implementations. [→](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor)
 - **agent-chat-ux-v1-4-0** — Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search. [→](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0)
 - **before-you-build** — Review product risk before building. [→](https://clawhub.ai/bin1874/before-you-build)
+- **ditto-profile** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/ditto-profile)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
 
@@ -555,6 +556,7 @@ Ask your assistant:
 - **agent-memory-ultimate** — Production-ready memory system — daily logs, sleep consolidation, SQLite + FTS5, WhatsApp/ChatGPT/VCF importers. [→](https://clawskills.sh/skills/globalcaos-agent-memory-ultimate)
 - **agent-teleport** — Seamlessly migrate your agent's configuration and memory to a new machine using TiDB Zero. [→](https://clawskills.sh/skills/lilyjazz-agent-teleport)
 - **agent-wal** — Write-Ahead Log protocol for agent state persistence. [→](https://clawskills.sh/skills/bowen31337-agent-wal)
+- **ai-footprints** — Cross-platform bookmark manager with AI categorization, shared collections, and Agent API access. [→](https://clawhub.ai/Piccolo123/ai-footprints)
 - **alexandrie** — Interact with Alexandrie note-taking app. [→](https://clawskills.sh/skills/eth3rnit3-alexandrie)
 - **anki-connect** — Interact with Anki flashcard decks via the AnkiConnect REST API. [→](https://clawskills.sh/skills/gyroninja-anki-connect)
 - **apple-mail** — Apple Mail.app integration for macOS. [→](https://clawskills.sh/skills/tyler6204-apple-mail)
@@ -955,4 +957,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-07-15T08:20:16.554Z*
+*Generated: 2026-07-16T08:19:36.264Z*
