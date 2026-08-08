@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**804 automations** from the Moltbot/OpenClaw ecosystem.
+**807 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -37,14 +37,14 @@ Ask your assistant:
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (33)
+- [Image & Video Generation](#image-video-generation) (34)
 - [Marketing & Sales](#marketing-sales) (30)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (28)
 - [PDF & Documents](#pdf-documents) (28)
-- [Personal Development](#personal-development) (28)
-- [Productivity & Tasks](#productivity-tasks) (28)
+- [Personal Development](#personal-development) (29)
+- [Productivity & Tasks](#productivity-tasks) (29)
 - [Search & Research](#search-research) (31)
 - [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
@@ -266,7 +266,7 @@ Ask your assistant:
 - **agent-card-signing-auditor** — Helps audit Agent Card signing practices in A2A protocol implementations. [→](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor)
 - **agent-chat-ux-v1-4-0** — Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search. [→](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0)
 - **before-you-build** — Review product risk before building. [→](https://clawhub.ai/bin1874/before-you-build)
-- **ditto-profile** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/ditto-profile)
+- **emulo** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/emulo)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
 
@@ -456,6 +456,7 @@ Ask your assistant:
 - **cad-agent** — Rendering server for AI agents doing CAD work. [→](https://clawskills.sh/skills/clawd-maf-cad-agent)
 - **calorie-visualizer** — Local calorie logging and visual reporting (auto-refreshes and returns report image after each log) [→](https://clawskills.sh/skills/vintlin-calorie-visualizer)
 - **canva-connect** — Manage Canva designs, assets, and folders via the Connect API. [→](https://clawskills.sh/skills/coolmanns-canva-connect)
+- **modellix** — Unified API for AI image and video generation. [→](https://clawhub.ai/modellix/modellix)
 - **runapi-mcp** — 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp` [→](https://clawhub.ai/runapi-ai/runapi-mcp)
 - **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://clawskills.sh/skills/gxcun17-skywork-design)
 
@@ -639,6 +640,7 @@ Ask your assistant:
 - **english-learn-cards** — Flashcard-based English vocabulary learning. [→](https://clawskills.sh/skills/racymind-english-learn-cards)
 - **expanso-cve-scan** — Scan SBOM for known CVE vulnerabilities. [→](https://clawskills.sh/skills/aronchick-expanso-cve-scan)
 - **ezbookkeeping** — ezBookkeeping is a lightweight, self-hosted personal finance app. [→](https://clawskills.sh/skills/mayswind-ezbookkeeping)
+- **first-principles** — Strip problems to foundational truths, then rebuild reasoning. [→](https://clawhub.ai/deciqai/first-principles)
 - **fix-life-in-1-day** — Fix your entire life in 1 day. [→](https://clawskills.sh/skills/evgyur-fix-life-in-1-day)
 - **founder-coach** — AI-powered startup mindset coach that helps founders upgrade. [→](https://clawskills.sh/skills/goforu-founder-coach)
 
@@ -672,6 +674,7 @@ Ask your assistant:
 - **async-task** — Execute long-running tasks without HTTP timeouts. [→](https://clawskills.sh/skills/enderfga-async-task)
 - **atlassian-mcp** — Run the Model Context Protocol (MCP) Atlassian server. [→](https://clawskills.sh/skills/atakanermis-atlassian-mcp)
 - **boss-ai-agent** — AI management middleware with 14 mentors and 9 culture packs. [→](https://clawskills.sh/skills/tonypk-boss-ai-agent)
+- **FlowBoard** — Persistent per-project context and Kanban for agents. [→](https://clawhub.ai/rasimme/plugins/flowboard)
 
 ## Search & Research
 
@@ -957,4 +960,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-08-07T07:21:11.011Z*
+*Generated: 2026-08-08T06:58:51.348Z*

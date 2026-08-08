@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:21:11.011Z",
-  "count": 804,
+  "generated": "2026-08-08T06:58:51.348Z",
+  "count": 807,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -374,8 +374,8 @@
       "source": "awesome-moltbot-skills"
     },
     {
-      "name": "ditto-profile",
-      "url": "https://clawhub.ai/ohad6k/ditto-profile",
+      "name": "emulo",
+      "url": "https://clawhub.ai/ohad6k/emulo",
       "description": "Load your mined personal profile so agents work like you.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
@@ -1154,6 +1154,13 @@
       "name": "ai-video-remix",
       "url": "https://clawskills.sh/skills/abu-shotai-ai-video-remix",
       "description": "AI-driven video remix from local library using ShotAI.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "modellix",
+      "url": "https://clawhub.ai/modellix/modellix",
+      "description": "Unified API for AI image and video generation.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
@@ -2351,6 +2358,13 @@
       "name": "boss-ai-agent",
       "url": "https://clawskills.sh/skills/tonypk-boss-ai-agent",
       "description": "AI management middleware with 14 mentors and 9 culture packs.",
+      "category": "Productivity & Tasks",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "FlowBoard",
+      "url": "https://clawhub.ai/rasimme/plugins/flowboard",
+      "description": "Persistent per-project context and Kanban for agents.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
@@ -3625,6 +3639,13 @@
       "name": "ezbookkeeping",
       "url": "https://clawskills.sh/skills/mayswind-ezbookkeeping",
       "description": "ezBookkeeping is a lightweight, self-hosted personal finance app.",
+      "category": "Personal Development",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "first-principles",
+      "url": "https://clawhub.ai/deciqai/first-principles",
+      "description": "Strip problems to foundational truths, then rebuild reasoning.",
       "category": "Personal Development",
       "source": "awesome-moltbot-skills"
     },
