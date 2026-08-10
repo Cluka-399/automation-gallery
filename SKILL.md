@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**807 automations** from the Moltbot/OpenClaw ecosystem.
+**813 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -30,7 +30,7 @@ Ask your assistant:
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (30)
+- [Coding Agents & IDEs](#coding-agents-ides) (32)
 - [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
@@ -38,14 +38,14 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (34)
-- [Marketing & Sales](#marketing-sales) (30)
+- [Marketing & Sales](#marketing-sales) (31)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
-- [Notes & PKM](#notes-pkm) (28)
+- [Notes & PKM](#notes-pkm) (29)
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (31)
+- [Search & Research](#search-research) (33)
 - [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
@@ -266,7 +266,9 @@ Ask your assistant:
 - **agent-card-signing-auditor** — Helps audit Agent Card signing practices in A2A protocol implementations. [→](https://clawskills.sh/skills/andyxinweiminicloud-agent-card-signing-auditor)
 - **agent-chat-ux-v1-4-0** — Multi-agent UX for OpenClaw Control UI — agent selector, per-agent sessions, session history viewer with search. [→](https://clawskills.sh/skills/maverick-software-agent-chat-ux-v1-4-0)
 - **before-you-build** — Review product risk before building. [→](https://clawhub.ai/bin1874/before-you-build)
+- **ditto-profile** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/ditto-profile)
 - **emulo** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/emulo)
+- **skill-navigator** — Recommends the right installed local Agent Skill. [→](https://clawhub.ai/grubbylee/skills/skill-navigator)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
 
@@ -488,6 +490,7 @@ Ask your assistant:
 - **brand-guidelines** — Applies Anthropic's official brand colors and typography. [→](https://clawskills.sh/skills/seanphan-brand-guidelines)
 - **brand-voice-profile** — Define and store your brand voice profile for consistent content generation. [→](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
+- **posteahora** — Schedule and publish social posts across every major network. [→](https://clawhub.ai/sashadiz/posteahora)
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
 - **sequenzy-email-marketing** — Authorized email automation for agents. [→](https://clawhub.ai/polnikale/sequenzy-email-marketing)
 - **socialecho-social-media-management-agent** — SocialEcho API team account article report queries. [→](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent)
@@ -580,6 +583,7 @@ Ask your assistant:
 - **context-anchor** — Recover from context compaction by scanning memory files. [→](https://clawskills.sh/skills/boscoeuk-context-anchor)
 - **continuity** — Asynchronous reflection and memory integration for genuine AI. [→](https://clawskills.sh/skills/riley-coyote-continuity)
 - **continuity-framework** — Asynchronous reflection and memory integration. [→](https://clawskills.sh/skills/riley-coyote-continuity-framework)
+- **obsidian-cli-plugins** — Automate Obsidian vaults, tasks, journals, and Git sync. [→](https://clawhub.ai/dxshelley/obsidian-cli-plugins)
 
 ## PDF & Documents
 
@@ -706,8 +710,10 @@ Ask your assistant:
 - **ai-review** — Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific. [→](https://clawskills.sh/skills/blackshady1130-jpg-ai-review)
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://clawskills.sh/skills/qiao101660-aihotel)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
+- **newsflash** — Corroborated real-time news briefings and alerts for agents. [→](https://clawhub.ai/zatmonkey/newsflash)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
 - **skywork-search** — AI-powered web search for real-time information — retrieve up-to-date content. [→](https://clawskills.sh/skills/gxcun17-skywork-search)
+- **tavily** — AI-optimized web search using Tavily Search API. [→](https://clawhub.ai/bert-builder/tavily)
 - **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper)
 
 ## Security & Passwords
@@ -960,4 +966,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-08-09T07:01:34.887Z*
+*Generated: 2026-08-10T07:47:46.170Z*

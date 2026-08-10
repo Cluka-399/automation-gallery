@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-09T07:01:34.887Z",
-  "count": 807,
+  "generated": "2026-08-10T07:47:46.170Z",
+  "count": 813,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -370,6 +370,20 @@
       "name": "before-you-build",
       "url": "https://clawhub.ai/bin1874/before-you-build",
       "description": "Review product risk before building.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ditto-profile",
+      "url": "https://clawhub.ai/ohad6k/ditto-profile",
+      "description": "Load your mined personal profile so agents work like you.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "skill-navigator",
+      "url": "https://clawhub.ai/grubbylee/skills/skill-navigator",
+      "description": "Recommends the right installed local Agent Skill.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
@@ -1592,6 +1606,20 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "tavily",
+      "url": "https://clawhub.ai/bert-builder/tavily",
+      "description": "AI-optimized web search using Tavily Search API.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "newsflash",
+      "url": "https://clawhub.ai/zatmonkey/newsflash",
+      "description": "Corroborated real-time news briefings and alerts for agents.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "adhd-assistant",
       "url": "https://clawskills.sh/skills/thinktankmachine-adhd-assistant",
       "description": "ADHD-friendly life management assistant for OpenClaw.",
@@ -2162,6 +2190,13 @@
       "name": "tempguru-event-staffing-ordering",
       "url": "https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering",
       "description": "Order W-2 temporary event staff across 345 US/Canada markets.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "posteahora",
+      "url": "https://clawhub.ai/sashadiz/posteahora",
+      "description": "Schedule and publish social posts across every major network.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -3051,6 +3086,13 @@
       "name": "ai-footprints",
       "url": "https://clawhub.ai/Piccolo123/ai-footprints",
       "description": "Cross-platform bookmark manager with AI categorization, shared collections, and Agent API access.",
+      "category": "Notes & PKM",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "obsidian-cli-plugins",
+      "url": "https://clawhub.ai/dxshelley/obsidian-cli-plugins",
+      "description": "Automate Obsidian vaults, tasks, journals, and Git sync.",
       "category": "Notes & PKM",
       "source": "awesome-moltbot-skills"
     },
