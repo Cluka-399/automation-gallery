@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**813 automations** from the Moltbot/OpenClaw ecosystem.
+**814 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -37,7 +37,7 @@ Ask your assistant:
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (34)
+- [Image & Video Generation](#image-video-generation) (35)
 - [Marketing & Sales](#marketing-sales) (31)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
@@ -459,6 +459,7 @@ Ask your assistant:
 - **calorie-visualizer** — Local calorie logging and visual reporting (auto-refreshes and returns report image after each log) [→](https://clawskills.sh/skills/vintlin-calorie-visualizer)
 - **canva-connect** — Manage Canva designs, assets, and folders via the Connect API. [→](https://clawskills.sh/skills/coolmanns-canva-connect)
 - **modellix** — Unified API for AI image and video generation. [→](https://clawhub.ai/modellix/modellix)
+- **riffkit** — Riff a winning TikTok into your own product video. [→](https://clawhub.ai/riffkit/riffkit)
 - **runapi-mcp** — 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp` [→](https://clawhub.ai/runapi-ai/runapi-mcp)
 - **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://clawskills.sh/skills/gxcun17-skywork-design)
 
@@ -966,4 +967,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-08-13T07:39:13.209Z*
+*Generated: 2026-08-14T07:37:08.007Z*
