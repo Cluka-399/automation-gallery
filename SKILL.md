@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**814 automations** from the Moltbot/OpenClaw ecosystem.
+**815 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -38,7 +38,7 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (35)
-- [Marketing & Sales](#marketing-sales) (31)
+- [Marketing & Sales](#marketing-sales) (32)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (25)
 - [Notes & PKM](#notes-pkm) (29)
@@ -491,6 +491,7 @@ Ask your assistant:
 - **brand-guidelines** — Applies Anthropic's official brand colors and typography. [→](https://clawskills.sh/skills/seanphan-brand-guidelines)
 - **brand-voice-profile** — Define and store your brand voice profile for consistent content generation. [→](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
+- **lumail** — Manage email marketing campaigns via CLI. [→](https://clawhub.ai/melvynx/lumail)
 - **posteahora** — Schedule and publish social posts across every major network. [→](https://clawhub.ai/sashadiz/posteahora)
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
 - **sequenzy-email-marketing** — Authorized email automation for agents. [→](https://clawhub.ai/polnikale/sequenzy-email-marketing)
@@ -967,4 +968,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-08-17T07:01:54.111Z*
+*Generated: 2026-08-18T06:49:18.744Z*

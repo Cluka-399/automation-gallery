@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T07:01:54.111Z",
-  "count": 814,
+  "generated": "2026-08-18T06:49:18.744Z",
+  "count": 815,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -2183,6 +2183,13 @@
       "name": "postiz",
       "url": "https://clawskills.sh/skills/nevo-david-postiz",
       "description": "Schedule social media posts and threads across 28+ platforms.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "lumail",
+      "url": "https://clawhub.ai/melvynx/lumail",
+      "description": "Manage email marketing campaigns via CLI.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
