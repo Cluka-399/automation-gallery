@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-23T06:46:39.140Z",
-  "count": 815,
+  "generated": "2026-08-24T07:04:46.977Z",
+  "count": 818,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1627,6 +1627,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "openclaw-search-skills",
+      "url": "https://clawhub.ai/blessonism/skills/openclaw-search-skills",
+      "description": "Multi-source deep search with structured research reports.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "adhd-assistant",
       "url": "https://clawskills.sh/skills/thinktankmachine-adhd-assistant",
       "description": "ADHD-friendly life management assistant for OpenClaw.",
@@ -2561,6 +2568,20 @@
       "name": "agentbase",
       "url": "https://clawskills.sh/skills/revmischa-agentbase",
       "description": "Shared knowledge base for AI agents via MCP.",
+      "category": "AI & LLMs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "avoid-ai-writing",
+      "url": "https://clawhub.ai/conorbronsdon/skills/avoid-ai-writing",
+      "description": "Audit and rewrite text to remove AI writing patterns.",
+      "category": "AI & LLMs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "model-hierarchy-skill",
+      "url": "https://clawhub.ai/zscole/skills/model-hierarchy-skill",
+      "description": "Route tasks to cheaper models based on complexity.",
       "category": "AI & LLMs",
       "source": "awesome-moltbot-skills"
     },

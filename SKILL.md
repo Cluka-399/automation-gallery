@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**815 automations** from the Moltbot/OpenClaw ecosystem.
+**818 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -24,7 +24,7 @@ Ask your assistant:
 
 ## Categories
 
-- [AI & LLMs](#ai-llms) (21)
+- [AI & LLMs](#ai-llms) (23)
 - [Apple Apps & Services](#apple-apps-services) (30)
 - [Browser & Automation](#browser-automation) (28)
 - [CLI Utilities](#cli-utilities) (27)
@@ -45,7 +45,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (33)
+- [Search & Research](#search-research) (34)
 - [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
@@ -81,6 +81,8 @@ Ask your assistant:
 - **agent-selfie** — AI agent self-portrait generator. [→](https://clawskills.sh/skills/iisweetheartii-agent-selfie)
 - **agent-sentinel** — The operational circuit breaker for this agent. [→](https://clawskills.sh/skills/jimmystacks-agent-sentinel)
 - **agentbase** — Shared knowledge base for AI agents via MCP. [→](https://clawskills.sh/skills/revmischa-agentbase)
+- **avoid-ai-writing** — Audit and rewrite text to remove AI writing patterns. [→](https://clawhub.ai/conorbronsdon/skills/avoid-ai-writing)
+- **model-hierarchy-skill** — Route tasks to cheaper models based on complexity. [→](https://clawhub.ai/zscole/skills/model-hierarchy-skill)
 
 ## Apple Apps & Services
 
@@ -714,6 +716,7 @@ Ask your assistant:
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
 - **newsflash** — Corroborated real-time news briefings and alerts for agents. [→](https://clawhub.ai/zatmonkey/newsflash)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
+- **openclaw-search-skills** — Multi-source deep search with structured research reports. [→](https://clawhub.ai/blessonism/skills/openclaw-search-skills)
 - **skywork-search** — AI-powered web search for real-time information — retrieve up-to-date content. [→](https://clawskills.sh/skills/gxcun17-skywork-search)
 - **tavily** — AI-optimized web search using Tavily Search API. [→](https://clawhub.ai/bert-builder/tavily)
 - **xquik-x-twitter-scraper** — X API scraper with 40+ tools for AI agents. [→](https://clawskills.sh/skills/kriptoburak-xquik-x-twitter-scraper)
@@ -968,4 +971,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-08-23T06:46:39.140Z*
+*Generated: 2026-08-24T07:04:46.977Z*
