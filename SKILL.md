@@ -54,7 +54,7 @@ Ask your assistant:
 - [Transportation](#transportation) (30)
 - [Web & Frontend Development](#web-frontend-development) (27)
 - [iOS & macOS Development](#ios-macos-development) (28)
-- [🤖 Model Providers](#model-providers) (2)
+- [🛡️ Security & Config Auditing](#security-config-auditing) (2)
 
 ---
 
@@ -964,11 +964,11 @@ Ask your assistant:
 - **toolguard-daemon-control** — Manage long-running processes as macOS launchd services. [→](https://clawskills.sh/skills/johnnylambada-toolguard-daemon-control)
 - **v2rayn** — Manage V2RayN proxy client on macOS with auto-failover. [→](https://clawskills.sh/skills/qiangwang375-wq-v2rayn)
 
-## 🤖 Model Providers
+## 🛡️ Security & Config Auditing
 
 - **Agent Trust Hub** [→](https://ai.gendigital.com/agent-trust-hub)
 - **Snyk Skill Security Scanner** [→](https://github.com/snyk/agent-scan)
 
 ---
 
-*Generated: 2026-08-31T13:08:23.109Z*
+*Generated: 2026-09-01T11:21:46.039Z*
