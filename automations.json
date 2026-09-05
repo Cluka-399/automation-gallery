@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-04T10:54:33.698Z",
-  "count": 818,
+  "generated": "2026-09-05T10:15:01.309Z",
+  "count": 819,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -391,6 +391,13 @@
       "name": "emulo",
       "url": "https://clawhub.ai/ohad6k/emulo",
       "description": "Load your mined personal profile so agents work like you.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "orca-replay",
+      "url": "https://clawhub.ai/xizhuomengcontin/orca-replay",
+      "description": "Replay and debug past coding-agent runs from their recordings.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },

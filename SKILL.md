@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**818 automations** from the Moltbot/OpenClaw ecosystem.
+**819 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -30,7 +30,7 @@ Ask your assistant:
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (32)
+- [Coding Agents & IDEs](#coding-agents-ides) (33)
 - [Communication](#communication) (25)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
@@ -270,6 +270,7 @@ Ask your assistant:
 - **before-you-build** — Review product risk before building. [→](https://clawhub.ai/bin1874/before-you-build)
 - **ditto-profile** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/ditto-profile)
 - **emulo** — Load your mined personal profile so agents work like you. [→](https://clawhub.ai/ohad6k/emulo)
+- **orca-replay** — Replay and debug past coding-agent runs from their recordings. [→](https://clawhub.ai/xizhuomengcontin/orca-replay)
 - **skill-navigator** — Recommends the right installed local Agent Skill. [→](https://clawhub.ai/grubbylee/skills/skill-navigator)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
@@ -971,4 +972,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-09-04T10:54:33.698Z*
+*Generated: 2026-09-05T10:15:01.308Z*
