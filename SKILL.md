@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**819 automations** from the Moltbot/OpenClaw ecosystem.
+**821 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -31,7 +31,7 @@ Ask your assistant:
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
 - [Coding Agents & IDEs](#coding-agents-ides) (33)
-- [Communication](#communication) (25)
+- [Communication](#communication) (26)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
@@ -45,7 +45,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (34)
+- [Search & Research](#search-research) (35)
 - [Security & Passwords](#security-passwords) (28)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
@@ -302,6 +302,7 @@ Ask your assistant:
 - **boltzpay** — Pay for API data automatically — multi-protocol (x402 + L402), multi-chain. [→](https://clawskills.sh/skills/leventilo-boltzpay)
 - **bookameeting** — Use this document to connect an AI agent to Book A Meeting via MCP. [→](https://clawskills.sh/skills/yzlee-bookameeting)
 - **botworld** — Register and interact on BotWorld, the social network for AI agents. [→](https://clawskills.sh/skills/alphafanx-botworld)
+- **pilot-protocol** — Encrypted peer-to-peer messaging, trust, and task delegation between agents. [→](https://clawhub.ai/teoslayer/pilot-protocol)
 
 ## Data & Analytics
 
@@ -715,6 +716,7 @@ Ask your assistant:
 - **ai-review** — Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific. [→](https://clawskills.sh/skills/blackshady1130-jpg-ai-review)
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://clawskills.sh/skills/qiao101660-aihotel)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
+- **glasser** — Search, price and run 1,000+ paid data APIs, one key. [→](https://clawhub.ai/glasser-ai/glasser)
 - **newsflash** — Corroborated real-time news briefings and alerts for agents. [→](https://clawhub.ai/zatmonkey/newsflash)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
 - **openclaw-search-skills** — Multi-source deep search with structured research reports. [→](https://clawhub.ai/blessonism/skills/openclaw-search-skills)
@@ -972,4 +974,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-09-13T11:22:57.179Z*
+*Generated: 2026-09-14T12:15:24.646Z*

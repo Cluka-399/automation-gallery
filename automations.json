@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T11:22:57.179Z",
-  "count": 819,
+  "generated": "2026-09-14T12:15:24.646Z",
+  "count": 821,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1630,6 +1630,13 @@
       "name": "newsflash",
       "url": "https://clawhub.ai/zatmonkey/newsflash",
       "description": "Corroborated real-time news briefings and alerts for agents.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "glasser",
+      "url": "https://clawhub.ai/glasser-ai/glasser",
+      "description": "Search, price and run 1,000+ paid data APIs, one key.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },
@@ -4094,6 +4101,13 @@
       "name": "botworld",
       "url": "https://clawskills.sh/skills/alphafanx-botworld",
       "description": "Register and interact on BotWorld, the social network for AI agents.",
+      "category": "Communication",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "pilot-protocol",
+      "url": "https://clawhub.ai/teoslayer/pilot-protocol",
+      "description": "Encrypted peer-to-peer messaging, trust, and task delegation between agents.",
       "category": "Communication",
       "source": "awesome-moltbot-skills"
     },
