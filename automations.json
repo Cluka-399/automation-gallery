@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-21T12:23:18.563Z",
-  "count": 821,
+  "generated": "2026-09-22T11:13:51.462Z",
+  "count": 822,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -4283,6 +4283,13 @@
       "name": "elevenlabs-voices",
       "url": "https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices",
       "description": "High-quality voice synthesis with 18 personas, 32.",
+      "category": "Speech & Transcription",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "youtube-transcript-speaker-diarization",
+      "url": "https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization",
+      "description": "Speaker-labeled YouTube transcripts via the diarize.io API.",
       "category": "Speech & Transcription",
       "source": "awesome-moltbot-skills"
     },

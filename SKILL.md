@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**821 automations** from the Moltbot/OpenClaw ecosystem.
+**822 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -50,7 +50,7 @@ Ask your assistant:
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
-- [Speech & Transcription](#speech-transcription) (25)
+- [Speech & Transcription](#speech-transcription) (26)
 - [Transportation](#transportation) (30)
 - [Web & Frontend Development](#web-frontend-development) (27)
 - [iOS & macOS Development](#ios-macos-development) (28)
@@ -872,6 +872,7 @@ Ask your assistant:
 - **elevenlabs-transcribe** — Transcribe audio to text using ElevenLabs. [→](https://clawskills.sh/skills/paulasjes-elevenlabs-transcribe)
 - **elevenlabs-tts** — ElevenLabs TTS - the best ElevenLabs integration for OpenClaw. [→](https://clawskills.sh/skills/shaharsha-elevenlabs-tts)
 - **elevenlabs-voices** — High-quality voice synthesis with 18 personas, 32. [→](https://clawskills.sh/skills/robbyczgw-cla-elevenlabs-voices)
+- **youtube-transcript-speaker-diarization** — Speaker-labeled YouTube transcripts via the diarize.io API. [→](https://clawhub.ai/patelnav/youtube-transcript-speaker-diarization)
 
 ## Transportation
 
@@ -974,4 +975,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-09-21T12:23:18.563Z*
+*Generated: 2026-09-22T11:13:51.462Z*
