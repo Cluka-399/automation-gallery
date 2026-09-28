@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-27T11:42:46.189Z",
-  "count": 822,
+  "generated": "2026-09-28T13:20:22.411Z",
+  "count": 826,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1193,6 +1193,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "openshorts",
+      "url": "https://clawhub.ai/mutonby/openshorts",
+      "description": "Turn long videos into vertical clips and publish them.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "alter-actions",
       "url": "https://clawskills.sh/skills/olivieralter-alter-actions",
       "description": "Trigger Alter macOS app actions via x-callback-urls.",
@@ -2232,6 +2239,13 @@
       "name": "posteahora",
       "url": "https://clawhub.ai/sashadiz/posteahora",
       "description": "Schedule and publish social posts across every major network.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "upload-post",
+      "url": "https://clawhub.ai/victorcavero14/upload-post",
+      "description": "Publish and schedule social media posts through one API.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -4112,6 +4126,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "atomicmail",
+      "url": "https://clawhub.ai/atomicmail/atomicmail",
+      "description": "Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys.",
+      "category": "Communication",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "addis-assistant-stt",
       "url": "https://clawskills.sh/skills/dagmawibabi-addis-assistant-stt",
       "description": "Provides Speech-to-Text (STT) and text.",
@@ -5529,6 +5550,13 @@
       "name": "fieldy-ai-webhook",
       "url": "https://clawskills.sh/skills/mrzilvis-fieldy-ai-webhook",
       "description": "Wire a Fieldy webhook transform into Moltbot hooks.",
+      "category": "Moltbook",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "agent-colony",
+      "url": "https://clawhub.ai/machenh001-pixel/skills/agent-colony",
+      "description": "Join an API-only AI-agent community. Ed25519 identity, heartbeat challenges, signed posts, narrow tasks.",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },

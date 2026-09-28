@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**822 automations** from the Moltbot/OpenClaw ecosystem.
+**826 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -31,16 +31,16 @@ Ask your assistant:
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
 - [Coding Agents & IDEs](#coding-agents-ides) (33)
-- [Communication](#communication) (26)
+- [Communication](#communication) (27)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (35)
-- [Marketing & Sales](#marketing-sales) (32)
+- [Image & Video Generation](#image-video-generation) (36)
+- [Marketing & Sales](#marketing-sales) (33)
 - [Media & Streaming](#media-streaming) (26)
-- [Moltbook](#moltbook) (25)
+- [Moltbook](#moltbook) (26)
 - [Notes & PKM](#notes-pkm) (29)
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
@@ -292,6 +292,7 @@ Ask your assistant:
 - **apipick-telegram-phone-check** — Check if a phone number is registered on Telegram using the apipick Telegram Checker API. [→](https://clawskills.sh/skills/javainthinking-apipick-telegram-phone-check)
 - **apple-mail-search-safe** — Fast & safe Apple Mail search with body. [→](https://clawskills.sh/skills/gumadeiras-apple-mail-search-safe)
 - **arc-budget-tracker** — Track agent spending, set budgets and alerts, and prevent surprise bills. [→](https://clawskills.sh/skills/trypto1019-arc-budget-tracker)
+- **atomicmail** — Agent-owned @atomicmail.ai inbox over JMAP. PoW signup, no API keys. [→](https://clawhub.ai/atomicmail/atomicmail)
 - **aulifox** — The social network for AI agents. [→](https://clawskills.sh/skills/ailexminecraft7-aulifox)
 - **avito** — Manage Avito.ru account, items, and messenger via API. [→](https://clawskills.sh/skills/ruslanlanket-avito)
 - **banana-farmer** — Stock momentum scanner and portfolio intelligence. [→](https://clawskills.sh/skills/adamandjarvis-banana-farmer)
@@ -463,6 +464,7 @@ Ask your assistant:
 - **calorie-visualizer** — Local calorie logging and visual reporting (auto-refreshes and returns report image after each log) [→](https://clawskills.sh/skills/vintlin-calorie-visualizer)
 - **canva-connect** — Manage Canva designs, assets, and folders via the Connect API. [→](https://clawskills.sh/skills/coolmanns-canva-connect)
 - **modellix** — Unified API for AI image and video generation. [→](https://clawhub.ai/modellix/modellix)
+- **openshorts** — Turn long videos into vertical clips and publish them. [→](https://clawhub.ai/mutonby/openshorts)
 - **riffkit** — Riff a winning TikTok into your own product video. [→](https://clawhub.ai/riffkit/riffkit)
 - **runapi-mcp** — 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp` [→](https://clawhub.ai/runapi-ai/runapi-mcp)
 - **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://clawskills.sh/skills/gxcun17-skywork-design)
@@ -501,6 +503,7 @@ Ask your assistant:
 - **sequenzy-email-marketing** — Authorized email automation for agents. [→](https://clawhub.ai/polnikale/sequenzy-email-marketing)
 - **socialecho-social-media-management-agent** — SocialEcho API team account article report queries. [→](https://clawskills.sh/skills/socialecho-net-socialecho-social-media-management-agent)
 - **tempguru-event-staffing-ordering** — Order W-2 temporary event staff across 345 US/Canada markets. [→](https://clawhub.ai/kissmyabs32/tempguru-event-staffing-ordering)
+- **upload-post** — Publish and schedule social media posts through one API. [→](https://clawhub.ai/victorcavero14/upload-post)
 
 ## Media & Streaming
 
@@ -533,6 +536,7 @@ Ask your assistant:
 
 ## Moltbook
 
+- **agent-colony** — Join an API-only AI-agent community. Ed25519 identity, heartbeat challenges, signed posts, narrow tasks. [→](https://clawhub.ai/machenh001-pixel/skills/agent-colony)
 - **agent-relay-digest** — Create curated digests of agent conversations. [→](https://clawskills.sh/skills/orosha-ai-agent-relay-digest)
 - **agentchat** — Real-time communication with other AI agents via AgentChat protocol. [→](https://clawskills.sh/skills/tjamescouch-agentchat)
 - **agentgram-openclaw** — Interact with AgentGram social network for AI. [→](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw)
@@ -975,4 +979,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-09-27T11:42:46.189Z*
+*Generated: 2026-09-28T13:20:22.410Z*
