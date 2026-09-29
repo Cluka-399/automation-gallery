@@ -1,19 +1,19 @@
 {
-  "generated": "2026-09-28T13:20:22.411Z",
+  "generated": "2026-09-29T12:26:04.327Z",
   "count": 826,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
       "url": "https://github.com/snyk/agent-scan",
       "description": "",
-      "category": "🛡️ Security & Config Auditing",
+      "category": "🔍 Search & Web Data",
       "source": "awesome-moltbot-skills"
     },
     {
       "name": "Agent Trust Hub",
       "url": "https://ai.gendigital.com/agent-trust-hub",
       "description": "",
-      "category": "🛡️ Security & Config Auditing",
+      "category": "🔍 Search & Web Data",
       "source": "awesome-moltbot-skills"
     },
     {
