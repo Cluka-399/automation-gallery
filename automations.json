@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T12:09:31.007Z",
-  "count": 826,
+  "generated": "2026-10-03T11:20:03.308Z",
+  "count": 827,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -5480,6 +5480,13 @@
       "name": "trentclaw",
       "url": "https://clawskills.sh/skills/trent-ai-release-trentclaw",
       "description": "Finds chained attack paths across config, secrets, and permissions.",
+      "category": "Security & Passwords",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "thumbgate",
+      "url": "https://clawhub.ai/igorganapolsky/thumbgate",
+      "description": "Blocks known-bad agent tool calls before they run.",
       "category": "Security & Passwords",
       "source": "awesome-moltbot-skills"
     },

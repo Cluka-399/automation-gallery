@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**826 automations** from the Moltbot/OpenClaw ecosystem.
+**827 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -46,7 +46,7 @@ Ask your assistant:
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
 - [Search & Research](#search-research) (35)
-- [Security & Passwords](#security-passwords) (28)
+- [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
 - [Smart Home & IoT](#smart-home-iot) (28)
@@ -757,6 +757,7 @@ Ask your assistant:
 - **facebook** — OpenClaw skill for Facebook Graph API workflows focused on Pages posting,. [→](https://clawskills.sh/skills/codedao12-facebook)
 - **feelgoodbot** — Set up feelgoodbot file integrity monitoring for macOS. [→](https://clawskills.sh/skills/kris-hansen-feelgoodbot)
 - **skill-provenance** — Version tracking and integrity verification for skill bundles [→](https://clawskills.sh/skills/snapsynapse-skill-provenance)
+- **thumbgate** — Blocks known-bad agent tool calls before they run. [→](https://clawhub.ai/igorganapolsky/thumbgate)
 - **trentclaw** — Finds chained attack paths across config, secrets, and permissions. [→](https://clawskills.sh/skills/trent-ai-release-trentclaw)
 
 ## Self-Hosted & Automation
@@ -979,4 +980,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-10-02T12:09:31.006Z*
+*Generated: 2026-10-03T11:20:03.308Z*
