@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**827 automations** from the Moltbot/OpenClaw ecosystem.
+**830 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -38,14 +38,14 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (36)
-- [Marketing & Sales](#marketing-sales) (33)
+- [Marketing & Sales](#marketing-sales) (35)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (26)
 - [Notes & PKM](#notes-pkm) (29)
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (35)
+- [Search & Research](#search-research) (36)
 - [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (23)
@@ -496,7 +496,9 @@ Ask your assistant:
 - **brand-cog** — Other tools make logos. [→](https://clawskills.sh/skills/nitishgargiitd-brand-cog)
 - **brand-guidelines** — Applies Anthropic's official brand colors and typography. [→](https://clawskills.sh/skills/seanphan-brand-guidelines)
 - **brand-voice-profile** — Define and store your brand voice profile for consistent content generation. [→](https://clawskills.sh/skills/dimitripantzos-brand-voice-profile)
+- **breakreach** — Schedule and publish posts on 19 social networks. [→](https://clawhub.ai/samuelrondot/breakreach)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
+- **email-marketing-bible** — Data-backed email marketing: flows, deliverability, copy and ESP control. [→](https://clawhub.ai/cosmoblk/email-marketing-bible)
 - **lumail** — Manage email marketing campaigns via CLI. [→](https://clawhub.ai/melvynx/lumail)
 - **posteahora** — Schedule and publish social posts across every major network. [→](https://clawhub.ai/sashadiz/posteahora)
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
@@ -720,6 +722,7 @@ Ask your assistant:
 - **ai-review** — Reads content from URLs or files, classifies it, and generates structured summaries and comments in a specific. [→](https://clawskills.sh/skills/blackshady1130-jpg-ai-review)
 - **aihotel** — A Skill for searching hotels and querying prices via AIGoHotel MCP (searchHotels / getHotelDetail / getHotelSearchTags) [→](https://clawskills.sh/skills/qiao101660-aihotel)
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
+- **ask-human-expert** — Ask human experts for written or voice answers, or calls. [→](https://clawhub.ai/maxko87/ask-human-expert)
 - **glasser** — Search, price and run 1,000+ paid data APIs, one key. [→](https://clawhub.ai/glasser-ai/glasser)
 - **newsflash** — Corroborated real-time news briefings and alerts for agents. [→](https://clawhub.ai/zatmonkey/newsflash)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
@@ -980,4 +983,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-10-10T12:09:43.264Z*
+*Generated: 2026-10-11T12:23:36.234Z*

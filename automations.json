@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T12:09:43.264Z",
-  "count": 827,
+  "generated": "2026-10-11T12:23:36.234Z",
+  "count": 830,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1655,6 +1655,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "ask-human-expert",
+      "url": "https://clawhub.ai/maxko87/ask-human-expert",
+      "description": "Ask human experts for written or voice answers, or calls.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "adhd-assistant",
       "url": "https://clawskills.sh/skills/thinktankmachine-adhd-assistant",
       "description": "ADHD-friendly life management assistant for OpenClaw.",
@@ -2246,6 +2253,20 @@
       "name": "upload-post",
       "url": "https://clawhub.ai/victorcavero14/upload-post",
       "description": "Publish and schedule social media posts through one API.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "breakreach",
+      "url": "https://clawhub.ai/samuelrondot/breakreach",
+      "description": "Schedule and publish posts on 19 social networks.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "email-marketing-bible",
+      "url": "https://clawhub.ai/cosmoblk/email-marketing-bible",
+      "description": "Data-backed email marketing: flows, deliverability, copy and ESP control.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
