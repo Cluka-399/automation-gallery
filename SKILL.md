@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**830 automations** from the Moltbot/OpenClaw ecosystem.
+**834 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -38,7 +38,7 @@ Ask your assistant:
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
 - [Image & Video Generation](#image-video-generation) (36)
-- [Marketing & Sales](#marketing-sales) (35)
+- [Marketing & Sales](#marketing-sales) (36)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (26)
 - [Notes & PKM](#notes-pkm) (29)
@@ -48,11 +48,11 @@ Ask your assistant:
 - [Search & Research](#search-research) (36)
 - [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
-- [Shopping & E-commerce](#shopping-e-commerce) (23)
+- [Shopping & E-commerce](#shopping-e-commerce) (24)
 - [Smart Home & IoT](#smart-home-iot) (28)
-- [Speech & Transcription](#speech-transcription) (26)
+- [Speech & Transcription](#speech-transcription) (27)
 - [Transportation](#transportation) (30)
-- [Web & Frontend Development](#web-frontend-development) (27)
+- [Web & Frontend Development](#web-frontend-development) (28)
 - [iOS & macOS Development](#ios-macos-development) (28)
 - [🔍 Search & Web Data](#search-web-data) (2)
 
@@ -499,6 +499,7 @@ Ask your assistant:
 - **breakreach** — Schedule and publish posts on 19 social networks. [→](https://clawhub.ai/samuelrondot/breakreach)
 - **brevo** — Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,. [→](https://clawskills.sh/skills/yujesyoga-brevo)
 - **email-marketing-bible** — Data-backed email marketing: flows, deliverability, copy and ESP control. [→](https://clawhub.ai/cosmoblk/email-marketing-bible)
+- **fuxux-openclaw-skill** — Schedule and publish social media posts to 12 platforms. [→](https://clawhub.ai/abogitoff/fuxux-openclaw-skill)
 - **lumail** — Manage email marketing campaigns via CLI. [→](https://clawhub.ai/melvynx/lumail)
 - **posteahora** — Schedule and publish social posts across every major network. [→](https://clawhub.ai/sashadiz/posteahora)
 - **postiz** — Schedule social media posts and threads across 28+ platforms. [→](https://clawskills.sh/skills/nevo-david-postiz)
@@ -821,6 +822,7 @@ Ask your assistant:
 - **csvtoexcel** — Convert CSV files to professionally formatted Excel workbooks with Chinese character support, automatic formatting. [→](https://clawskills.sh/skills/xuanguan2020-csvtoexcel)
 - **dupe** — Uses dupe.com APIs in order to find similar products for the product found in the input URL given by the user. [→](https://clawskills.sh/skills/crisanmm-dupe)
 - **eachlabs-product-visuals** — Generate e-commerce product photography and videos. [→](https://clawskills.sh/skills/eftalyurtseven-eachlabs-product-visuals)
+- **takeout-coupon** — Chinese food-delivery coupon codes for Meituan, Ele.me and JD. [→](https://clawhub.ai/moooai/takeout-coupon)
 
 ## Smart Home & IoT
 
@@ -865,6 +867,7 @@ Ask your assistant:
 - **audio-reply** — Generate audio replies using TTS. [→](https://clawskills.sh/skills/matrixy-audio-reply-skill)
 - **auto-whisper-safe** — RAM-safe voice transcription with auto-chunking — works on 16GB machines without crashes. [→](https://clawskills.sh/skills/neal-collab-auto-whisper-safe)
 - **brw-de-ai-ify** — Remove AI-generated jargon and restore human voice to text. [→](https://clawskills.sh/skills/brianrwagner-brw-de-ai-ify)
+- **bulktranscripts-youtube** — YouTube transcripts for single videos, whole channels and playlists. [→](https://clawhub.ai/pratie/bulktranscripts-youtube)
 - **chichi-speech** — A RESTful service for high-quality text-to-speech using Qwen3. [→](https://clawskills.sh/skills/hudeven-chichi-speech)
 - **clonev** — Clone any voice and generate speech using Coqui XTTS v2. [→](https://clawskills.sh/skills/instant-picture-clonev)
 - **critical-article-writer** — Generate draft articles, outlines. [→](https://clawskills.sh/skills/tomstools11-critical-article-writer)
@@ -944,6 +947,7 @@ Ask your assistant:
 - **agentic-browser-0-1-2** — Browser automation for AI agents via inference.sh. [→](https://clawskills.sh/skills/xyny89-agentic-browser-0-1-2)
 - **agentic-security-audit** — Audit codebases, infrastructure, AND agentic AI systems for security issues. [→](https://clawskills.sh/skills/kingrubic-agentic-security-audit)
 - **agentpay** — Buy things from real websites on behalf of your human. [→](https://clawskills.sh/skills/kar69-96-agentpay)
+- **website-generator** — Describe your business and B12 builds a polished, launch-ready website right from your agent. No code, no designer, no waiting. [→](https://clawhub.sh/clowreed/skills/website-generator)
 
 ## iOS & macOS Development
 
@@ -983,4 +987,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-10-18T10:38:56.410Z*
+*Generated: 2026-10-19T12:36:57.254Z*

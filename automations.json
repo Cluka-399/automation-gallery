@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T10:38:56.410Z",
-  "count": 830,
+  "generated": "2026-10-19T12:36:57.254Z",
+  "count": 834,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -783,6 +783,13 @@
       "name": "agentpay",
       "url": "https://clawskills.sh/skills/kar69-96-agentpay",
       "description": "Buy things from real websites on behalf of your human.",
+      "category": "Web & Frontend Development",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "website-generator",
+      "url": "https://clawhub.sh/clowreed/skills/website-generator",
+      "description": "Describe your business and B12 builds a polished, launch-ready website right from your agent. No code, no designer, no waiting.",
       "category": "Web & Frontend Development",
       "source": "awesome-moltbot-skills"
     },
@@ -2267,6 +2274,13 @@
       "name": "email-marketing-bible",
       "url": "https://clawhub.ai/cosmoblk/email-marketing-bible",
       "description": "Data-backed email marketing: flows, deliverability, copy and ESP control.",
+      "category": "Marketing & Sales",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "fuxux-openclaw-skill",
+      "url": "https://clawhub.ai/abogitoff/fuxux-openclaw-skill",
+      "description": "Schedule and publish social media posts to 12 platforms.",
       "category": "Marketing & Sales",
       "source": "awesome-moltbot-skills"
     },
@@ -4336,6 +4350,13 @@
       "source": "awesome-moltbot-skills"
     },
     {
+      "name": "bulktranscripts-youtube",
+      "url": "https://clawhub.ai/pratie/bulktranscripts-youtube",
+      "description": "YouTube transcripts for single videos, whole channels and playlists.",
+      "category": "Speech & Transcription",
+      "source": "awesome-moltbot-skills"
+    },
+    {
       "name": "anova-oven",
       "url": "https://clawskills.sh/skills/dodeja-anova-skill",
       "description": "Control Anova Precision Ovens and Precision Cookers (sous vide)",
@@ -4689,6 +4710,13 @@
       "name": "eachlabs-product-visuals",
       "url": "https://clawskills.sh/skills/eftalyurtseven-eachlabs-product-visuals",
       "description": "Generate e-commerce product photography and videos.",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "takeout-coupon",
+      "url": "https://clawhub.ai/moooai/takeout-coupon",
+      "description": "Chinese food-delivery coupon codes for Meituan, Ele.me and JD.",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },
