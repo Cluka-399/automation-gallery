@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T12:34:05.479Z",
-  "count": 834,
+  "generated": "2026-10-30T12:25:18.660Z",
+  "count": 838,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -398,6 +398,13 @@
       "name": "orca-replay",
       "url": "https://clawhub.ai/xizhuomengcontin/orca-replay",
       "description": "Replay and debug past coding-agent runs from their recordings.",
+      "category": "Coding Agents & IDEs",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "zambo",
+      "url": "https://clawhub.ai/zambodotdev/skills/zambo",
+      "description": "Give your AI hands: 120 MCP tools via one URL.",
       "category": "Coding Agents & IDEs",
       "source": "awesome-moltbot-skills"
     },
@@ -1203,6 +1210,20 @@
       "name": "openshorts",
       "url": "https://clawhub.ai/mutonby/openshorts",
       "description": "Turn long videos into vertical clips and publish them.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "ai-photo-restyler",
+      "url": "https://clawhub.ai/beatra-ai/ai-photo-restyler",
+      "description": "Restyle photos as anime, manga, or watercolor, keeping subjects recognizable.",
+      "category": "Image & Video Generation",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "viral-video-teardown-remake",
+      "url": "https://clawhub.ai/beatra-ai/viral-video-teardown-remake",
+      "description": "Break down a short video's beats, then remake it.",
       "category": "Image & Video Generation",
       "source": "awesome-moltbot-skills"
     },
@@ -4577,6 +4598,13 @@
       "name": "amazon-competitor-analyzer",
       "url": "https://clawskills.sh/skills/phheng-amazon-competitor-analyzer",
       "description": "Scrapes Amazon product data from ASINs.",
+      "category": "Shopping & E-commerce",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "amazon-keyword-research",
+      "url": "https://clawhub.ai/phheng/amazon-keyword-research",
+      "description": "Amazon long-tail keywords, competition and opportunity scoring.",
       "category": "Shopping & E-commerce",
       "source": "awesome-moltbot-skills"
     },

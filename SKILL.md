@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**834 automations** from the Moltbot/OpenClaw ecosystem.
+**838 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -30,14 +30,14 @@ Ask your assistant:
 - [CLI Utilities](#cli-utilities) (27)
 - [Calendar & Scheduling](#calendar-scheduling) (30)
 - [Clawdbot Tools](#clawdbot-tools) (25)
-- [Coding Agents & IDEs](#coding-agents-ides) (33)
+- [Coding Agents & IDEs](#coding-agents-ides) (34)
 - [Communication](#communication) (27)
 - [Data & Analytics](#data-analytics) (23)
 - [DevOps & Cloud](#devops-cloud) (23)
 - [Gaming](#gaming) (17)
 - [Git & GitHub](#git-github) (22)
 - [Health & Fitness](#health-fitness) (25)
-- [Image & Video Generation](#image-video-generation) (36)
+- [Image & Video Generation](#image-video-generation) (38)
 - [Marketing & Sales](#marketing-sales) (36)
 - [Media & Streaming](#media-streaming) (26)
 - [Moltbook](#moltbook) (26)
@@ -48,7 +48,7 @@ Ask your assistant:
 - [Search & Research](#search-research) (36)
 - [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
-- [Shopping & E-commerce](#shopping-e-commerce) (24)
+- [Shopping & E-commerce](#shopping-e-commerce) (25)
 - [Smart Home & IoT](#smart-home-iot) (28)
 - [Speech & Transcription](#speech-transcription) (27)
 - [Transportation](#transportation) (30)
@@ -274,6 +274,7 @@ Ask your assistant:
 - **skill-navigator** — Recommends the right installed local Agent Skill. [→](https://clawhub.ai/grubbylee/skills/skill-navigator)
 - **skywork-music-maker** — Create professional music with Mureka AI. [→](https://clawskills.sh/skills/gxcun17-skywork-music-maker)
 - **skywork-ppt** — Generate, imitate, and edit PowerPoint presentations with skywork. [→](https://clawskills.sh/skills/gxcun17-skywork-ppt)
+- **zambo** — Give your AI hands: 120 MCP tools via one URL. [→](https://clawhub.ai/zambodotdev/skills/zambo)
 
 ## Communication
 
@@ -444,6 +445,7 @@ Ask your assistant:
 - **ai-avatar-generation** — Generate AI avatars from photos or text descriptions using each::sense. [→](https://clawskills.sh/skills/eftalyurtseven-ai-avatar-generation)
 - **ai-headshot-generation** — Generate professional AI headshots from casual photos using each::sense AI. [→](https://clawskills.sh/skills/eftalyurtseven-ai-headshot-generation)
 - **ai-persona-engine** — Build emotionally intelligent AI personas for voice and chat roleplay using actor-direction prompts instead. [→](https://clawskills.sh/skills/brandonwadepackard-cell-ai-persona-engine)
+- **ai-photo-restyler** — Restyle photos as anime, manga, or watercolor, keeping subjects recognizable. [→](https://clawhub.ai/beatra-ai/ai-photo-restyler)
 - **ai-video-gen** — End-to-end AI video generation - create videos from text. [→](https://clawskills.sh/skills/rhanbourinajd-ai-video-gen)
 - **ai-video-remix** — AI-driven video remix from local library using ShotAI. [→](https://clawskills.sh/skills/abu-shotai-ai-video-remix)
 - **aikek** — Access AIKEK APIs for crypto/DeFi research and image generation. [→](https://clawskills.sh/skills/vvsotnikov-aikek)
@@ -468,6 +470,7 @@ Ask your assistant:
 - **riffkit** — Riff a winning TikTok into your own product video. [→](https://clawhub.ai/riffkit/riffkit)
 - **runapi-mcp** — 130+ AI models for image, video, music, audio, and LLM generation from 18 providers. 8 MCP tools with free catalog browsing. `npx @runapi.ai/mcp` [→](https://clawhub.ai/runapi-ai/runapi-mcp)
 - **skywork-design** — Generate and edit images via Skywork Image for posters, logos and more. [→](https://clawskills.sh/skills/gxcun17-skywork-design)
+- **viral-video-teardown-remake** — Break down a short video's beats, then remake it. [→](https://clawhub.ai/beatra-ai/viral-video-teardown-remake)
 
 ## Marketing & Sales
 
@@ -803,6 +806,7 @@ Ask your assistant:
 - **allstock-data** — Query A-share and US stock data via Tencent Finance API. [→](https://clawskills.sh/skills/hacksing-allstock-data)
 - **amadeus-hotels** — Search hotel prices and availability via Amadeus API. [→](https://clawskills.sh/skills/kesslerio-amadeus-hotels)
 - **amazon-competitor-analyzer** — Scrapes Amazon product data from ASINs. [→](https://clawskills.sh/skills/phheng-amazon-competitor-analyzer)
+- **amazon-keyword-research** — Amazon long-tail keywords, competition and opportunity scoring. [→](https://clawhub.ai/phheng/amazon-keyword-research)
 - **amazon-orders** — Download and query your Amazon order history via an unofficial Python API and CLI. [→](https://clawskills.sh/skills/pfernandez98-amazon-orders)
 - **anylist** — Manage grocery and shopping lists via AnyList. [→](https://clawskills.sh/skills/mjrussell-anylist)
 - **atoship** — Ship packages with AI — compare rates across USPS, FedEx, and UPS, buy discounted labels, track shipments. [→](https://clawskills.sh/skills/atoship-dev-atoship)
@@ -987,4 +991,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-10-29T12:34:05.479Z*
+*Generated: 2026-10-30T12:25:18.659Z*
