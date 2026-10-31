@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-30T12:25:18.660Z",
-  "count": 838,
+  "generated": "2026-10-31T11:55:08.164Z",
+  "count": 839,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -1686,6 +1686,13 @@
       "name": "ask-human-expert",
       "url": "https://clawhub.ai/maxko87/ask-human-expert",
       "description": "Ask human experts for written or voice answers, or calls.",
+      "category": "Search & Research",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "keenable-web-search",
+      "url": "https://clawhub.ai/keenable/keenable-web-search",
+      "description": "Keyless web search for research, news and docs via Keenable.",
       "category": "Search & Research",
       "source": "awesome-moltbot-skills"
     },

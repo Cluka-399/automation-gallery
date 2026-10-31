@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**838 automations** from the Moltbot/OpenClaw ecosystem.
+**839 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -45,7 +45,7 @@ Ask your assistant:
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
 - [Productivity & Tasks](#productivity-tasks) (29)
-- [Search & Research](#search-research) (36)
+- [Search & Research](#search-research) (37)
 - [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
 - [Shopping & E-commerce](#shopping-e-commerce) (25)
@@ -728,6 +728,7 @@ Ask your assistant:
 - **airbnb** — Search Airbnb listings with prices, ratings, and direct links. [→](https://clawskills.sh/skills/stveenli-airbnb)
 - **ask-human-expert** — Ask human experts for written or voice answers, or calls. [→](https://clawhub.ai/maxko87/ask-human-expert)
 - **glasser** — Search, price and run 1,000+ paid data APIs, one key. [→](https://clawhub.ai/glasser-ai/glasser)
+- **keenable-web-search** — Keyless web search for research, news and docs via Keenable. [→](https://clawhub.ai/keenable/keenable-web-search)
 - **newsflash** — Corroborated real-time news briefings and alerts for agents. [→](https://clawhub.ai/zatmonkey/newsflash)
 - **openclaw-free-web-search** — Free, private web search for OpenClaw with self-hosted SearXNG + Scrapling anti-bot + multi-source cross-validation. Zero API keys, zero cost. Tells you how much to trust the answer. [→](https://clawskills.sh/skills/wd041216-bit-openclaw-free-web-search)
 - **openclaw-search-skills** — Multi-source deep search with structured research reports. [→](https://clawhub.ai/blessonism/skills/openclaw-search-skills)
@@ -991,4 +992,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-10-30T12:25:18.659Z*
+*Generated: 2026-10-31T11:55:08.164Z*
