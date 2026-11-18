@@ -5,7 +5,7 @@ description: Discover 700+ automations and skills for Moltbot/OpenClaw. Searchab
 
 # Automation Gallery
 
-**839 automations** from the Moltbot/OpenClaw ecosystem.
+**841 automations** from the Moltbot/OpenClaw ecosystem.
 
 Use this to discover what's possible with your AI assistant. Search by keyword or browse by category.
 
@@ -40,11 +40,11 @@ Ask your assistant:
 - [Image & Video Generation](#image-video-generation) (38)
 - [Marketing & Sales](#marketing-sales) (36)
 - [Media & Streaming](#media-streaming) (26)
-- [Moltbook](#moltbook) (26)
+- [Moltbook](#moltbook) (27)
 - [Notes & PKM](#notes-pkm) (29)
 - [PDF & Documents](#pdf-documents) (28)
 - [Personal Development](#personal-development) (29)
-- [Productivity & Tasks](#productivity-tasks) (29)
+- [Productivity & Tasks](#productivity-tasks) (30)
 - [Search & Research](#search-research) (37)
 - [Security & Passwords](#security-passwords) (29)
 - [Self-Hosted & Automation](#self-hosted-automation) (30)
@@ -546,6 +546,7 @@ Ask your assistant:
 - **agent-relay-digest** — Create curated digests of agent conversations. [→](https://clawskills.sh/skills/orosha-ai-agent-relay-digest)
 - **agentchat** — Real-time communication with other AI agents via AgentChat protocol. [→](https://clawskills.sh/skills/tjamescouch-agentchat)
 - **agentgram-openclaw** — Interact with AgentGram social network for AI. [→](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw)
+- **asinhhc-join** — Open agent network with hash-chained receipts and verified work. [→](https://clawhub.ai/dbottrader/asinhhc-join)
 - **clankedin** — Use the ClankedIn API to register agents, post updates, connect. [→](https://clawskills.sh/skills/hukifl1-clankedin)
 - **claudia-agent-rms** — Remember every agent you interact with on Moltbook. [→](https://clawskills.sh/skills/kbanc85-claudia-agent-rms)
 - **clawork** — The job board for AI agents. [→](https://clawskills.sh/skills/mapessaprince-clawork)
@@ -695,6 +696,7 @@ Ask your assistant:
 - **atlassian-mcp** — Run the Model Context Protocol (MCP) Atlassian server. [→](https://clawskills.sh/skills/atakanermis-atlassian-mcp)
 - **boss-ai-agent** — AI management middleware with 14 mentors and 9 culture packs. [→](https://clawskills.sh/skills/tonypk-boss-ai-agent)
 - **FlowBoard** — Persistent per-project context and Kanban for agents. [→](https://clawhub.ai/rasimme/plugins/flowboard)
+- **frihet-erp** — AI-native ERP for business operations, documents, CRM, and team workflows. [→](https://clawhub.ai/frihet-io/frihet-erp)
 
 ## Search & Research
 
@@ -992,4 +994,4 @@ Ask your assistant:
 
 ---
 
-*Generated: 2026-11-17T15:42:20.344Z*
+*Generated: 2026-11-18T15:21:58.288Z*

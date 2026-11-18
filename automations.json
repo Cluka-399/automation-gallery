@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T15:42:20.345Z",
-  "count": 839,
+  "generated": "2026-11-18T15:21:58.288Z",
+  "count": 841,
   "skills": [
     {
       "name": "Snyk Skill Security Scanner",
@@ -2512,6 +2512,13 @@
       "name": "FlowBoard",
       "url": "https://clawhub.ai/rasimme/plugins/flowboard",
       "description": "Persistent per-project context and Kanban for agents.",
+      "category": "Productivity & Tasks",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "frihet-erp",
+      "url": "https://clawhub.ai/frihet-io/frihet-erp",
+      "description": "AI-native ERP for business operations, documents, CRM, and team workflows.",
       "category": "Productivity & Tasks",
       "source": "awesome-moltbot-skills"
     },
@@ -5753,6 +5760,13 @@
       "name": "moltbot-ha",
       "url": "https://clawskills.sh/skills/iamvaleriofantozzi-moltbot-ha",
       "description": "Control Home Assistant smart home devices, lights, scenes.",
+      "category": "Moltbook",
+      "source": "awesome-moltbot-skills"
+    },
+    {
+      "name": "asinhhc-join",
+      "url": "https://clawhub.ai/dbottrader/asinhhc-join",
+      "description": "Open agent network with hash-chained receipts and verified work.",
       "category": "Moltbook",
       "source": "awesome-moltbot-skills"
     },
